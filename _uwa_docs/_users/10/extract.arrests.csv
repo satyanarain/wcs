@@ -1,0 +1,242 @@
+rec,UWA Arrest ID,POLICE Case ID,Arresting officer,Date,Station,Outpost name,Location name,Detection,Crime type
+
+140,QECA-QENP-17-2014-09-11-,crb 169/2014 katwe,Olelo Alfred/ Kayaya Ronard,06/09-2014,QECA-QENP,Kabirizi,Crators,Routine patrol by rangers,Illegal grazing
+141,QECA-QENP-17-2014-09-11-,CRB169/2014,Olelo Alfred/ Kayaya Ronard,06/09-2014,QECA-QENP,,,,
+145,QECA-QENP-19-2014-09-12-,CRB 170/2014 Katwe Polic,Offiti And Fana,08/09-2014,QECA-QENP,Nyamugasani,Rwehingo,Routine patrol by rangers,Illegal grazing
+146,QECA-QENP-19-2014-09-12-,CRB 171/2014.L.Katwe,Kasighalire,09/09-2014,QECA-QENP,Kyanzaza,Kafuro,Routine patrol by rangers,Illegal harvesting
+147,QECA-QENP-19-2014-09-12-,CRB 1692014 Katwe Polic,Olero And Kayaya,06/09-2014,QECA-QENP,Kabirizi,Crators,Routine patrol by rangers,Hunting for meat
+148,MFCA-MFNP-50-2014-09-12-,nyw/728/14,Uhuru Jimmy,06/09-2014,MFCA-MFNP,,Pacabu,Routine patrol by rangers,Illegal entry
+149,QECA-QENP-19-2014-09-12-,CRB 168/2014.L.Katwe,"Mugisha,tumye",03/09-2014,QECA-QENP,Katojo,Kayanja,Routine patrol by rangers,Illegal entry
+150,QECA-QENP-19-2014-09-12-,CRB 168/2014 Katwe Polic,"Mugisha,tumye",03/09-2014,QECA-QENP,Katojo,Kayanja,Routine patrol by rangers,Illegal entry
+151,QECA-QENP-19-2014-09-12-,CRB 168/2014.L.Katwe,"Mugisha,tumye",03/09-2014,QECA-QENP,Katojo,Kayanja,Routine patrol by rangers,Illegal entry
+164,QECA-QENP-19-2014-09-16-,CRB 174/2014,Offiti And Fana,13/09-2014,QECA-QENP,Nyamugasani,Bwanika,Routine patrol by rangers,Hunting for meat
+165,QECA-QENP-19-2014-09-16-,CRB 174/2014 L.KATWE POL,"Kato, Godfrey",13/09-2014,QECA-QENP,Katunguru Headquators,Kidodo,Routine patrol by rangers,Illegal harvesting
+166,QECA-QENP-17-2014-09-16-,CRB 174/2014,Twinobusingye Godfrey,13/09-2014,QECA-QENP,Katunguru Headquators,,,
+168,QECA-QENP-17-2014-09-16-,CRB 174/2014,Twinobusingye Godfrey,13/09-2014,QECA-QENP,Katunguru Headquators,Kidodo,Routine patrol by rangers,Illegal harvesting
+170,QECA-QENP-17-2014-09-17-,CRB 173/2014,Olama Nelson,12/09-2014,QECA-QENP,Rukoma,Nyamirima Village,Observed during non-duty activities,Illegal possesion
+178,MFCA-MFNP-50-2014-09-21-,,Odong Sam,16/09-2014,MFCA-MFNP,Masindi,Kyampisi Ranch,,
+184,QECA-QENP-19-2014-09-23-,CRB 176/2014 L.KATWE,Kibonge/kayondo,16/09-2014,QECA-QENP,Katunguru Head Quarters,Kazinga,Routine patrol by rangers,Illegal harvesting
+185,QECA-QENP-19-2014-09-23-,CRB 176/2014.L.Katwe,Kibonge/kayondo,16/09-2014,QECA-QENP,Katunguru Head Quarters,Kazinga,Routine patrol by rangers,Illegal harvesting
+186,QECA-QENP-19-2014-09-23-,CRB 176/2014.L.Katwe,Kibonge/kayondo,16/09-2014,QECA-QENP,Katunguru Head Quarters,Kazinga,Routine patrol by rangers,Illegal harvesting
+187,QECA-QENP-19-2014-09-23-,CRB 177/2014,Ngene/tushabe,11/09-2014,QECA-QENP,Nyamusingiri,Nyamusingiri,Routine patrol by rangers,Illegal fishing
+188,QECA-QENP-19-2014-09-25-,CRB 170/2014,Fana/offiti,08/09-2014,QECA-QENP,Nyamugasani,Rwehingo,Routine patrol by rangers,Illegal grazing
+197,QECA-QENP-17-2014-09-29-,CRB 181/2014,Anyama Robert/ Mugisha Anthony,25/09-2014,QECA-QENP,Katojo,Kayanja,Routine patrol by rangers,Illegal possesion
+198,MFCA-MFNP-50-2014-09-30-,,Odongo Sam,16/09-2014,MFCA-MFNP,Masindi Office,Kyampisi Ranch,Routine security check,Hunting for meat
+199,MFCA-MFNP-50-2014-09-30-,bul 415,Lawoko Francis,25/09-2014,MFCA-MFNP,Bugungu Gate,Bugungu Gate Area,Routine patrol by rangers,Illegal entry
+200,MFCA-MFNP-50-2014-09-30-,Bl crb 415,Lawoko Francis,25/09-2014,MFCA-MFNP,Bugungu Gate,Bugungu Gate Area,Routine patrol by rangers,Illegal entry
+201,QECA-QENP-17-2014-09-30-,CRB 178/2014,Muhindo Franco,16/09-2014,QECA-QENP,Kabatoro Gate,Katako,Routine patrol by rangers,Illegal possesion
+202,QECA-QENP-17-2014-09-30-,CRB 178/2014,Muhindo Franco,16/09-2014,QECA-QENP,Kabatoro Gate,Katako,Routine patrol by rangers,Illegal fishing
+203,QECA-QENP-17-2014-10-01-,CRB 178/2014,Muhindo Franco,16/09-2014,QECA-QENP,Kabatoro Gate,Katako,Routine patrol by rangers,Illegal fishing
+208,MFCA-MFNP-50-2014-10-02-,CRB BL416,Jakweyo Fred,25/10-2014,MFCA-MFNP,Mubako Hq,,,
+209,MFCA-MFNP-50-2014-10-02-,CRB BL416,Jakweyo Fred,25/09-2014,MFCA-MFNP,Mubako Hq,Kabada,Routine patrol by rangers,Illegal entry
+210,MFCA-MFNP-50-2014-10-02-,,Ojuvule Gift,11/09-2014,MFCA-MFNP,Latoro,Lugaya,Routine patrol by rangers,Hunting for meat
+213,MFCA-MFNP-50-2014-10-02-,,Ojuvule Gift,11/09-2014,MFCA-MFNP,Latoro,Lugaya,Routine patrol by rangers,Hunting for meat
+216,MFCA-MFNP-50-2014-10-10-,BL/447/2014,Ginyanya Sam,03/10-2014,MFCA-MFNP,Bugungu Reserve Hq,Bubwe River,Routine patrol by rangers,Illegal entry
+217,MFCA-MFNP-50-2014-10-10-,BL CRB 447/2014,Ginyanya Sam,03/10-2014,MFCA-BWR,Bugungu Reserve Hq,Bubwe River,Routine patrol by rangers,Illegal entry
+1420,KCA-KNP-10-2015-03-24-1,CRB 454 (KAMWENGE),Sgt. Kato Moses,22/03-2015,KCA-KNP,Isunga,Rwenswa,Routine patrol by rangers,Illegal harvesting
+1421,KCA-KNP-10-2015-03-24-2,CRB 1037/2014,Cpl. Amanyire Wilson,27/10-2014,KCA-KNP,Isunga,Butunduzi,House visit based on intelligence,Illegal possesion
+1422,KCA-KNP-10-2015-03-24-3,CRB 319/2014,Bakecura Peter,09/10-2014,KCA-KNP,Isunga,Kiziba,Ambush patrol based on intelligence,Illegal grazing
+1424,KCA-KNP-10-2015-03-25-1,CRB 349/2015,Erongu Yona,24/03-2015,KCA,Kikorogoto,Kisororo,Ambush patrol based on intelligence,Illegal entry
+1425,KCA-KNP-10-2015-03-27-1,CRB 351/2015,Africa Moses,23/03-2015,KCA,Kikorogoto,Kinoni,House visit based on intelligence,Illegal possesion
+1426,KCA-KNP-10-2015-03-27-2,N/A,Bakecura Peter,11/11-2014,KCA-KNP,Isunga,Kiziba,Ambush patrol based on intelligence,Illegal grazing
+1428,KCA-KNP-10-2015-04-01-1,CRB 309/2015,Africa Moses,17/03-2015,KCA,Kikorogoto,Kwr,Routine patrol by rangers,Illegal grazing
+1429,KCA-KNP-10-2015-04-01-2,CRB 349/2015,Africa Moses,24/03-2015,KCA,Kikorogoto,Byabasita,Routine patrol by rangers,Hunting for meat
+1430,KCA-KNP-10-2015-04-01-3,CRB 351/2015,Africa Moses,24/03-2015,KCA,Kikorogoto,Kinoni Village,House visit based on intelligence,Illegal possesion
+1434,QECA-QENP-17-2015-04-29-,CRB 005/2025,Kirunda James,03/04-2015,QECA-QENP,Kararo,Kararo,House visit based on intelligence,Hunting for meat
+1435,QECA-QENP-17-2015-04-30-,CRB 004/2015,Kobwemi W & Magara J,02/04-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1436,QECA-QENP-17-2015-04-30-,CRB 004/2015,Kobwemi W & Magara J,02/01-2015,QECA-QENP,Katunguru,Katunguru,Routine patrol by rangers,Illegal harvesting
+1437,QECA-QENP-17-2015-04-30-,CRB 004/2015,Kobwemi W & Magara J,02/01-2015,QECA-QENP,Katunguru,Katunguru,Routine patrol by rangers,Illegal harvesting
+1438,QECA-QENP-17-2015-04-30-,CRB 007/2015,Ali Bin Said & Mpeirwe Stephen,03/01-2015,QECA-QENP,Kashaka,Kashaka,Routine patrol by rangers,Illegal fishing
+1439,QECA-QENP-17-2015-05-01-,CRB 010/2015,Kisembo J And Lubwama D,13/01-2015,QECA-QENP,Katunguru,Hamukungu,Routine security check,Illegal grazing
+1440,QECA-QENP-17-2015-05-01-,CRB 010/2015,Kisembo J And Lubwama D,13/01-2015,QECA-QENP,Katunguru,Hamukungu,Routine security check,Illegal grazing
+1441,QECA-QENP-17-2015-05-01-,CRB 016/2014,Olelo Alfred & Owango Julius,18/01-2015,QECA-QENP,Kabirizi,Kempara,Routine patrol by rangers,Hunting for meat
+1442,QECA-QENP-17-2015-05-01-,CRB 017/2015,Kato Robinson & Amuriat M,21/01-2015,QECA-QENP,Katunguru,River Mpanga,Routine patrol by rangers,Illegal fishing
+1443,QECA-QENP-17-2015-05-01-,CRB 017/2015,Kato Robinson & Amuriat M,21/01-2015,QECA-QENP,Katunguru,River Mpanga,Routine patrol by rangers,Illegal fishing
+1444,QECA-QENP-17-2015-05-02-,CRB 014/2015,Musinguzi Josephat & Hussein,16/01-2015,QECA-QENP,Kiyanga,Rutobo,Routine patrol by rangers,Illegal fishing
+1445,QECA-QENP-17-2015-05-02-,CRB 014/2015,Musinguzi Josephat & Hussein,16/01-2015,QECA-QENP,Kiyanga,Rutobo,Routine patrol by rangers,Illegal entry
+1446,QECA-QENP-17-2015-05-02-,CRB 022/2015,Bwambale E &mpeirwe S,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1447,QECA-QENP-17-2015-05-02-,CRB 022/2015,Bwambale E &mpeirwe S,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1448,QECA-QENP-17-2015-05-02-,CRB 022/2015,Musinguzi Josephat & Hussein,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1449,QECA-QENP-17-2015-05-02-,CRB 022/2015,Bwambale E &mpeirwe S,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1450,QECA-QENP-17-2015-05-02-,CRB 022/2015,Musinguzi Josephat & Hussein,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1451,QECA-QENP-17-2015-05-02-,CRB 022/2015,Bwambale E &mpeirwe S,04/02-2015,QECA-QENP,Katunguru,Kararo,Routine patrol by rangers,Illegal fishing
+1452,QECA-QENP-17-2015-05-03-,CRB 021/2015,Tumwesigye & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1453,QECA-QENP-17-2015-05-05-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1454,QECA-QENP-17-2015-05-05-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1455,QECA-QENP-17-2015-05-05-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1456,QECA-QENP-17-2015-05-05-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1457,QECA-QENP-17-2015-05-05-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1458,QECA-QENP-17-2015-05-06-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1459,QECA-QENP-17-2015-05-06-,CRB 021/2015,Tumwesigye R & Kobwemi W,03/02-2015,QECA-QENP,Katunguru,Kanyangeya,Routine patrol by rangers,Illegal harvesting
+1460,QECA-QENP-17-2015-05-06-,CRB 024/2015,Ahebwa Richard & Alfred,08/02-2015,QECA-QENP,Kanyampara,Kanyampara,Routine patrol by rangers,Illegal possesion
+1461,QECA-QENP-17-2015-05-06-,CRB 025/2015,Kato Robnison,02/02-2015,QECA-QENP,Katunguru,Swazi,Routine security check,Illegal possesion
+1462,QECA-QENP-17-2015-05-07-,CRB 040?2015,Olelo Alfred & Owango Julius,22/02-2015,QECA-QENP,Kabirizi,Kimaramu,Routine patrol by rangers,Illegal possesion
+1463,QECA-QENP-17-2015-05-07-,CRB 040/2015,Olelo Alfred & Owango Julius,22/02-2015,QECA-QENP,Kabirizi,Kimaramu,Routine patrol by rangers,Illegal entry
+1464,QECA-QENP-17-2015-05-07-,CRB 028/2015,Amuriat M & Sikuku S,15/02-2015,QECA-QENP,Kahendero,Lake George,Routine patrol by rangers,Hunting for meat
+1465,QECA-QENP-17-2015-05-07-,CRB 028/2015,Amuriat M & Sikuku S,15/02-2015,QECA-QENP,Kabirizi,Kimaramu,Routine patrol by rangers,Hunting for meat
+1466,QECA-QENP-17-2015-05-07-,CRB 042/2015,Baingana A & Magara J,02/03-2015,QECA-QENP,Katunguru,Maramagambo,Routine patrol by rangers,Illegal fishing
+1467,QECA-QENP-17-2015-05-07-,CRB 042/2015,Baingana A & Magara J,02/03-2015,QECA-QENP,Katunguru,Maramagambo,Routine patrol by rangers,Illegal fishing
+1468,QECA-QENP-17-2015-05-07-,CRB 042/2015,Baingana A & Magara J,02/03-2015,QECA-QENP,Katunguru,Maramagambo,Routine patrol by rangers,Illegal fishing
+1469,QECA-QENP-17-2015-05-08-,CRB 047/2015,Twinobusingye Godfrey,04/03-2015,QECA-QENP,Kanyangeya,Kanyangeya,Routine patrol by rangers,Illegal possesion
+1470,QECA-QENP-17-2015-05-08-,CRB 047/2015,Twinobusingye Godfrey & Owinja,04/03-2015,QECA-QENP,Kanyangeya,Kanyangeya,Routine patrol by rangers,Illegal possesion
+1471,QECA-QENP-17-2015-05-08-,CRB 050/2015,Okuonz Joseph,07/03-2015,QECA-QENP,Katunguru,Kabukwiri,Routine security check,Illegal possesion
+1472,QECA-QENP-17-2015-05-08-,CRB 048/2015,Amuriat Micheal,06/03-2015,QECA-QENP,Kahendero,Hamukungu,Routine patrol by rangers,Illegal fishing
+1473,QECA-QENP-17-2015-05-08-,CRB 049/2015,Okuonz Joseph & Kato R,06/03-2015,QECA-QENP,Katunguru,Bwanika,Routine security check,Hunting for meat
+1474,QECA-QENP-17-2015-05-08-,CRB 049/2015,Okuonz Joseph & Kato R,06/03-2015,QECA-QENP,Katunguru,Bwanika,Routine security check,Hunting for meat
+1475,QECA-QENP-17-2015-05-08-,CRB 054/2015,Kisembo J & Kibonge Alex,09/03-2015,QECA-QENP,Katunguru,Kitoma,Routine security check,Illegal possesion
+1476,QECA-QENP-17-2015-05-08-,CRB 054/2015,Kisembo J & Kibonge Alex,09/03-2015,QECA-QENP,Katunguru,Kitoma,Routine security check,Illegal possesion
+1477,QECA-QENP-17-2015-05-11-,CRB 053/2015,Masereka S & Bwambale F,08/03-2015,QECA-QENP,Nyamugasani,Nyamugasani,Routine patrol by rangers,Illegal grazing
+1478,QECA-QENP-17-2015-05-11-,NPW,Achoroi P &alidria Bazil,09/02-2015,QECA-QENP,Katunguru,Katwe,Routine security check,Illegal fishing
+1479,QECA-QENP-17-2015-05-11-,NPW,Masereka S & Bwambale F,09/03-2015,QECA-QENP,Nyamugasani,Nyamugasani,Routine security check,Illegal fishing
+1480,QECA-QENP-17-2015-05-11-,CRB 060/2015,Nsaba Doe & Kibonge Alex,11/03-2015,QECA-QENP,Katunguru,Imaramambo Forest,Routine patrol by rangers,Illegal fishing
+1481,QECA-QENP-17-2015-05-11-,CRB 060/2015,Nsaba Doe & Kibonge Alex,11/03-2015,QECA-QENP,Katunguru,Imaramambo Forest,Routine patrol by rangers,Illegal grazing
+1482,QECA-QENP-17-2015-05-11-,CRB 058/2015,Olero Alfred & Owango Julius,14/03-2015,QECA-QENP,Kabirizi,Kimaramu,Routine patrol by rangers,Hunting for meat
+1483,QECA-QENP-17-2015-05-11-,CRB 057/2015,Kibonge Alex & Nsaba Doe,12/03-2015,QECA-QENP,Katunguru,Swazi,Routine patrol by rangers,Illegal harvesting
+1484,QECA-QENP-17-2015-05-11-,CRB 057/2015,Kibonge Alex & Nsaba Doe,12/03-2015,QECA-QENP,Katunguru,Swazi,Routine patrol by rangers,Illegal harvesting
+1485,QECA-QENP-17-2015-05-11-,CRB 059/2015,Masereka J & Kato Robnison,13/03-2015,QECA-QENP,Katunguru,Dura,Routine security check,Illegal harvesting
+1486,QECA-QENP-17-2015-05-11-,CRB 060/2015,Twinobusingye G & Owinja F,15/03-2015,QECA-QENP,Kanyangeya,Kanyangeya,Routine patrol by rangers,Hunting for meat
+1487,QECA-QENP-17-2015-05-12-,CRB 061/2015,Kobwemi W & Kisembo J,16/03-2015,QECA-QENP,Katunguru,Kafuro,Routine patrol by rangers,Illegal harvesting
+1488,QECA-QENP-17-2015-05-12-,CRB 061/2015,Kobwemi W & Kisembo J,16/03-2015,QECA-QENP,Katunguru,Kafuro,Routine patrol by rangers,Illegal harvesting
+1489,QECA-QENP-17-2015-05-12-,CRB 061/2015,Kobwemi W & Kisembo J,16/03-2015,QECA-QENP,Katunguru,Kafuro,Routine patrol by rangers,Illegal harvesting
+1490,QECA-QENP-17-2015-05-12-,CRB 062/2015,Amuriat M & Bwambale A,16/03-2015,QECA-QENP,Kahendero,Muhokya,Routine patrol by rangers,Illegal harvesting
+1491,QECA-QENP-17-2015-05-12-,CRB 068/2015,Tumwesigye J  & Biira J,18/03-2015,QECA-QENP,Kyondo,Karusandara,Routine security check,Illegal possesion
+1492,QECA-QENP-17-2015-05-12-,CRB 069/2015,Juma Gadaffi & Kaketo R,18/03-2015,QECA-QENP,Katunguru,Lions Bay,Routine patrol by rangers,Hunting for meat
+1493,QECA-QENP-17-2015-05-12-,CRB 070/2015,Kisembo J & Kato R,20/03-2015,QECA-QENP,Katunguru,Kempara,Routine security check,Hunting for meat
+1494,QECA-QENP-17-2015-05-12-,CRB 070/2015,Kisembo J & Kato R,20/03-2015,QECA-QENP,Katunguru,Kempara,Routine security check,Hunting for meat
+1495,QECA-QENP-17-2015-05-12-,CRB 070/2015,Kisembo J & Kato R,20/03-2015,QECA-QENP,Katunguru,Kempara,Routine patrol by rangers,Hunting for meat
+1496,QECA-QENP-17-2015-05-12-,CRB 070/2015,Kisembo J & Kato R,20/03-2015,QECA-QENP,Katunguru,Kempara,Routine patrol by rangers,Hunting for meat
+1497,BMCA-BINP-27-2015-05-16-,CRB 3/56/2014,Pc Turyahebwa Bernard,08/11-2014,BMCA-BINP,Rushaga,Kagogo,House visit based on intelligence,Hunting for meat
+1498,KCA-KNP-10-2015-05-16-1,CRB 573/2015,Kato Moses,10/04-2015,KCA-KNP,Isunga,Nyamiribiko,Ambush patrol based on intelligence,Illegal entry
+1499,MFCA-MFNP-50-2015-05-22-,,Lwoko Francis,20/05-2015,MFCA-MFNP,Bugungu Gate,Te-mukeko,Routine patrol by rangers,Hunting for meat
+1500,MFCA-MFNP-50-2015-05-22-,,Mugisha O Mbabazi,20/05-2015,MFCA-MFNP,Mubako,Osusa/kabada,House visit based on intelligence,Illegal fishing
+1501,MFCA-MFNP-50-2015-05-22-,,Mugisha O Mbabazi,20/05-2015,MFCA-MFNP,Mubako,Osusa/kabada,Ambush patrol based on intelligence,Illegal grazing
+1551,MFCA-MFNP-50-2015-06-22-,,Jakweyo Fred,06/06-2015,MFCA-MFNP,Mubako,Mubako,Ambush patrol based on intelligence,Illegal fishing
+1502,MFCA-MFNP-50-2015-05-22-,,Tukei Tobias,20/05-2015,MFCA-MFNP,Paraa North,Osusa/kabada,Ambush patrol based on intelligence,Illegal fishing
+1503,MFCA-MFNP-50-2015-05-22-,,Tukei Tobias,20/05-2015,MFCA-MFNP,Paraa North,Osusa/kabada,Ambush patrol based on intelligence,Illegal fishing
+1504,QECA-QENP-21-2015-05-25-,CRB 117/2015,L/cpl Twinomujuni Francis,17/05-2015,QECA-QENP,Kanyampara,Nyamugashanu,Routine patrol by rangers,Illegal grazing
+1505,QECA-QENP-21-2015-05-25-,CRB 115/2015,Kobwemi Willington,16/05-2015,QECA-QENP,Katunguru,Kirembe Ii Ward,Routine patrol by rangers,Illegal possesion
+1508,QECA-QENP-21-2015-05-26-,CRB124/2015,Tumwesigye James,20/05-2015,QECA-QENP,Katunguru,Qenpa,Routine patrol by rangers,Illegal grazing
+1509,QECA-QENP-21-2015-05-26-,CRB 123/15,Babiha Lawerance,19/05-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1510,QECA-QENP-21-2015-05-26-,CRB 123/15,Babiha Lawerance,19/05-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1511,QECA-QENP-21-2015-05-26-,103/2015,Masereka Saleveri,02/05-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1513,QECA-QENP-21-2015-05-26-,CRB104/2015,Bob Benard,29/04-2015,QECA-QENP,Katojo,Qenp,Routine patrol by rangers,Hunting for meat
+1514,MFCA-MFNP-50-2015-05-27-,NYA 0490/2015,Ojovule Gift,23/05-2015,MFCA-MFNP,Latoro,Laora,Routine patrol by rangers,Hunting for meat
+1515,QECA-QENP-21-2015-05-27-,106/2015,Bwambale .e &nsaba Deo,27/04-2015,QECA-QENP,Katunguru,Qenp,Routine patrol by rangers,Illegal grazing
+1516,MFCA-MFNP-50-2015-05-27-,0496/2015,Uhuru Jimmy,24/05-2015,MFCA-MFNP,Got Apwoyo,Jai Area,Ambush patrol based on intelligence,Hunting for meat
+1517,MFCA-MFNP-50-2015-05-27-,0496/2015,Uhuru Jimmy,24/05-2015,MFCA-MFNP,Got Apwoyo,Jai Area,Ambush patrol based on intelligence,Hunting for meat
+1519,QECA-QENP-21-2015-05-28-,CRB 074/2015,Twinobusigye Godfrey,23/03-2015,QECA-QENP,Kanyageya,Qenp,Routine patrol by rangers,Illegal entry
+1522,QECA-QENP-21-2015-05-29-,CRB 077/2015,Kirunda James,27/03-2015,QECA-QENP,Kararo,Qenp,Routine patrol by rangers,Illegal possesion
+1523,QECA-QENP-21-2015-05-29-,CRB 077/2015,Kirunda James,27/03-2015,QECA-QENP,Kararo,Qenp,Routine patrol by rangers,Illegal possesion
+1524,QECA-QENP-21-2015-05-29-,CRB084/2015,Kato Robinson,08/04-2015,QECA-QENP,Katunguru,Qenp,Routine patrol by rangers,Illegal grazing
+1525,QECA-QENP-21-2015-05-29-,094/2015,Wafula Agrey And Bikongolyo,16/04-2015,QECA-QENP,Nyamusingiri,Qenp,Routine patrol by rangers,Illegal fishing
+1526,QECA-QENP-21-2015-05-29-,98/2015,Turyomwe Daniel,23/04-2015,QECA-QENP,Nyamusingiri,Qenp,Routine patrol by rangers,Illegal fishing
+1527,QECA-QENP-21-2015-05-30-,CRB 075/2015,Twinibusigye Hannington,23/03-2015,QECA-QENP,Kanyampara,Qenp,Routine patrol by rangers,Illegal grazing
+1529,QECA-QENP-21-2015-06-02-,CRB 99/2015,Twinibusigye G And Muhindo F,24/04-2015,QECA-QENP,Kanyampara,Qenp,Routine patrol by rangers,Illegal grazing
+1530,QECA-QENP-21-2015-06-02-,CRD-105/15,Magara John,30/04-2015,QECA-QENP,Kahendero,Qenp,Routine patrol by rangers,Hunting for meat
+1531,QECA-QENP-21-2015-06-02-,CRD-105/15,Magara John,30/04-2015,QECA-QENP,Kahendero,Qenp,Routine patrol by rangers,Hunting for meat
+1532,QECA-QENP-21-2015-06-02-,CRB 105/2015,Magara John,30/04-2015,QECA-QENP,Kahendero,Qenp,Routine patrol by rangers,Hunting for meat
+1533,MFCA-MFNP-50-2015-06-04-,NYA/049/2015,Ojovule Gift,22/05-2015,MFCA-MFNP,Latoro,Laora Olili,Ambush patrol based on intelligence,Hunting for meat
+1534,MFCA-MFNP-50-2015-06-04-,uwa/050/2014/msd/0307/15,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1535,MFCA-MFNP-50-2015-06-04-,,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1536,MFCA-MFNP-50-2015-06-09-,MSD/0307/2015,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1537,MFCA-MFNP-50-2015-06-16-,,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1539,MFCA-MFNP-50-2015-06-16-,,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1540,MFCA-MFNP-50-2015-06-16-,MSD/0307/2015,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1541,MFCA-MFNP-50-2015-06-17-,Co- MSD/0307/2015,Berocan Thomas,26/05-2015,MFCA-MFNP,Bulaya,Te-ajere,Ambush patrol based on intelligence,Hunting for meat
+1542,MFCA-MFNP-50-2015-06-17-,,Acema Godfrey,30/05-2015,MFCA-MFNP,Kichumbanyobo Gate,Bokwe,Ambush patrol based on intelligence,Illegal harvesting
+1543,MFCA-MFNP-50-2015-06-17-,,Acema Godfrey,30/05-2015,MFCA-MFNP,Kichumbanyobo Gate,Bokwe,Ambush patrol based on intelligence,Illegal harvesting
+1544,MFCA-MFNP-50-2015-06-22-,,Okumu Phillips Oboo,31/05-2015,MFCA-MFNP,Tangala,Kampala A Village,Ambush patrol based on intelligence,Illegal possesion
+1545,MFCA-MFNP-50-2015-06-22-,,Okumu Phillips Oboo,31/05-2015,MFCA-MFNP,Tangala,Kampala A Village,Ambush patrol based on intelligence,Hunting for meat
+1546,MFCA-MFNP-50-2015-06-22-,NYA/525/2015,Ocen O Patrick,01/05-2015,MFCA-MFNP,Mubako Hq,Kibaa,Ambush patrol based on intelligence,Hunting for meat
+1547,MFCA-MFNP-50-2015-06-22-,NYA/525/2015,Ocen O Patrick,01/06-2015,MFCA-MFNP,Mubako Hq,Kibaa,Ambush patrol based on intelligence,Hunting for meat
+1548,MFCA-MFNP-50-2015-06-22-,NYA/525/2015,Ocen O Patrick,01/06-2015,MFCA-MFNP,Mubako Hq,Kibaa,Ambush patrol based on intelligence,Hunting for meat
+1549,MFCA-MFNP-50-2015-06-22-,,Jakweyo Fred,06/06-2015,MFCA-MFNP,Mubako Hq,Mubako,House visit based on intelligence,Illegal fishing
+1550,MFCA-MFNP-50-2015-06-22-,,Jakweyo Fred,06/06-2015,MFCA-MFNP,Mubako,Kibaa,Ambush patrol based on intelligence,Illegal fishing
+1552,MFCA-MFNP-50-2015-06-22-,BLS/232/2015,Lwoko Francis,09/06-2015,MFCA-MFNP,Bugungu Gate,Kigulia,Routine patrol by rangers,Hunting for meat
+1553,MFCA-MFNP-50-2015-06-23-,,Lwoko Francis,09/06-2015,MFCA-MFNP,Bugungu Gate,Kigulia,Routine security check,Hunting for meat
+1554,MFCA-MFNP-50-2015-06-23-,,Lwoko Francis,09/06-2015,MFCA-MFNP,Bugungu Gate,Kigulia,Ambush patrol based on intelligence,Hunting for meat
+1555,MFCA-MFNP-50-2015-06-23-,,Obouja Moses,12/06-2015,MFCA-MFNP,Delta,Delta,Routine patrol by rangers,Illegal fishing
+1556,MFCA-MFNP-50-2015-06-23-,CRB/578/2015,Birimuye Moses,20/06-2015,MFCA-MFNP,Mubako,Otong Dyang,Ambush patrol based on intelligence,Hunting for meat
+1558,QECA-QENP-21-2015-06-24-,CRB 114/2015,Kobwemi Willington,16/05-2015,QECA-QENP,Katunguru,Kamulikwizi,Routine patrol by rangers,Hunting for meat
+1559,MFCA-MFNP-50-2015-06-29-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1560,MFCA-MFNP-50-2015-07-04-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1561,MFCA-MFNP-50-2015-07-07-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1562,MFCA-MFNP-50-2015-07-07-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1563,MFCA-MFNP-50-2015-07-07-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1564,MFCA-MFNP-50-2015-07-07-,Gulu-CRB/1607/2015,Arop Denis,26/06-2015,N/A,Gulu Cps,Gulu Town,Other,Illegal possesion
+1565,MFCA-MFNP-50-2015-07-07-,BLS-CRB/253/2015,Jalobo Charles,29/06-2015,MFCA-BWR,Waisoke,Kamagongoro,Ambush patrol based on intelligence,Illegal grazing
+1566,MFCA-MFNP-50-2015-07-07-,NYA-CRB/604/2015,Ocama John,26/06-2015,MFCA-MFNP,Pakuba Outpost,Kabule,Ambush patrol based on intelligence,Hunting for meat
+1567,MFCA-MFNP-50-2015-07-14-,,Ocamgamba Phillips,09/07-2015,MFCA-MFNP,Mubako,Zenoni,Ambush patrol based on intelligence,Hunting for meat
+1568,MFCA-MFNP-50-2015-07-14-,NYA-CRB/0638/2015,Obouja Moses,10/07-2015,MFCA-MFNP,Semanya Marrine Post,Delta,Ambush patrol based on intelligence,Illegal grazing
+1569,MFCA-MFNP-50-2015-07-14-,,Taban Richard,10/07-2015,MFCA-BWR,Waisoke,Hanga,Ambush patrol based on intelligence,Illegal harvesting
+1570,KCA-KNP-10-2015-07-20-1,N/A,Pc. Asiimwe Nicodemus,01/07-2015,KCA-KNP,Isunga,Isunga,Observed during non-duty activities,Other illegal activities
+1571,KCA-KNP-10-2015-07-20-2,SD REF: 05/12/07/2015,Noguniwe Francis,12/07-2015,KCA-KNP,Sebitoli,Sebitoli,Ambush patrol based on intelligence,Illegal entry
+1573,KCA-KNP-10-2015-07-20-4,CRB 573/2015,Noguniwe Francis,17/07-2015,KCA-KNP,Sebitoli,Kasunga,Ambush patrol based on intelligence,Illegal entry
+1574,MFCA-MFNP-50-2015-07-24-,,Adiyocan Francis,21/07-2015,MFCA-MFNP,Mubako,Mubako Junction,Observed during non-duty activities,Illegal entry
+1575,MFCA-MFNP-50-2015-07-24-,,Acema Godfrey,21/07-2015,MFCA,Kichumbanyobo Gate,Kalafuru,Routine patrol by rangers,Illegal harvesting
+1576,MFCA-MFNP-50-2015-07-24-,BLS-CRB/091/2014,Lwoko Francis,15/03-2015,MFCA-MFNP,Bugungu Gate,Kabachwa,Ambush patrol based on intelligence,Hunting for meat
+1577,QECA-QENP-21-2015-07-28-,165/2015,Byamukama Kepha And Olero Alfred,08/07-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal fishing
+1580,QECA-QENP-21-2015-07-28-,162/2015,Ali Bin Said,30/06-2015,QECA-QENP,Katunguru,Qenp,Routine patrol by rangers,Illegal entry
+1582,QECA-QENP-21-2015-07-29-,164/2015,Kiiza Mahesi And Olero Alfred,28/06-2015,QECA-QENP,Katunguru,Qenp,Routine patrol by rangers,Illegal harvesting
+1583,QECA-QENP-21-2015-07-29-,136/2015,Babiha Lawerance And Francis,28/05-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Hunting for meat
+1584,QECA-QENP-21-2015-07-29-,138/2015,Owenyo Alphose,28/05-2015,QECA-QENP,Katunguru,Qenp,Routine patrol by rangers,Illegal possesion
+1585,QECA-QENP-21-2015-07-29-,125/2015,Olero Alfred,14/05-2015,QECA-QENP,Nyamusingiri,Qenp,Routine patrol by rangers,Hunting for meat
+1589,QECA-QENP-21-2015-07-29-,125/2015,Olero Alfred,28/05-2015,QECA-QENP,Nyamusingiri,Qenp,Routine patrol by rangers,Hunting for meat
+1590,QECA-QENP-21-2015-07-30-,katwe police,Chemonges Musa,23/07-2015,QECA-QENP,Katojo,Qenp,Routine patrol by rangers,Illegal grazing
+1591,QECA-QENP-21-2015-07-30-,181/2015-katwe,Mwaka Felex And Twinobusinge Godfry,19/07-2015,QECA-QENP,Kanyangeya,Qenp,Arrest in accordance with warrant,Illegal possesion
+1592,QECA-QENP-21-2015-07-31-,CRB 180/2015,Turyangyenda Enock And Turyasingura Evans,22/07-2015,QECA-RMNP,Mihunga,Rmnp,Routine patrol by rangers,Illegal harvesting
+1593,MFCA-MFNP-50-2015-08-05-,,Dada Ahamed,24/08-2015,MFCA-MFNP,Paraa North,Lukung,Ambush patrol based on intelligence,Hunting for meat
+1594,MFCA-MFNP-50-2015-08-07-,,Dada Ahamed,24/07-2015,MFCA-MFNP,Paraa North,Lukung,Arrest in accordance with warrant,Hunting for meat
+1595,MFCA-MFNP-50-2015-08-07-,,Dada Ahamed,24/07-2015,MFCA-MFNP,Paraa North,Lukung,Ambush patrol based on intelligence,Hunting for meat
+1596,MFCA-MFNP-50-2015-08-07-,NYA/679/2015,Ojovule Gift,26/07-2015,MFCA-MFNP,Latoro,Kibwoyo,Routine patrol by rangers,Hunting for meat
+1597,MFCA-MFNP-50-2015-08-07-,NYA/679/2015,Ojovule Gift,26/07-2015,MFCA-MFNP,Latoro,Kibwoyo,Routine patrol by rangers,Hunting for meat
+1598,MFCA-MFNP-50-2015-08-07-,,Bwambale Peter,28/07-2015,MFCA-MFNP,Paraa North,Tangi,Ambush patrol based on intelligence,Hunting for meat
+1599,MFCA-MFNP-50-2015-08-07-,,Bwambale Peter,28/07-2015,MFCA-MFNP,Paraa North,Kibwoyo,Ambush patrol based on intelligence,Hunting for meat
+1600,MFCA-MFNP-50-2015-08-07-,,Ayere Alfred,04/08-2015,MFCA-MFNP,Mubako,Simba,Ambush patrol based on intelligence,Illegal fishing
+1601,MFCA-MFNP-50-2015-08-11-,BLS-CRB/0307/2015,Jakweyo Fred,09/08-2015,MFCA-MFNP,Mubako,River Emmy,Ambush patrol based on intelligence,Illegal fishing
+1602,QECA-QENP-21-2015-08-17-,CRB-190/2015,Bikokngolyo Jackison,04/08-2015,QECA-QENP,Kahendero Out Post,Qenp,Routine patrol by rangers,Illegal fishing
+1603,QECA-QENP-21-2015-08-17-,CRB-190/2015,Bikokngolyo Jackison,04/08-2015,QECA-QENP,Kahendero Out Post,Qenp,Routine patrol by rangers,Illegal fishing
+1604,QECA-QENP-21-2015-08-17-,CRB-190/2015,Bikokngolyo Jackison,04/08-2015,QECA-QENP,Kahendero Out Post,Qenp,Routine patrol by rangers,Illegal fishing
+1605,QECA-QENP-21-2015-08-17-,CRB-192/2015 katwe,Twinobusingye H And Muhindo F,02/08-2015,QECA-QENP,Katunguru Hqs,Qenp,Routine patrol by rangers,Illegal possesion
+1606,QECA-QENP-21-2015-08-17-,CRB-192/2015 katwe,Twinobusingye H And Muhindo F,02/08-2015,QECA-QENP,Katunguru Hqs,Qenp,Routine patrol by rangers,Illegal possesion
+1607,QECA-QENP-21-2015-08-17-,CRB-186/2015,Baguma Matia And Muhindo F,28/07-2015,QECA-QENP,Katunguru Hqs,Qenp,Routine patrol by rangers,Illegal fishing
+1608,QECA-QENP-21-2015-08-17-,CRB-187/2015,Bikokngolyo Jackison And Akii Milton,29/06-2015,QECA-QENP,Kahendero Out Post,Qenp,Routine patrol by rangers,Illegal fishing
+1609,QECA-QENP-21-2015-08-17-,CRB-189/2015 katwe,Owenyo Alphose,25/07-2015,QECA-QENP,Katunguru Hqs,Qenp,Observed during non-duty activities,Illegal entry
+1610,QECA-QENP-21-2015-08-17-,KAS--07-CR-CO-140/2015,Kobwemi Wand Baguma M,02/08-2015,QECA-QENP,Katunguru Hqs,Qenp,Routine patrol by rangers,Illegal possesion
+1611,QECA-QENP-21-2015-08-17-,CRB-193/2015 katwe,Kobwemi Wand Baguma M,02/08-2015,QECA,Katunguru Hqs,Qenp,Routine patrol by rangers,Illegal possesion
+1612,QECA-QENP-21-2015-08-17-,-,Muwezi Banabasi,08/08-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1613,QECA-QENP-21-2015-08-17-,-,Muwezi Banabasi,08/08-2015,QECA-QENP,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1614,QECA-QENP-21-2015-08-17-,CRB-128/2015 katwe,Kirunda J And Tayebwa P,25/05-2015,QECA,Kararo,Qenp,House visit based on intelligence,Hunting for meat
+1615,QECA-QENP-21-2015-08-17-,CRB-100/2015,Magara And Bikongolyo J,31/05-2015,QECA,Kahendero Out Post,Qenp,House visit based on intelligence,Hunting for meat
+1616,QECA-QENP-21-2015-08-17-,CRB-137/2015,Magara And Bikongolyo J,31/05-2015,QECA,Kahendero Out Post,Qenp,,Hunting for meat
+1617,QECA-QENP-21-2015-08-17-,CRB-137/2015,Magara And Bikongolyo J,31/05-2015,QECA,Kahendero Out Post,Qenp,House visit based on intelligence,Hunting for meat
+1618,QECA-QENP-21-2015-08-17-,CRB-159/2015 katwe,T Francis And Lawrance,02/07-2015,QECA,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1620,MFCA-MFNP-50-2015-08-20-,,Ayere Alfred,14/08-2015,MFCA-MFNP,Mubako,Te-mukeko,Routine patrol by rangers,Illegal fishing
+1621,MFCA-MFNP-50-2015-08-25-,,Jakweyo Fred,20/08-2015,MFCA-MFNP,Mubako,Kisombere,Routine patrol by rangers,Illegal fishing
+1622,MFCA-MFNP-50-2015-08-25-,,Onegi Waja,23/08-2015,MFCA-MFNP,Mubako,Paraa Ferry Landing Site,Ambush patrol based on intelligence,Illegal fishing
+1623,MFCA-MFNP-50-2015-08-25-,,Jakweyo Fred,23/08-2015,MFCA-MFNP,Mubako,Paraa Ferry Landing Site,Ambush patrol based on intelligence,Illegal fishing
+1624,MFCA-MFNP-50-2015-08-25-,,Jakweyo Fred,23/08-2015,MFCA-MFNP,Mubako,Paraa Ferry Landing Site,Ambush patrol based on intelligence,Illegal fishing
+1626,QECA-QENP-21-2015-08-26-,CRB 160/2015-katwe,L/cpl Twinomujuni Francis,02/07-2015,QECA,Nyamugasani,Qenp,Routine patrol by rangers,Illegal grazing
+1627,MFCA-MFNP-50-2015-09-04-,NYA/0803/2015,Uhuru Jimmy,31/08-2015,MFCA-MFNP,Mubako,Jai Area,Ambush patrol based on intelligence,Hunting for meat
+1628,MFCA-MFNP-50-2015-09-04-,NYA/0803/2015,Uhuru Jimmy,31/08-2015,MFCA-MFNP,Mubako,Jai Area,Ambush patrol based on intelligence,Hunting for meat
+1629,KCA-KNP-10-2015-09-14-1,CRB 293/2015,Birenge Isaac,23/07-2015,KCA-KNP,Isunga,Kitibiko,Routine patrol by rangers,Illegal entry
+1630,KCA-KNP-10-2015-09-14-2,CRB 333/2015,Africa Moses,27/08-2015,KCA-KNP,Isunga,Kahungye- Bishozi Road,Ambush patrol based on intelligence,Illegal possesion
+1631,KCA-KNP-10-2015-09-14-3,CRB 027/2015,Bakecura Peter,21/01-2015,KCA-KNP,Ngeza,Kiziba,Routine patrol by rangers,Illegal grazing
+1632,KCA-KNP-10-2015-09-14-4,N/A,Africa Moses,01/08-2015,KCA-KNP,Isunga,Near Lake Nyabikere,Observed during non-duty activities,Illegal grazing
+1633,KCA-KNP-10-2015-09-14-5,N/A,Amanyire Wilson,12/07-2015,KCA-KNP,Sebitoli,Sebitoli,Ambush patrol based on intelligence,Illegal entry
+1634,KCA-KNP-10-2015-09-14-6,CRB 293/2015,Birenge Isaac,23/07-2015,KCA-KNP,Isunga,Kitibiko,Routine patrol by rangers,Illegal entry
+1635,KCA-KNP-10-2015-09-14-7,CRB 993/2015,Amanyire Wilson,04/08-2015,KCA-KNP,Sebitoli,Kanyatete,Routine patrol by rangers,Illegal entry
+1636,KCA-KNP-10-2015-09-14-8,CRB 773/2015,Africa Moses,10/06-2015,KCA-KNP,Isunga,Harukooto And Karugutu T/c,House visit based on intelligence,Illegal possesion
+1637,KCA-KNP-10-2015-09-14-9,CRB 187/2015,Birenge Isaac,10/05-2015,KCA-KNP,Isunga,Byamanyoma,Routine patrol by rangers,Illegal entry
+1638,KCA-KNP-10-2015-09-14-10,CRB 239/2015,Birenge Isaac,06/06-2015,KCA-KNP,Isunga,Busingye,House visit based on intelligence,Illegal harvesting
+1639,KCA-KNP-10-2015-09-14-11,CRB 241/2015,Kato Moses,09/06-2015,KCA-KNP,Isunga,Mugusu-kihingami,Routine patrol by rangers,Illegal entry
+1640,KCA-KNP-10-2015-09-14-12,CRB 250/2015,Kato Moses,15/06-2015,KCA-KNP,Isunga,Kyamwamba,Ambush patrol based on intelligence,Illegal harvesting
+1642,KCA-KNP-10-2015-09-14-14,N/A,Birenge Isaac,20/08-2015,KCA-KNP,Isunga,Isunga,Ambush patrol based on intelligence,Illegal entry
+1643,KCA-KNP-10-2015-09-14-15,N/A,Birenge Isaac,22/08-2015,KCA-KNP,Isunga,Kyamwamba,Routine patrol by rangers,Illegal harvesting
+1644,KCA-KNP-10-2015-09-14-16,N/A,Bua George,06/08-2015,KCA-KNP,Isunga,Isunga,Ambush patrol based on intelligence,Illegal harvesting
+1645,KCA-KNP-10-2015-09-14-17,N/A,Kato Moses,13/08-2015,KCA-KNP,Isunga,Kanyante,Routine patrol by rangers,Illegal entry
+1646,KCA-KNP-10-2015-09-15-1,N/A,Africa Moses,01/09-2015,KCA-KNP,Isunga,Katunguru,Ambush patrol based on intelligence,Illegal grazing
+1647,KCA-KNP-10-2015-09-15-2,SD REF: 08/05/09/2015,Katusi John,04/09-2015,KCA-KNP,Kakooga,Kakooga,Routine security check,Illegal possesion
+1648,KCA-KNP-10-2015-09-15-3,CRB 43/09/2015,Erongu Yonah,13/09-2015,KCA-KEWR,Kikorogoto,,Ambush patrol based on intelligence,Hunting for meat
+1649,KCA-KNP-10-2015-09-21-1,CRB 352/2015,Africa Moses,17/09-2015,KCA-KNP,Isunga,Rukunyu - Kamwenge,Ambush patrol based on intelligence,Illegal possesion
+1650,KCA-KNP-10-2015-09-21-2,CRB 353/2015,Salube Frank,16/09-2015,KCA-KNP,Nyabitusi,Mwetorora,Routine patrol by rangers,Illegal entry

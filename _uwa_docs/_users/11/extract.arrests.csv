@@ -1,0 +1,8 @@
+rec,UWA Arrest ID,POLICE Case ID,Arresting officer,Date,Time,Station,Outpost name,Location name,Detection,Crime type,Offence Loc.,Motivation
+
+1,KCA-TSWR-3-2014-05-08-1,KR CRB 2014/05/07,"September A, Kiiza J, Thembo R",07/05-2014,08:00,KCA-TSWR,Karugutu,Karugutu,Routine patrol by rangers,Illegal grazing,KCA-TSWR,Other
+2,KCA-KNP-10-2014-05-09-1,CRB 532/2014,Capt. John Alobe,21/04-2014,1730,KCA-KNP,Isunga,Ntoroko Road,Other,Illegal possesion,KCA-KNP,Monetary
+3,KCA-KNP-10-2014-05-10-1,CRB 532/2014,Capt. John Alobe,21/04-2014,1730,KCA-KNP,Isunga,Ntoroko Road,Other,Illegal possesion,KCA-KNP,Monetary
+4,KCA-KNP-10-2014-05-10-2,CRB I29/2014,Kushemererwa Ronald,28/04-2014,1600,KCA-KNP,Kabaleke,Bigando,House visit based on intelligence,Hunting for meat,KCA-KNP,Other
+5,KCA-KNP-10-2014-05-10-3,CRB 140/2014,Pte. Kushemererwa Ronald,05/05-2014,1930,KCA-KNP,Kabaleke,Bigando,Ambush patrol based on intelligence,Illegal possesion,KCA-KNP,Other
+6,QECA-RMNP-11-2014-05-10-,CRB 76-9-5-2014,"Tswerya Edson, Thembo,",09/05-2014,1400,QECA-RMNP,Mihunga,Kabale,Routine patrol by rangers,Illegal harvesting,QECA-RMNP,

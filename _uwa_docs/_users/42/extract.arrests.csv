@@ -1,0 +1,60 @@
+rec,UWA Arrest ID,POLICE Case ID,Arresting officer,Date,Time,Station,Outpost name,Location name,Detection,Crime type,Offence Loc.,Motivation
+,,,,,,,,,,,,,Item / evidence,Species,Serial / Spec.,qty,Units,Value,Evidence No.,Status,Location
+,,,,,,,,,,,,,,,,,,,,,,Offender,Village (LC1),Home Lat.,Home Lon.,UTMz,Datum,Action taken,Informant
+
+1,KCA-TSWR-3-2014-05-08-1,KR CRB 2014/05/07,"September A, Kiiza J, Thembo R",07/05-2014,08:00,KCA-TSWR,Karugutu,Karugutu,Routine patrol by rangers,Illegal grazing,KCA-TSWR,Other
+,,,,,,,,,,,,,Grazing-Cattle,,,50,No,0,KCA-TSWR-3-2014-05-08-1-,Impounded,KCA-TSWR
+,,,,,,,,,,,,,,,,,,,,,,Kayumba Geofrey,Munyege,,,,,In custody pending investigation,yes
+,,,,,,,,,,,,,,,,,,,,,,Musole Eria,Munyege,,,,,In custody pending investigation,yes
+2,KCA-KNP-10-2014-05-09-1,CRB 532/2014,Capt. John Alobe,21/04-2014,1730,KCA-KNP,Isunga,Ntoroko Road,Other,Illegal possesion,KCA-KNP,Monetary
+,,,,,,,,,,,,,Harvesting-trees,Other species-,Prunus africana,900,No,0,KCA-KNP-10-2014-05-09-1-,Impounded,KCA-KNP
+,,,,,,,,,,,,,Other items,Other species-,Metallic ladders,2,No,0,KCA-KNP-10-2014-05-09-1-,-other-,Police
+,,,,,,,,,,,,,Other evidence,Other species-,Weighing scale,1,No,0,KCA-KNP-10-2014-05-09-1-,Impounded,KCA-KNP
+,,,,,,,,,,,,,,,,,,,,,,Acidri George,Ntoroko Road Zone,,,,,Released on Police bond,
+3,KCA-KNP-10-2014-05-10-1,CRB 532/2014,Capt. John Alobe,21/04-2014,1730,KCA-KNP,Isunga,Ntoroko Road,Other,Illegal possesion,KCA-KNP,Monetary
+,,,,,,,,,,,,,Harvesting-trees,Other species-,Prunus africana,900,No,0,KCA-KNP-10-2014-05-10-1-,Impounded,KCA-KNP
+,,,,,,,,,,,,,Other items,Other species-,Weighing scale,1,No,0,KCA-KNP-10-2014-05-10-1-,Impounded,KCA-KNP
+,,,,,,,,,,,,,Other items,Other species-,Metallic ladders,2,No,0,KCA-KNP-10-2014-05-10-1-,Impounded,Police
+,,,,,,,,,,,,,,,,,,,,,,Ay'aa Moses,Ntoroko Road Zone,,,,,Released on Police bond,
+4,KCA-KNP-10-2014-05-10-2,CRB I29/2014,Kushemererwa Ronald,28/04-2014,1600,KCA-KNP,Kabaleke,Bigando,House visit based on intelligence,Hunting for meat,KCA-KNP,Other
+,,,,,,,,,,,,,Meat hunting,Uganda Kob,Kobus kob,1,No,0,KCA-KNP-10-2014-05-10-2-,Destroyed,KCA-KNP
+,,,,,,,,,,,,,Animal traps,Other species-,wire snare,3,No,0,KCA-KNP-10-2014-05-10-2-,Impounded,Police
+,,,,,,,,,,,,,Spears,Other species-,others,2,No,0,KCA-KNP-10-2014-05-10-2-,Impounded,Police
+,,,,,,,,,,,,,Other items,Other species-,panga,1,No,0,KCA-KNP-10-2014-05-10-2-,Impounded,Police
+,,,,,,,,,,,,,,,,,,,,,,Kadenge Wilson,Bigando,,,,,Charged,yes
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,KCA-KNP-10-2014-05-10-3,CRB 140/2014,Pte. Kushemererwa Ronald,05/05-2014,1930,KCA-KNP,Kabaleke,Bigando,Ambush patrol based on intelligence,Illegal possesion,KCA-KNP,Other
+,,,,,,,,,,,,,Meat hunting,Uganda Kob,Kobus kob,1,No,0,KCA-KNP-10-2014-05-10-3-,Destroyed,KCA-KNP
+,,,,,,,,,,,,,Animal traps,Other species-,Wire snare,3,No,0,KCA-KNP-10-2014-05-10-3-,Impounded,KCA-KNP
+,,,,,,,,,,,,,Other items,Other species-,Spade,1,No,0,KCA-KNP-10-2014-05-10-3-,Impounded,KCA-KNP
+,,,,,,,,,,,,,Other items,Other species-,Hand hoe,1,No,0,KCA-KNP-10-2014-05-10-3-,Impounded,KCA-KNP
+,,,,,,,,,,,,,,,,,,,,,,Mate Jseph,Bigando,,,,,Address mark,yes
+6,QECA-RMNP-11-2014-05-10-,CRB 76-9-5-2014,"Tswerya Edson, Thembo,",09/05-2014,1400,QECA-RMNP,Mihunga,Kabale,Routine patrol by rangers,Illegal harvesting,QECA-RMNP,
+,,,,,,,,,,,,,Hand saws,Other species-,,2,No,200000,QECA-RMNP-11-2014-05-10-,Impounded,QECA-RMNP
+,,,,,,,,,,,,,Harvesting-trees,Other species-,,1,No,500000,QECA-RMNP-11-2014-05-10-,Destroyed,QECA-RMNP
+,,,,,,,,,,,,,,,,,,,,,,Masereka Apollo,Kyahundu,,,,,In custody pending investigation,
+8,KCA-TSWR-3-2014-05-14-2,CRB 218/2014,Kiiza James And Baramye Julius,12/05-2014,9;30,KCA-TSWR,Karugutu,Munyege,Ambush patrol based on intelligence,Illegal grazing,KCA-TSWR,Cultural
+,,,,,,,,,,,,,Grazing-Cattle,,,2,No,10000,KCA-TSWR-3-2014-05-14-2-,Impounded,KCA-TSWR
+,,,,,,,,,,,,,,,,,,,,,,Kairumba Geoffrey,Munyege,,,,,Released on Police bond,yes
+9,KCA-KNP-10-2014-05-14-1,CRB 472/2014,Cpl. Rubahika Alex,12/05-2014,1640,KCA,Kikorogoto,Kasamba,Ambush patrol based on intelligence,Hunting for meat,KCA,Monetary
+,,,,,,,,,,,,,Meat hunting,Waterbuck,,2,,0,KCA-KNP-10-2014-05-14-1-,Destroyed,KCA-KEWR
+,,,,,,,,,,,,,Meat hunting,Other species-,Bushbuck,4,,0,KCA-KNP-10-2014-05-14-1-,Destroyed,KCA
+,,,,,,,,,,,,,Spears,,,20,No,0,KCA-KNP-10-2014-05-14-1-,Impounded,KCA
+,,,,,,,,,,,,,Animal traps,,Hunting nets,11,No,0,KCA-KNP-10-2014-05-14-1-,Impounded,KCA
+,,,,,,,,,,,,,Other items,,Panga,1,No,0,KCA-KNP-10-2014-05-14-1-,Impounded,KCA
+,,,,,,,,,,,,,,,,,,,,,,Mutatina Daniel,Karwenyi,,,,,In custody pending investigation,
+10,QECA-QENP-21-2014-05-15-,,Kisembo Jimmy,08/05-2014,17:00,QECA-QENP,Kanyangeya,Kanyangeya,,Illegal possesion,QECA-QENP,
+,,,,,,,,,,,,,Bicycles,,,0,,0,QECA-QENP-21-2014-05-15-,,
+12,KCA-TSWR-3-2014-05-19-1,CRB 218/2014,Sgt Kiiza James And Lcpl Baramye Julius,12/05-2014,0500,KCA-TSWR,Karugutu,Karugutu,Routine patrol by rangers,Illegal grazing,KCA-TSWR,
+13,KCA-TSWR-3-2014-05-19-2,,"Lcpl Oringa O David, Pte Thembo & Ndyanabo",19/05-2014,11;30,KCA-TSWR,Karugutu,Munyege,Routine patrol by rangers,Hunting for meat,KCA-TSWR,Sustenance
+,,,,,,,,,,,,,Spears,,,1,No,0,KCA-TSWR-3-2014-05-19-2-,Impounded,KCA-TSWR
+,,,,,,,,,,,,,,,,,,,,,,Yanah Muleju,Munyege - Kyabandara 3,,,UTM36N,,In custody pending investigation,
+15,KVCA-KVNP-42-2014-05-20-,SD 06/08/04/2014,Lt. James Obuchel,08/04-2014,08:00,KVCA-KVNP,Geremech,Kalosigira,Routine patrol by rangers,Hunting for meat,KVCA-KVNP,Monetary
+,,,,,,,,,,,,,Meat hunting,Other species-,Dikdik,6,Kg,30000,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,Arrows,,,3,No,0,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,Bows,,,2,No,0,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,Other items,,Panga,1,No,0,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,Other items,,Wheel trap,1,No,0,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,Other items,,UPDF and police uniforms,3,No,0,KVCA-KVNP-42-2014-05-20-,Impounded,KVCA-KVNP
+,,,,,,,,,,,,,,,,,,,,,,Obonyo Patrick,Lorukul,,,,,In custody pending investigation,
+,,,,,,,,,,,,,,,,,,,,,,Longole Samuel,Lorukul,,,,,In custody pending investigation,

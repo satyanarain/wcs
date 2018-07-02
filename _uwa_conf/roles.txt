@@ -1,0 +1,180 @@
+REFERENCE	All portals reference (leave as is!)					
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	DefendantsAdministration	Defendants Administration				
+		defendantstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	CasesAdministration	Court Cases				
+		cases	•	•	•	•
+
+	Summaries	Summaries				
+		stats	•	•	•	•
+
+	ExtractsAdministration	Table Extracts				
+		extractstable	•	•	•	•
+
+	UserAdministration	User Administration				
+		users	•	•	•	•
+
+	TablesAdministration	Tables Administration				
+		tables	•	•	•	•
+
+	ParishesAdministration	Parishes Administration				
+		parishes	•	•	•	•
+
+	CourtsAdministration	Courts Administration				
+		courts	•	•	•	•
+
+	DefendantsAdministration	Defendants Administration				
+		defendantstable	•	•	•	•
+
+	VerdictsAdministration	Verdicts Administration				
+		verdictstable	•	•	•	•
+
+SYSADMIN	Global system administrator					
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	DefendantsAdministration	Defendants Administration				
+		defendantstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	CasesAdministration	Court Cases				
+		cases	•	•	•	•
+
+	Summaries	Summaries				
+		stats	•	•	•	•
+
+	BiometricsAdministration	Biometrics				
+		biometrics	•	•	•	•
+
+	ExtractsAdministration	Table Extracts				
+		extractstable	•	•	•	•
+
+	UserAdministration	User Administration				
+		users	•	•	•	•
+
+	ParishesAdministration	Parishes Administration				
+		parishes	•	•	•	•
+
+	CourtsAdministration	Courts Administration				
+		courts	•	•	•	•
+
+	DefendantsAdministration	Defendants Administration				
+		defendantstable	•	•	•	•
+
+	VerdictsAdministration	Verdicts Administration				
+		verdictstable	•	•	•	•
+
+
+FIELDOFFICER	UWA Field Officer					
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	BiometricsAdministration	Biometrics				
+		biometrics	•	•	•	•
+
+FIELDOFFICER2	UWA 2'nd level Field Officer					
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	ExtractsAdministration	Table Extracts				
+		extractstable	•	•	•	•
+
+	BiometricsAdministration	Biometrics				
+		biometrics	•	•	•	•
+
+SUPERVISOR	UWA Supervisor					
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	Summaries	Summaries				
+		stats	•	•	•	•
+
+	ExtractsAdministration	Table Extracts				
+		extractstable	•	•	•	•
+
+	BiometricsAdministration	Biometrics				
+		biometrics	•	•	•	•
+
+HQ REP	HQ Representative					
+	SuspectsAdministration	Suspects				
+		suspects	•	•	•	•
+
+	ArrestsAdministration	Arrests				
+		arrests	•	•	•	•
+
+	CasesAdministration	Court Cases				
+		cases	•	•	•	•
+
+	Summaries	Summaries				
+		stats	•	•	•	•
+
+	ExtractsAdministration	Table Extracts				
+		extractstable	•	•	•	•
+
+	BiometricsAdministration	Biometrics				
+		biometrics	•	•	•	•
+
+	OffendersAdministration	Offenders Administration				
+		offenderstable	•	•	•	•
+
+	EvidenceAdministration	Evidence Administration				
+		evidencetable	•	•	•	•
+
+	DefendantsAdministration	Defendants Administration				
+		defendantstable	•	•	•	•
+
+	VerdictsAdministration	Verdicts Administration				
+		verdictstable	•	•	•	•
+
+
+SECRETARY	Secretary					
+	Summaries	Summaries				
+		stats	•	•	•	•
+

@@ -1,0 +1,26 @@
+rec,UWA Case ID,COURT case no.,Crime type,Start date,Finalized,UWA prosecutor,State prosecutor,Defense lawyer,Judicial Officer
+,,,,,,,,,,Name,Crime
+,,,,,,,,,,,,UWA Case ID,Court Date, Court,Verdict,Specify,qty,Units,Appealed
+
+1,KCA-TSWR-4-2014-05-08-1,,Illegal grazing,16/05-2014,16/05-2014,Peter Ewau,,,Mulindwa
+,,,,,,,,,,Musole Eria,Illegal grazing
+,,,,,,,,,,Kayumba Geofrey,Illegal grazing
+,,,,,,,,,,,,KCA-TSWR-4-2014-05-08-1,16/05-2014,,,,0,,
+2,KCA-KNP-10-2014-05-10-1,CRB I29/2014,Hunting for meat,14/05-2014,0,,,,
+,,,,,,,,,,Kadenge Wilson,
+,,,,,,,,,,,,KCA-KNP-10-2014-05-10-1,14/05-2014,Kasese,Pending,denied 2 charges and is remanded awaiting witnes,0,,
+5,LMNP-33-2014-05-15-1,CRB 034/2014,Hunting for meat,29/01-2014,29/01-2014,Charlse Okeny,Kamugisha,,Ediga
+,,,,,,,,,,Bagarukayo Amos,Hunting for meat
+,,,,,,,,,,,,LMNP-33-2014-05-15-1,29/01-2014,Kiruhura Court,Prison term,2 weeks in Rugongi prison,14,Days,
+8,MFCA-MFNP-49-2014-05-22-,MSD-352/14,Illegal entry,28/05-2014,0,Ndeke Keffa Chadiha,Ndeke Keffa Chadiha,,Kumakech Francis
+,,,,,,,,,,Kaga Alfred,Illegal entry
+,,,,,,,,,,,,MFCA-MFNP-49-2014-05-22-,28/05-2014,Masindi Court,Pending,,0,,
+,,,,,,,,,,Owachgiu Alfred,Illegal entry
+,,,,,,,,,,,,MFCA-MFNP-49-2014-05-22-,28/05-2014,Masindi Court,Pending,,0,,
+9,MFCA-MFNP-50-2014-06-02-,msd/377/14,Illegal entry,04/06-2014,0,keffa ndeke,keffa ndeke,nil,kumakech george
+,,,,,,,,,,Afoyocan Magret,
+,,,,,,,,,,,,MFCA-MFNP-50-2014-06-02-,04/06-2014,Masindi Court,Pending,,0,,
+13,MFCA-MFNP-50-2014-06-05-,msd-co-379/14,Illegal entry,04/06-2014,04/06-2014,keffa ndeke chadiha,keffa ndeke chadiha,nil,kumakech george
+,,,,,,,,,,Afoyocan Magret,Illegal entry
+,,,,,,,,,,,,MFCA-MFNP-50-2014-06-05-,04/06-2014,Masindi Court,Prison term,convicted and sentenced,3,Months,
+,,,,,,,,,,Aweko Oliver,Illegal entry

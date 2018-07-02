@@ -1,0 +1,4 @@
+rec,UWA Arrest ID,POLICE Case ID,Arresting officer,Location Lat.,Location Lon.,UTMz,Motivation
+,,,,,,,,Item / evidence,Species,Serial / Spec.,qty,Units,Value,Evidence No.,Status,Location
+,,,,,,,,,,,,,,,,,Offender,Village (LC1),Home Lat.,Home Lon.,UTMz,Datum,Action taken,Informant
+

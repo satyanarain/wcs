@@ -1,0 +1,14 @@
+Crime,Hunting for meat,Illegal harvesting,Illegal grazing,Illegal fishing,Illegal possesion,Illegal entry,Summary
+Prosecutions,3,3,4,8,4,5,27
+Succesful prosecutions (%),100,33.3,100,100,75,100,88.9
+Acquittals,0,0,0,0,0,0,0
+Dismissed by prosecutor,0,0,0,0,0,0,0
+Dismissed by court,0,2,0,0,1,0,3
+Cautions issued,0,1,0,0,0,0,1
+Fines issued,1,0,2,6,1,1,11
+Amount fined total,300000,0,90,2800000,0,0,3100090
+Prison term verdicts,1,0,0,3,0,1,5
+Prison days total,183,0,0,822,0,91,1096
+Community service verdicts,1,0,0,0,0,0,1
+Community service days total,0,0,0,0,0,0,0
+Other sentences,0,0,0,0,2,2,4

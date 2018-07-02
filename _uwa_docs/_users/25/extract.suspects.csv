@@ -1,0 +1,35 @@
+rec,Name,ID,Passport No.,Driving License No.,Voters card No.,Nationality,Wanted,W-date,Offence,Tel.,YOB,Gnd,Parish,Village (LCI),Occupation,Other means of income,Monthly income (UGX)
+1,Kayumba Geofrey,,,,,Uganda,,0,Illegal grazing,,0,M,Kyabandara,Munyege,Cattle Keeper,,0
+2,Musole Eria,,,,,Uganda,UWA,1399721436,Illegal grazing,,0,M,Kyabandara,Munyege,Cattle Keeper,,0
+3,Ntabaro George,,,,,Uganda,UWA,1399571071,Illegal harvesting,0782991354,1958,M,Burondo,Kyakatimba,Handcrafts maker,Farmer,65000
+4,Acidri George,,,,,Uganda,UWA,1399706147,Illegal possesion,,0,M,Hiima,Ntoroko Road Zone,Store keeper,,0
+5,Ay'aa Moses,,,,,Uganda,UWA,1399707403,Illegal possesion,,0,M,Hiima,Ntoroko Road Zone,Store keeper,,0
+6,Kadenge Wilson,,,,,Uganda,UWA,1399710497,Hunting for meat,,0,M,Rugendabara,Bigando,peasant,,0
+7,Mate Joseph,,,,,Uganda,UWA,1401374109,Illegal possesion,,0,M,Rugendabara,Bigando,Peasant,,0
+8,Masereka Apollo,,,,,Uganda,,0,Illegal harvesting,,1984,M,Bikone,Kyahundu,Peasant,pitsowying,0
+9,Ngabirano Christopher,,,,,Uganda,Police/UWA,1399982700,Other illegal activities,0782499395,1985,M,Kitojo,Nkukuru,student,,0
+10,Twinomujuni Gad,,,,,Uganda,Police/UWA,1399983150,Other illegal activities,0788421970,1974,M,Kitojo,Rwesanziro,Field Assistant ITFC,,0
+11,Mutatina Daniel,,,,,Uganda,UWA,1400091156,Hunting for meat,,1986,M,,Karwenyi,Peasant,,0
+12,Kairumba Geoffrey,,,,,Uganda,,0,Illegal grazing,0773805328,1987,M,Kyabandara,Munyege,Cattle Keeper,,0
+13,Bahati Bonesi,,,,,Uganda,,0,Illegal possesion,,1979,M,,Kanyangeya,Boda boda rider,,0
+14,Bagarukayo Amos,,,,,Uganda,,0,Hunting for meat,,0,M,Rwetango,Kyamuguruma,Peasant,Illegal activities,0
+15,Yanah Muleju,,,,,Uganda,,0,Hunting for meat,,1974,M,Kyabandara,Munyege - Kyabandara 3,Peasant - Farmer,,0
+17,Obonyo Patrick,,,,,Uganda,,0,Hunting for meat,,1991,M,Loyoro Napore,Lorukul,Peasant,Illegal activities,0
+18,Longole Samuel,,,,,Uganda,,0,Hunting for meat,,1993,M,Loyoro Napore,Lorukul,School drop out,Illegal activities,0
+19,Kaga Alfred,,,,,Uganda,,0,Illegal entry,,1993,M,Ngwedo,Kilyango,Peasant,fishing,0
+20,Owachgiu Alfred,,,,,Uganda,,0,Illegal entry,,1969,M,Ngwedo,Kilyango,Peasant,Fishing,0
+21,Cannaka Denis,,,,,Uganda,UWA,1400775724,Illegal entry,,1983,M,Ayeolyec,Kinunga,Peasant,,0
+22,Katusabe Richard,,,,,Uganda,UWA,1400775930,Illegal entry,,1986,M,Kichwabugingo,Kyagonga 1,Peasant,,0
+23,Olar David,,,,,Uganda,UWA,1400780844,,,1995,M,Kichwabugingo,Kyagonga 1,,,0
+24,Jenega Harry,,,,,Uganda,UWA,1400781598,Illegal entry,,1984,M,Kichwabugingo,Kiryagonga,Peasant,,0
+25,Afoyocan Magret,,,,,Uganda,,0,Illegal entry,,1974,F,Ngwedo,Pandega,peasant,,0
+27,Odong Francis,,,,,Uganda,UWA,1401703537,Illegal entry,,1986,M,Latoro,Latoro Centre,peasant,nil,0
+28,Oryema Wilfred,,,,,Uganda,,0,Illegal entry,,1997,M,Ngwedo,Pandega,peasant,fishing,0
+29,Aweko Oliver,,,,,Uganda,UWA,1401708081,Illegal entry,,1990,F,Ngwedo,Pandega,peasant,caltivation for subsistance,0
+30,Kilama Micheal,,,,,Uganda,UPDF/Police/UWA,1401966809,Possesion of firearms,,1986,M,Pager Ward,Anyul A,peasant,poaching/illegal hunting,0
+31,Ocaya Walter,,,,,Uganda,UPDF/Police/UWA,1401965414,,,1982,M,Agoro Agu Fr,Agoro,peasant,illegal hunting/ poaching and business,0
+32,Kumakech Francis,,,,,Uganda,,0,Illegal entry,,1997,M,Pakwinyo,Wangkado,peasant,fishing,0
+33,Neema Doreck,,,,,Congo,UWA,1402256076,Illegal possesion,,1985,F,Kyabandara,Kanyasi,Peasant,,0
+34,Makyozi Ester,,,,,Congo,UWA,1402257013,Illegal possesion,,1994,F,Kyabandara,Kanyasi,Peasant,,0
+35,Baluku Sem Kabinga,,,,,Uganda,,0,,,0,M,,Mbata Village,,,0
+36,Komakech Geofrey,,,,,,UWA,1402564708,Illegal entry,,1988,M,,,,,0

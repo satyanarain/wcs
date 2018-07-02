@@ -1,0 +1,1221 @@
+rec,Name,ID,Passport No.,Driving License No.,Voters card No.,Nationality,Wanted,W-date,Offence,Tel.,YOB,Gnd,Parish,Village (LCI),Home Lat.,Home Lon.,UTMz,Datum,Wives,Chld.,Depnd.,Ethncity,Education,Occupation,Other means of income,Monthly income (UGX)
+1,Kayumba Geofrey,,,,,Uganda,,,Illegal grazing,,0,M,Kyabandara,Munyege,,,,,0,0,0,Munyarwanda,P3,Cattle Keeper,,0
+2,Musole Eria,,,,,Uganda,,,Illegal grazing,,0,M,Kyabandara,Munyege,,,,,0,0,0,Munyarwanda,P2,Cattle Keeper,,0
+3,Ntabaro George,,,,,Uganda,UWA,08/05-2014,Illegal harvesting,0782991354,1958,M,Burondo,Kyakatimba,,,,,1,7,2,Mwamba,P3,Handcrafts maker,Farmer,65000
+4,Acidri George,,,,,Uganda,UWA,21/09-2015,Illegal possesion,,0,M,Hiima,Ntoroko Road Zone,,,,,0,0,0,Lugbara,,Store keeper,,0
+5,Ay'aa Moses,,,,,Uganda,UWA,10/05-2014,Illegal possesion,,0,M,Hiima,Ntoroko Road Zone,,,,,1,0,0,Lugbara,,Store keeper,,0
+6,Kadenge Wilson,,,,,Uganda,UWA,10/05-2014,Hunting for meat,,0,M,Rugendabara,Bigando,,,,,1,0,0,Mukonzho,,peasant,,0
+7,Mate Joseph,,,,,Uganda,,,Illegal possesion,,0,M,Nyakatonzi,Musomoro,,,,,0,0,0,Mukonzho,,Peasant,,0
+8,Masereka Apollo,,,,,Uganda,,,Illegal harvesting,,1984,M,Hiima,Ntoroko Road Zone,,,,,0,0,0,Mukonzo,,Peasant,pitsowying,0
+9,Ngabirano Christopher,,,,,Uganda,,,Other illegal activities,0782499395,1985,M,Hiima,Ntoroko Road Zone,,,,,0,0,0,Mukiga,University,student,,0
+10,Twinomujuni Gad,,,,,Uganda,,,Other illegal activities,0788421970,1974,M,Kitojo,Rwesanziro,,,,,0,0,0,Mukiga,,Field Assistant ITFC,,0
+11,Mutatina Daniel,,,,,Uganda,UWA,14/05-2014,Hunting for meat,,1986,M,,Karwenyi,,,,,0,0,0,Mutooro,,Peasant,,0
+12,Kairumba Geoffrey,,,,,Uganda,UWA,10/07-2014,Illegal grazing,0773805328,1987,M,Kyabandara,Munyege,,,,,0,0,0,Munyarwanda,none,Cattle Keeper,,0
+13,Bahati Bonesi,,,,,Uganda,,,Illegal possesion,,1979,M,,Kanyangeya,,,,,0,0,0,,,Boda boda rider,,0
+14,Bagarukayo Amos,,,,,Uganda,,,Hunting for meat,,0,M,Rwetango,Kyamuguruma,,,,,1,0,0,Munyankore,,Peasant,Illegal activities,0
+15,Yanah Muleju,,,,,Uganda,,,Hunting for meat,,1974,M,Kyabandara,Munyege - Kyabandara 3,,,UTM36N,,2,13,0,Mukonjo,P4,Peasant - Farmer,,0
+17,Obonyo Patrick,,,,,Uganda,,,Hunting for meat,,1991,M,Loyoro Napore,Lorukul,,,,,0,0,0,Karimojong,P6,Peasant,Illegal activities,0
+18,Longole Samuel,,,,,Uganda,,,Hunting for meat,,1993,M,Loyoro Napore,Lorukul,,,,,0,0,0,Karimojong,S2,School drop out,Illegal activities,0
+19,Kaga Alfred,,,,,Uganda,UWA,07/07-2014,Illegal entry,,1993,M,Ngwedo,Kilyango,,,,,0,0,0,Alur,,Peasant,fishing,0
+20,Owachgiu Alfred,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1969,M,Ngwedo,Kilyango,,,,,0,0,0,Alur,,Peasant,Fishing,0
+21,Cannaka Denis,,,,,Uganda,,,Illegal entry,,1983,M,Ayeolyec,Kinunga,,,,,0,0,0,Alur,,Peasant,,0
+22,Katusabe Richard,,,,,Uganda,UWA,22/05-2014,Illegal entry,,1986,M,Kichwabugingo,Kyagonga 1,,,,,0,0,0,Chope,,Peasant,,0
+23,Olar David,,,,,Uganda,UWA,22/05-2014,,,1995,M,Kichwabugingo,Kyagonga 1,,,,,0,0,0,,,,,0
+24,Jenega Harry,,,,,Uganda,UWA,22/05-2014,Illegal entry,,1984,M,Kichwabugingo,Kiryagonga,,,,,0,0,0,Alur,,Peasant,,0
+25,Afoyocan Magret,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1974,F,Ngwedo,Pandega,,,,,0,4,0,Alur,,peasant,,0
+27,Odong Francis,,,,,Uganda,UWA,02/06-2014,Illegal entry,,1986,M,Latoro,Latoro Centre,,,,,1,1,4,acholi,none,peasant,nil,0
+28,Oryema Wilfred,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1997,M,Ngwedo,Pandega,,,,,0,0,0,alur,P6,peasant,fishing,0
+29,Aweko Oliver,,,,,Uganda,UWA,02/06-2014,Illegal entry,,1990,F,Ngwedo,Pandega,,,,,0,2,0,Alur,none,peasant,caltivation for subsistance,0
+30,Kilama Micheal,,,,,Uganda,UPDF/Police/UWA,05/06-2014,Possesion of firearms,,1986,M,Pager Ward,Anyul A,,,,,2,5,0,acholi,S2,peasant,poaching/illegal hunting,0
+31,Ocaya Walter,,,,,Uganda,UPDF/Police/UWA,05/06-2014,,,1982,M,Agoro Agu Fr,Agoro,,,,,1,6,0,acholi,none,peasant,illegal hunting/ poaching and business,0
+32,Kumakech Francis,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1997,M,Pakwinyo,Wangkado,,,,,0,0,0,alur,P5,peasant,fishing,0
+33,Neema Doreck,,,,,Congo,UWA,08/06-2014,Illegal possesion,,1985,F,Kyabandara,Kanyasi,,,,,0,1,0,Cogolese,none,Peasant,,0
+34,Makyozi Ester,,,,,Congo,UWA,08/06-2014,Illegal possesion,,1994,F,Kyabandara,Kanyasi,,,,,0,3,0,Cogolese,none,Peasant,,0
+36,Komakech Geofrey,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1988,M,Latoro,Pajengo,,,,,2,5,0,acholi,none,peasant,illegal hunting,0
+37,Opar James,,,,,Uganda,UWA,12/06-2014,Illegal entry,,1990,M,Latoro,Pajengo,,,,,0,0,0,acholi,S1,peasant,ridding boda-boda,0
+38,Odoch Cypriano Dan,,,,,Uganda,UWA,12/06-2014,Illegal entry,,1994,M,Latoro,Pajengo,,,,,0,0,0,acholi,S4,peasant,betting,0
+39,Odoch Cypriano Dan,,,,,Uganda,UWA,03/07-2014,Accessory to crime,,1994,M,Latoro,Pajengo,,,,,0,0,0,acholi,S4,peasant,nil,0
+40,Odoki John Bosko,,,,,Uganda,UWA,03/07-2014,Accessory to crime,,1987,M,Latoro,Pajengo,,,,,1,3,0,acholi,P5,peasant,,0
+41,Ayangarac Alfred,,,,,Uganda,UWA,12/06-2014,Illegal entry,,1994,M,Padolo,Akew,,,,,1,1,0,alur,P5,peasant,,0
+42,Oyer Martine,,,,,Uganda,UWA,03/07-2014,,,1983,M,Padolo,Nyekakora,,,,,0,0,0,,,,,0
+43,Ouzunga Oyirwoth,,,,,Uganda,UWA,03/07-2014,,,1984,M,Padolo,Pacaka,,,,,0,0,0,,,,,0
+44,William Cothum,,,,,Uganda,UWA,03/07-2014,Illegal possesion,,1984,M,Padolo,Jopogata,,,,,0,0,0,alur,P4,peasant,fishing for subsistence,0
+45,Nereo Odoch,,,,,Uganda,UWA,03/07-2014,,,1964,M,Padolo,Atido,,,,,0,0,0,,,,,0
+47,Rwamukaga Constatino,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1962,M,Kigwera,Kichoke,,,,,2,11,6,mugungu,none,peasant,fishing,0
+48,Mugisa Karim,,,,,Uganda,UWA,17/06-2014,Illegal possesion,,1979,M,Kigwera,Ndandamire,,,,,1,7,2,mugungu,S1,peasant,fishing,0
+49,Bamutraki Gerald,,,,,Uganda,,,Illegal fishing,,1994,M,Kigwera,Katanga Wansekho,,,,,1,0,0,alur,P4,peasant,fishing,0
+50,Agaba David,,,,,Uganda,UWA,03/07-2014,Illegal fishing,,1994,M,Kigwera,Kichoke,,,,,0,0,0,alur,,peasant,,0
+51,Kumakech Kennedy,,,,,Uganda,UWA,20/06-2014,Illegal entry,,1994,M,Juloka,Jupameri,,,,,0,0,0,,,Peasant,,0
+52,Kanyarutokye Henry,,,,,Uganda,UWA,24/06-2014,Illegal harvesting,,1994,M,Isunga,Nyabinyonyi,,,,,1,0,0,Mukiiga,,Peasant,,0
+53,Ndasiima Paul,,,,,Uganda,UWA,24/06-2014,Illegal harvesting,,1992,M,Isunga,Nyabinyonyi,,,,,1,0,0,Mukiiga,,Peasant,,0
+54,Mutungire Davis,,,,,Uganda,UWA,24/06-2014,Illegal possesion,,1989,M,Busiriba,Mabono,,,,,1,0,0,Mikiiga,,Peasant,,0
+55,Tugumisirize Scovia,,,,,Uganda,UWA,24/06-2014,Illegal possesion,,1988,F,Busiriba,Mabono,,,,,0,0,0,Mukiiga,,Peasant,,0
+56,Kato James,,,,,Uganda,UWA,24/03-2015,Illegal harvesting,,1991,M,Rwenkuba,Kiziba - Kinyarwanda,,,,,1,0,0,Mukiiga,,Peasant,,0
+57,Betamirwe Daniel,,,,,Uganda,,,Hunting for meat,,1944,M,Bubukwanga,Bundikiteganwa Ii,,,,,1,0,0,Mubwisi,P6,Peasant,,0
+58,Happy Jackson,,,,,Uganda,,,Hunting for meat,,1991,M,Bubukwanga,Bundikiteganwa Ii,,,,,1,1,0,Mubwisi,,Peasant,,0
+59,Byamaka Exevier,,,,,Uganda,,,,,1980,M,Bubukwanga,Bundikiteganwa Ii,,,,,1,2,0,Mubwisi,,Peasant,,0
+60,Muthanuka Apolo,,,,,,Police/UWA,27/06-2014,,,0,,,,,,,,0,0,0,,,,,0
+64,Onoba Wilferd Lutuku,,,,,Uganda,UWA,01/07-2014,Illegal fishing,,1969,M,Mutir,Mutir,,,,,2,9,0,alur,S1,Peasant,both legal and illegal fishing,0
+65,Bamutraki Gerald,,,,,Uganda,UWA,03/07-2014,Illegal fishing,,1994,M,Kigwera,Wanskho Landing Site,,,,,0,0,0,mugungu,,peasant,legal and illegal fishing,0
+66,Agaba David,,,,,Uganda,UWA,03/07-2014,Illegal fishing,,1995,M,Kigwera,Wansekho Landing Site,,,,,0,0,0,mugungu,P5,peasant,illegal and legal fishing,0
+67,Mwaka David,,,,,Uganda,UWA,03/07-2014,Hunting for meat,,1986,M,Todora,Babali,,,,,1,3,0,acholi,P2,peasant,trading in produce,200000
+69,Ojok Moses,,,,,Uganda,UWA,03/07-2014,Illegal entry,,1994,M,Patira,Patira,,,,,0,0,0,acholi,P1,peasant,illegal entry,0
+68,Omaya Micheal,,,,,Uganda,UWA,03/07-2014,Hunting for meat,,1985,M,Todora,Agung B Centre,,,,,1,2,0,acholi,P6,peasant,boda boda,0
+73,Okot Innocent,,,,,Uganda,UWA,07/07-2014,Illegal fishing,,1997,M,Povungu,Puyol,,,,,0,0,0,alur,S1,peasant,fishing,0
+74,Maguma Geofrey,,,,,Uganda,,,Illegal entry,,1982,M,Labongo,Kituka,,,,,1,5,0,Lugbara,none,Peasant,lumbering,0
+75,Ojioyo Stephen,,,,,Uganda,UWA,07/07-2014,Illegal entry,,2001,M,Labongo,Kituka,,,,,0,0,0,Lugbara,P5,pupil,,0
+76,Kyaikondo James,,,,,Uganda,,,Illegal grazing,,1976,M,Kigwera,Kabolwa,,,,,1,2,0,munyankole,P4,Herdsman,business,0
+77,Asiimwe Barijunakyi,,,,,Uganda,UWA,09/07-2014,Illegal entry,,1972,M,,Bihehe,,,,,1,0,0,Mukiga,,Peasant,,0
+78,Sanyu Parick,,,,,Uganda,UWA,09/07-2014,Accessory to crime,,1979,M,,Katebe,,,,,1,9,0,Mutooro,,Wire snare remover,,0
+79,Happy Kiiza Moses,,,,,Uganda,UWA,14/09-2015,Illegal possesion,,1986,M,Rwensenene,Nyakagongo,,,,,1,0,0,Mutooro,,Peasant,,0
+81,Otuu Okoya Jackson,,,,,Uganda,,,Illegal entry,,1982,M,Pangora,Aparanga,,,,,1,5,0,Acholi,,Peasant,,0
+82,Olanya Richard,,,,,Uganda,,,Illegal entry,,1962,M,Todora,Te Olam,,,,,2,7,0,Acholi,none,Peasant,,0
+137,Arinaitwe Josphat,,,,,,UWA,05/09-2014,Illegal grazing,,1984,,,,,,,,0,0,0,,,,,0
+83,Odong Samuel,,,,,Uganda,,,Accessory to crime,,1997,M,Latoro,Pajengo,,,,,0,0,0,Acholi,P6,pupil,Nil,0
+84,Osinge Peter,,,,,Uganda,,,Illegal fishing,,1994,M,Ganda,Port Bell,,,,,0,0,0,Alur,,Peasant,fishing,0
+85,Kumakech Charles,,,,,Uganda,,,Illegal fishing,,1999,M,Ganda,Siitu,,,,,0,0,0,Alur,P5,pupil,,0
+86,Baluku Alex,,,,,Uganda,,,,,0,M,,,,,,,0,0,0,,,,,0
+89,Ochoun Charles,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+87,Olum Nickodemus,,,,,Uganda,,,Illegal fishing,,1999,M,Baro,Siitu,,,,,0,0,0,Alur,P4,pupil,,0
+88,Baluku Alex,,,,,Uganda,,,,,0,M,Bikone,Mihunga,,,,,0,0,0,mukonjo,,peasant,,0
+90,Ochoun Charles,,,,,Uganda,,,Illegal fishing,,1981,M,Nyakagei,Wangkado,,,,,1,4,0,Alur,,Peasant,Fishing,0
+91,Kakyaza John,,,,,Uganda,,,Illegal possesion,,1975,M,Busiriba,Kahondo,,,,,0,0,0,Mukiiga,,Peasant,,0
+92,Baluku Alex,,,,,Uganda,,,,,0,M,Bikone,Mihunga,,,,,0,0,0,mukonjo,,peasant,,0
+93,Peace Mulonzi,,,,,Uganda,,,Illegal fishing,,0,M,Ganda,Wangkado,,,,,1,1,0,Alur,P6,Peasant,Fishing,0
+95,Oyirwoth Afred,,,,,Uganda,,,Illegal fishing,,1999,M,Ganda,Wangkado,,,,,0,0,0,Alur,P6,pupil,Nil,0
+94,Mukwase Richard,,,,,Uganda,,,Illegal entry,,0,M,Rugendabara,Bigando,,,,,0,0,0,Mugisu,,Peasant,,0
+96,Oyunguru Afred,,,,,Uganda,,,Illegal fishing,,1999,M,Ganda,Wangkado,,,,,0,0,0,Alur,P5,pupil,,0
+97,Dhogwu Jenesio,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+99,Dhogwu Jenesio,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+100,Kanyankore Didas,,,,,Uganda,,,,,0,M,,,,,,,0,0,0,,,,,0
+101,Tusiime Patrick,,,,,Uganda,,,Illegal entry,,1996,M,Kigwera,Kichoke,,,,,0,0,0,Mugungu,,Peasant,,0
+102,Denis Ismail,,,,,Uganda,,,Illegal entry,,1995,M,Kigwera,Kirama,,,,,0,0,0,Mugungu,,Peasant,,0
+105,Alara Denis,,,,,,,,Illegal entry,,0,,Kigwera,Masaka,,,,WGS84,0,0,0,,,,,0
+106,Okello Ezekiel,Universty student ID,,,,Uganda,Police/UWA,30/07-2014,Illegal possesion,0772022855,1988,M,Banda,Banda,,,,,0,0,0,Langi,University,student,,0
+108,Kamara Jebah Mulibah,,,,,Liberia,,,Illegal possesion,,1952,M,Rubaga,Kabusu,,,,,1,0,0,Liberian,,Business,,0
+109,Cpl Oyunguru Fred,,,,,Uganda,Police/UWA,30/07-2014,Other illegal activities,,1982,M,Kamwokya I,Kamwokya,,,,,1,3,0,,,Soldier,,0
+110,Alfred Clement,,,,,Uganda,UWA,30/07-2014,Illegal entry,,1968,M,Mukale,Kuba,,,,,0,0,0,Alur,,Peasant,,0
+111,Othuba Kennedy,,,,,Uganda,UWA,30/07-2014,Illegal entry,,1996,M,Mukale,Kuba,,,,,0,0,0,Alur,,Fisherman,,0
+113,Arua John Kenndy,,,,,Uganda,UWA,30/07-2014,Illegal entry,,1999,M,Mukale,Kuba,,,,,0,0,0,Alur,,Fisherman,,0
+114,Guvoya Jimmy,,,,,Uganda,UWA,11/08-2014,Illegal entry,,1979,M,Kigwera,Katanga,,,,,0,0,0,Alur,,Peasant,,0
+115,Agenonga Paulino,,,,,Uganda,UWA,12/08-2014,Illegal entry,,1997,M,Mukale,Kuba,,,,,0,0,0,Alur,,Fisherman,,0
+116,Opiro Charles,,,,,Uganda,,,Illegal entry,,1988,M,Pawatomero,Lawora B,,,,,0,0,2,Acholi,P2,Peasant,,0
+117,Okello Geofrey Alias Oyoo,,,,,Uganda,,,Illegal entry,,1994,M,Pawatomero,Lawora B,,,,,0,0,0,Acholi,P6,Peasant,,0
+118,Rubalema Moses,,,,,Uganda,UWA,21/08-2014,Illegal entry,,0,M,,Rwandaro,,,,,1,4,0,,,Fisherman,farming,0
+119,Lucky Julius,,,,,Uganda,UWA,22/08-2014,Illegal grazing,,0,M,Kahendero,Kahendero,,,,,0,0,0,,,cattle grazer,,0
+120,Byense Godfrey,,,,,Uganda,UWA,12/09-2014,Illegal possesion,0757246675/07879,1987,M,Kisiabi,Kisiabi,,,,,0,0,0,MUGUNGU,,BODA-BODA,PEASANT,0
+121,Omony Partrick,,,,,Uganda,,,Illegal entry,,0,M,Todora,Ayago,,,,,0,0,0,ACHOLI,P6,PEASANT,,0
+122,Ra/152723 S/sgt Ayella O David,,,,,Uganda,,,Illegal possesion,,1968,M,Latoro,Tangi Farm,,,,,0,0,0,ACHOLI,S4,UPDF DRIVER,,0
+123,Kinyera Partrick,,,,,Uganda,UWA,01/09-2014,Illegal entry,,1987,M,Pawatomero,Vunga,,,,,0,0,0,ACHOLI,P3,PEASANT,,0
+124,Olam Opoka James,,,,,Uganda,,,Ivory poaching,,1978,M,Latoro,Latoro,,,,,0,0,0,ACHOLI,P6,PEASANT,,0
+125,Ojok Opio,,,,,Uganda,,,Ivory poaching,,1967,M,Ywaya,Ywaya,,,,,0,0,0,ACHOLI,P6,PEASANT,,0
+126,Ojok Charles,,,,,Uganda,,,Ivory poaching,,1983,M,Latoro,Latoro,,,,,0,0,0,ACHOLI,P6,PEASANT,,0
+127,Oola Samuel,,,,,Uganda,,,Ivory poaching,,0,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,S1,PEASANT,,0
+129,Oola Felix,,,,,Uganda,UWA,02/09-2014,Hunting for meat,,1988,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,P4,PEASANT,,0
+128,Arop Denis Sadam,,,,,Uganda,,,Ivory poaching,,1989,M,Hunting Area,Lapono,,,,,0,0,0,ACHOLI,S2,SECURITY GUARD,,0
+130,Olok Bosco,,,,,Uganda,UWA,02/09-2014,Hunting for meat,,1981,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,P4,PEASANT,,0
+131,Ochora Goddy,,,,,Uganda,,,Hunting for meat,,1994,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,P4,PEASANT,,0
+132,Okello Ocii James,,,,,Uganda,,,Hunting for meat,,1982,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,P2,PEASANT,,0
+136,Katabaza Alex,,,,,Uganda,,,Illegal fishing,+256753178903,0,M,Katunguru,Katunguru,,,,,1,4,0,,,,,0
+133,Kibwoola Richard,,,,,Uganda,,,Hunting for meat,,1985,M,Patira,Oruka,,,,,0,0,0,ACHOLI,,PEASANT,,0
+134,Okot Nyekho Den Is,,,,,Uganda,,,Hunting for meat,,0,M,Pawatomero,Oruka,,,,,0,0,0,ACHOLI,S1,PEASANT,,0
+135,Kiiza Robert,,,,,Uganda,,,Illegal grazing,,0,M,Nyakatonzi,Muruti,,,,,1,3,0,,,cattle grazer,,0
+138,Arinaitwe Josephat,,,,,Uganda,,,Illegal grazing,,1984,M,Nyakatonzi,Muruti,,,,,1,1,0,,,,,0
+139,Benedicto Sabiti,,,,,Uganda,UWA,05/09-2014,Illegal entry,,1989,M,Kyabakara,Magombwa,,,,,0,0,0,,,,,0
+140,Cekecan James,,,,,Uganda,,,Illegal entry,,0,M,Ganda,Kivuje,,,,,0,0,0,alur,,PEASANT,,0
+142,Obote Charles,,,,,Uganda,,,Illegal fishing,,1989,M,Baro,Boro,,,,,0,0,0,alur,,PEASANT,,0
+141,Omirambe Gilbert,,,,,Uganda,,,Illegal entry,,0,M,Ganda,Kivuje,,,,,0,0,0,,,,,0
+143,Mugisha Moses,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+144,Mugisha Moses,,,,,Uganda,UWA,09/09-2014,Illegal possesion,0777693739,1989,M,,,,,,,0,0,0,,,,,0
+145,Kiiza Robert,,,,,Uganda,UWA,09/09-2014,Illegal possesion,,1989,M,,,,,,,0,0,0,,,,,0
+146,Lemukol,,,,,Uganda,,,Hunting for meat,,1984,M,Kampswahili,Jerusalem,,,,,0,0,0,Karamojong,,,,0
+147,Sagal Lokwang,,,,,Uganda,,,Hunting for meat,,1984,M,Kampswahili,Jerusalem,,,,,0,0,0,Karamojong,,,,0
+148,Komol Jino,,,,,Uganda,,,Hunting for meat,,1961,M,Losongolo,Namer,,,,,0,0,0,Karamajong,,,,0
+149,Losul Lokiru,,,,,Uganda,,,Hunting for meat,,1991,M,Lodiko,Lodiko,,,,,0,0,0,Karamojong,,,,0
+150,Bahati Robert,,,,,Uganda,UWA,10/09-2014,Illegal fishing,,1980,M,Kasenyi,Kasenyi Fishing Village,,,,,0,0,0,,,,,0
+151,Nahabwe Micheal,,,,,Uganda,UWA,10/09-2014,Illegal fishing,,1985,M,Kashaka,Kashaka,,,,,0,0,0,,,Fisherman,,0
+152,Bahati Katurebe,,,,,Uganda,UWA,10/09-2014,Illegal fishing,,1984,M,Kashaka,Kashaka,,,,,0,0,0,,,Fisherman,,0
+153,Mbazira John,,,,,Uganda,UWA,10/09-2014,Illegal fishing,0756569654,1982,M,Kashaka,Kashaka,,,,,0,0,0,,,,,0
+154,Arubariho Charles,,,,,Uganda,UWA,10/09-2014,Illegal fishing,0751899026,1984,M,Kashaka,Kashaka,,,,,0,0,0,,,Fisherman,,0
+155,Muhindo Christopher,,,,,Uganda,UWA,10/09-2014,Illegal entry,,1951,M,Kihungu,Kihungu,,,,,0,0,0,,,,,0
+156,Muhindo Agness,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+157,Girivazi Turyatemba,,,,,Uganda,Police/UWA,10/09-2014,Illegal entry,0754603300,1984,M,,,,,,,1,1,0,,,peasant,,0
+158,Barugahare Selvest,,,,,Uganda,Police/UWA,10/09-2014,Illegal entry,,1989,M,Kakaari,Kakari,,,,,0,0,0,,,peasant,,0
+163,Barugahare Selvest,,,,,Uganda,UWA,10/09-2014,Illegal entry,,1989,M,Kakaari,Kyabakara,,,,,0,0,0,,,peasant,,0
+164,Kakuru Richard,,,,,Uganda,,,Illegal entry,,1986,M,Kakaari,Katabagwe,,,,,0,0,0,,,Peasant,,0
+165,Tusingire Joseph,,,,,Uganda,UWA,11/09-2014,Illegal entry,,1986,M,Kakaari,Kyabakara,,,,,0,0,0,,,Peasant,,0
+166,Beyunga Guston,,,,,Uganda,,,Illegal entry,0756912685,1981,M,Kakaari,Kyabakara,,,,,0,0,0,,,Peasant,,0
+167,Mugabe George,,,,,Uganda,,,Illegal entry,,1986,M,Kakaari,Kyabakara,,,,,0,0,0,,,Peasant,,0
+168,Tumuhereza Javila,,,,,Uganda,,,Illegal entry,,1989,M,Kakaari,Kyabakara,,,,,0,0,0,,,Peasant,,0
+169,Kithiri Joseph,,,,,Uganda,UWA,11/09-2014,Illegal grazing,,1959,M,Kahokya,Lake Katwe,,,,,0,0,0,,,cattle grazer,,0
+170,Kithiri Joseph,,,,,Uganda,UWA,11/09-2014,Illegal possesion,,1959,M,Kahokya,Kinyateke,,,,,0,0,0,,,cattle grazer,,0
+171,Okello Micheal,,,,,Uganda,,,Illegal entry,,1996,M,Ganda,Siitu,,,,,0,0,0,alur,,PEASANT,,0
+172,Mungumiyo Derick,,,,,Uganda,,,Illegal entry,,1998,M,Ganda,Siitu,,,,,0,0,0,alur,,PEASANT,,0
+173,Dedie Mali,,,,,Uganda,,,Illegal grazing,,1974,M,Nyakatonzi,Muruti,,,,,1,3,0,,,cattle grazer,,0
+175,Matia Kafalis,,,,,Uganda,,,Illegal harvesting,0751009290,1964,M,Mwongyera,Kafuro,,,,,1,6,0,,,Peasant,,0
+176,Ouchi Joel,,,,,Uganda,,,Illegal entry,,1989,M,Amor,Amor Landing Site,,,,,0,0,0,alur,,PEASANT,,0
+177,Kithiri Joseph,,,,,Uganda,,,Hunting for meat,,1959,M,Kahokya,Kinyateke,,,,,2,9,0,,,Peasant,,0
+178,Thembo Benjamin,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1987,M,Kayanja,Kayanja,,,,,1,1,0,,,Peasant,,0
+179,Shahomba John,,,,,Uganda,,,Illegal entry,,1992,M,Kyempara,Kyabakara,,,,,1,1,0,,,Peasant,,0
+180,Masereka Julius,,,,,Uganda,,,Illegal entry,,1940,M,Lyakirema,Chikumbu,,,,,2,11,0,,,Peasant,,0
+181,Okot Micheal,,,,,Uganda,UWA,12/09-2014,Illegal entry,,1968,M,Latoro,Latoro,,,,,0,0,0,ACHOLI,,PEASANT,,0
+182,Ngabirano Venensio,,,,,Uganda,UWA,15/09-2014,Illegal fishing,,1974,M,Queen Elizabeth Np,Rwensama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+183,Kanyonyozi Ephirahim,,,,,Uganda,UWA,15/09-2014,Illegal fishing,,1962,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+184,Arutujuna Alex,,,,,Uganda,,,Illegal fishing,,1986,M,Queen Elizabeth Np,Rwensama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+185,Tibamanya Kefa,,,,,Uganda,,,Illegal fishing,,1979,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,,,0
+186,Muyambi Alex,,,,,Uganda,,,Illegal fishing,,1990,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+187,Mpesi Rashid,,,,,Uganda,,,Illegal fishing,,1994,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,,,0
+188,Mpesi Richard,,,,,Uganda,UWA,16/09-2014,Illegal fishing,,1994,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+189,Kiiza Gad,,,,,Uganda,UWA,16/09-2014,Illegal fishing,,1981,M,Queen Elizabeth Np,Rwenshama Fishing Village,,,,,0,0,0,,,Fisherman,,0
+190,Masereka Johnson,,,,,Uganda,,,Hunting for meat,,1990,M,Nyakatonzi,Bwanika,,,,,0,0,0,,,,,0
+191,Kyokushaba Inidi,,,,,Uganda,,,Illegal harvesting,,1983,F,Kanyangeya,Kidodo,,,,,0,3,0,,,,,0
+192,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+193,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+194,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+195,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+196,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+197,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+198,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+199,Mbabu Joselin,,,,,Uganda,UWA,16/09-2014,,,1979,F,Kanyangeya,Kidodo,,,,,0,0,0,,,,,0
+200,Mbambu Joselin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+201,Mbambu Joselin,,,,,Uganda,UWA,16/09-2014,Illegal harvesting,,1979,F,Kanyangeya,Kidodo,,,,,0,0,0,,,,,0
+202,Tumuhimbise Ambrose,,,,,Uganda,,,Illegal entry,,1968,M,Queen Elizabeth Np,Rwensama Fishing Village,,,,,0,0,0,,,,,0
+203,Balinde Eriabu,,,,,,UWA,17/09-2014,,,0,,,,,,,,0,0,0,,,,,0
+204,Balinde Eriabu,,,,,Uganda,UWA,17/09-2014,Illegal possesion,,1977,M,Mwongyera,Nyamirima,,,,,0,0,0,,,Peasant,,0
+205,Karuhanga Francisiko,,,,,Uganda,,,Illegal harvesting,,1967,M,Kyabakara,Rugarama 2,,,,,0,0,0,,,Peasant,,0
+206,Byarugaba Jackson,,,,,Uganda,UWA,17/09-2014,Illegal farming,,1970,M,Kyabakara,Rugarama 2,,,,,0,0,0,,,Peasant,,0
+207,Akamanya Edward,,,,,Uganda,UWA,01/10-2014,Illegal harvesting,,1996,M,Kyabakara,Rugarama 2,,,,,0,0,0,,,Peasant,,0
+208,Walyuba Saleri,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+209,Walyuba Saleri,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+210,Walyuba Saleri,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+211,Walyuba Saleri,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+212,Walyuba Saleri,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+213,Walyuba Saleri,,,,,Uganda,,,Illegal grazing,,1977,M,Queen Elizabeth  Np,Busunga,,,,,0,0,0,,,cattle grazer,,0
+214,Rugundan Sam,,,,,,UWA,18/09-2014,,,0,,,,,,,,0,0,0,,,,,0
+215,Rugundan Sam,,,,,Uganda,,,Illegal grazing,,0,M,Queen Elizabeth  Np,Busunga,,,,,0,0,0,,,cattle grazer,,0
+216,Mukyine Robert,,,,,Uganda,,,Illegal grazing,,0,M,Queen Elizabeth  Np,Busunga,,,,,0,0,0,,,cattle grazer,,0
+217,Luwukwe Paul,,,,,Uganda,,,Hunting for meat,,1991,M,Kinyara,Naqmilyango,,,,,0,0,0,karamojong,,peasant,,0
+218,Kabandise Esan,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+219,Kabandise Esan,,,,,Uganda,,,Illegal grazing,,1995,M,Queen Elizabeth  Np,Busunga,,,,,0,0,0,,,cattle grazer,,0
+220,Masiko Anthony,,,,,Uganda,UWA,22/09-2014,Illegal fishing,,2002,M,Kyabakara,Hankungu,,,,,0,0,0,,,,,0
+221,Mugisha John,,,,,Uganda,,,Illegal harvesting,0771695667,1972,M,Mwongyera,Kigabiro,,,,,1,6,0,,P4,Road Maintainer,,0
+222,Mwebembezi Selverio,,,,,Uganda,,,Illegal harvesting,0789404703,1974,M,Mwongyera,Busonga,,,,,2,10,0,,P4,Road Maintainer,,0
+223,Dada Yacobo,,,,,Uganda,,,Illegal harvesting,,1972,M,Mwongyera,Butuha,,,,,2,9,0,,P2,Road Maintainer,,50000
+224,Erick John Kafurasa,,,,,Uganda,,,Illegal fishing,,0,M,Munyonyi,Hankunku,,,,,1,1,0,,P2,Peasant,,0
+225,Dedie Mali,,,,,Uganda,,,Illegal grazing,,1970,M,Nyakatonzi,Muruti,,,,,1,3,0,,,,,0
+226,Muhindo Christopher,,,,,Uganda,Police/UWA,25/09-2014,Illegal harvesting,,1951,M,Kabirizi,Kihungu,,,,,2,9,0,,,,,0
+227,Rwakojo Jackson,,,,,Uganda,,,Illegal grazing,,1984,M,Hamukungu,Hankungu,,,,,0,0,0,,,,,0
+228,Rubalema Moses,,,,,Uganda,,,Illegal grazing,,1986,M,Mwongyera,Rwandaro,,,,,1,5,0,,,,,0
+229,Twine Jackson,,,,,Uganda,UWA,26/09-2014,Illegal fishing,,1996,M,,,,,,,0,0,0,,,,,0
+230,Joseph Kule,,,,,Uganda,,,Illegal possesion,,1961,M,Nyakiyumbu,Bukangara,,,,,0,0,0,,,Peasant,,0
+231,Ocama Charles,,,,,Uganda,,,Illegal entry,,1954,M,Kisiabi,Ngwedo,,,,,0,0,0,mugungu,,peasant,,0
+232,Odong Angelo,,,,,Uganda,,,Illegal entry,,1970,M,Kisiabi,Muvule1,,,,,0,0,0,alur,,peasant,,0
+233,Amanya Edward,,,,,Uganda,UWA,01/10-2014,Illegal possesion,,1996,M,Kyarukara,Katwe,,,,,0,0,0,,,fisherman,,0
+234,Baligonzaki Richard,,,,,,,,,,0,,Kisiabi,Kisoke,,,,,0,0,0,,,,,0
+236,Muhamed Baseme,,,,,Uganda,,,Illegal possesion,0754514982,1982,M,Kishenyi,Kisenyi,,,,,1,3,0,,,Fisher man,,0
+237,Ssembala Yusufu,,,,,Uganda,,,Illegal possesion,,1973,M,Kishenyi,Kishenyi,,,,,1,4,0,,,Fisher man,,0
+238,Namaganda Katongore,,,,,Uganda,,,Illegal entry,,1986,F,Katunguru,Kigabo,,,,,0,0,0,Muganda,,Peasant,,0
+239,Asiimwe Mary,,,,,Uganda,,,Illegal entry,,1989,F,Katunguru,Kigabo,,,,,0,0,0,Munyankole,,Peasant,,0
+240,Mercy Anet,,,,,Uganda,,,Illegal entry,,1990,F,Katunguru,Kigabo,,,,,0,0,0,Mukonzo,,weaving  Mats,,0
+241,Tedora Nyaburenge,,,,,Uganda,,,Illegal entry,,1949,F,Katunguru,Kigabo,,,,,0,0,0,Mukonzo,,Peasant,,0
+242,Arinitwe Yafesi,,,,,Uganda,,,Illegal entry,,1960,M,Kiyanga,Kihungye,,,,,1,5,0,Mukiga,,Peasant,,0
+243,Rubangakene Geofrey,,,,,Uganda,,,Hunting for meat,,1998,M,Latoro,Lolim Village,,,,,0,0,0,ACHOLI,,peasant,,0
+244,Kuzara Peter,,,,,Uganda,,,Illegal fishing,0754502352,1979,M,Kishenyi,Nyamweru,,,,,1,2,0,Munyankole,,Fisherman,,0
+245,Kiiza Jovenile,,,,,Uganda,,,Illegal fishing,,1991,M,Kishenyi,Nyamweru,,,,,0,0,0,Mukonzo,,Fisherman,,0
+246,Opio Sam,,,,,Uganda,,,Hunting for meat,,2004,M,Latoro,Lolim Village,,,,,0,0,0,ACHOLI,,peasant,,0
+247,Mwebesa Abud,,,,,Uganda,,,Illegal fishing,0773002636,1984,M,Kishenyi,Nyamweru,,,,,1,0,0,Munyankole,,Fisherman,,0
+248,Tindyebwa Wickliff,,,,,Uganda,,,Illegal fishing,,1991,M,Kishenyi,Nyamweru,,,,,1,1,0,Mukiga,,Fisherman,,0
+249,Kabebi Milton,,,,,Uganda,,,Illegal possesion,,1978,M,Katerera,Nyakahita,,,,,1,0,0,Munyarwanda,,peasant,,0
+250,Turyakira John,,,,,Uganda,,,Illegal possesion,,1961,M,Katerera,Nyakahita,,,,,1,6,2,Mukiga,,Peasant,,0
+251,Shahomba John,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1987,M,Kayanja,Nyakiyumbu,,,,,1,2,0,Mukonzo,,Fisherman,,0
+252,Thembo Benjamin,,,,,,,,,,0,,,,,,,,0,0,0,,,,,0
+253,Thembo Benjamin,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1987,M,Nyakiyumbu,Kayanja,,,,,1,2,0,Mukonzo,,Fisherman,,0
+254,Syahomba John,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1988,M,Kyempara,Isango,,,,,1,0,0,Mukonzo,,Fisherman,,0
+255,Masereka Julius,,,,,Uganda,UWA,02/10-2014,Illegal fishing,,1940,M,Nyakiyumbu,Chikumbi,,,,,2,7,0,Mukonzo,,Fisherman,,0
+256,Bwambale Nelson,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1973,M,Nyakiyumbu,Chikumbi,,,,,1,5,0,Mukonzo,,Fisherman,,0
+257,Muhindo Yofesti,,,,,Uganda,UWA,02/10-2014,Illegal fishing,,1987,M,Nyakiyumbu,Bunyiswa,,,,,0,0,0,Mukonzo,,Fisherman,,0
+258,Mwanamolho Kato,,,,,,UWA,02/10-2014,Illegal entry,,0,,,,,,,,0,0,0,,,,,0
+259,Happy Pangani,,,,,Uganda,UWA,02/10-2014,Illegal entry,,1978,M,Kabirizi,Kabirizi,,,,,0,0,0,Mukonjo,,Peasant,,0
+260,Twagarimana Gasperi,,,,,Rwanda,,,Illegal possesion,,1995,,,Gasunju Village,,,,,0,0,0,,,,,0
+261,Turyakira Ezra,=11=,,,,,,,,,1979,M,,Katerera,,,,,0,0,0,,,,,0
+262,Arakigambe Enock,=12=,,,,Uganda,,,Illegal possesion of wildlife,,1986,M,Maramagambo Fr,Kinyabutumbi,,,,,0,0,0,,,,,0
+263,Baluku Jackson,=13=,,,,Uganda,,,Illegal possesion of wildlife,,1978,M,Bwera Gr,Kilembe,,,,,0,0,0,,,,,0
+264,Kwehangana Banabas,=14=,,,,Uganda,,,Illegal possesion of wildlife,,1977,M,,Katerera,,,,,0,0,0,,,,,0
+265,Bob Marena,=15=,,,,Uganda,,,Illegal possesion of wildlife,,1964,M,Bwera Gr,Kasese Town,,,,,0,0,0,,,,,0
+266,Mubarak Zakaria,=16=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,Bwera Gr,Kasese Town,,,,,0,0,0,,,,,0
+267,Wilson Bob,=17=,,,,Uganda,,,Illegal possesion of wildlife,,1964,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+268,Katusabe Colonel,=18=,,,,Uganda,,,Illegal entry,,1977,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+269,Dada Tadeo,=19=,,,,Uganda,,,Illegal possesion,,1964,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+270,Stephen Kazera,=20=,,,,Uganda,,,Illegal possesion,,1967,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+271,Baluku Alfred,=21=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+272,Begumisa Michael,=22=,,,,Uganda,,,Illegal entry,,1980,M,,Nyakabungu,,,,,0,0,0,,,,,0
+273,Musinguzi Eliab,=23=,,,,Uganda,,,Illegal entry,,1982,M,,Nyakabungu,,,,,0,0,0,,,,,0
+274,Turinabo Godius,=24=,,,,Uganda,,,Illegal entry,,1982,M,,Hankungu,,,,,0,0,0,,,,,0
+275,Byamukama Wilson,=25=,,,,Uganda,,,Illegal possesion of wildlife,,1977,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+276,Topisita Neema,=26=,,,,Uganda,,,Illegal possesion of wildlife,,1983,M,Bwera Gr,Kiganda,,,,,0,0,0,,,,,0
+277,Paul Kugonza,=27=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,Bwera Gr,Kiganda,,,,,0,0,0,,,,,0
+278,Kwetookyo Gabliel,=28=,,,,Uganda,,,Illegal possesion,,1977,M,Kalinzu Fr,Kalinzo,,,,,0,0,0,,,,,0
+279,Mukasa Richard,=29=,,,,Uganda,,,,,1980,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+280,Masereka John,=30=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+281,Hetegyeka Godfrey,=31=,,,,Uganda,,,Illegal entry,,1978,M,,Rwakingi,,,,,0,0,0,,,,,0
+282,Mugisha Elly,=32=,,,,Uganda,,,Illegal entry,,1974,M,,Kakomba,,,,,0,0,0,,,,,0
+283,Eriyasi Kyatuka,=33=,,,,Uganda,,,Illegal entry,,1958,M,Kalinzu Fr,Nyabubale,,,,,0,0,0,,,,,0
+284,Kasigire Alex,=34=,,,,Uganda,,,Illegal entry,,1967,M,Kalinzu Fr,Nyabubale,,,,,0,0,0,,,,,0
+285,Bukombi Modesto,=35=,,,,Uganda,,,Illegal entry,,1972,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+286,Masika Jane,=36=,,,,Uganda,,,Illegal possesion of wildlife,,1985,F,,Kikonzo,,,,,0,0,0,,,,,0
+287,Musimwenta Goreti,=37=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,,Kikonzo,,,,,0,0,0,,,,,0
+288,Kabugho Jane,=38=,,,,Uganda,,,Illegal possesion of wildlife,,1987,F,,Kikonzo,,,,,0,0,0,,,,,0
+289,Baluku Selverio,=39=,,,,Uganda,,,Illegal entry,,1987,M,,Katunguru fishing village,,,,,0,0,0,,,,,0
+290,Arinaitwe Habas,=40=,,,,Uganda,,,Illegal entry,,1983,M,,Ishasha,,,,,0,0,0,,,,,0
+291,Sanyu Robert,=41=,,,,,,,,,1998,M,,Nyakatonze,,,,,0,0,0,,,,,0
+292,Kasereka Bukani,=42=,,,,,,,,,1995,M,,Nyakatonze,,,,,0,0,0,,,,,0
+293,Tindyebwa Kibalama,=43=,,,,Uganda,,,Illegal possesion,,1987,M,Bwera Gr,Katholhu,,,,,0,0,0,,,,,0
+294,Kule Hanning,=44=,,,,,,,,,1982,M,Bwera Gr,Kathanda,,,,,0,0,0,,,,,0
+295,Sunday Timothy,=45=,,,,,,,,,1967,M,Bwera Gr,Kaghore III,,,,,0,0,0,,,,,0
+296,Lusege Jolesi,=46=,,,,,,,,,1962,M,Bwera Gr,Katsungiro,,,,,0,0,0,,,,,0
+297,Muhindo Stephen,=47=,,,,,,,,,1985,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+298,Masereka David,=48=,,,,,,,,,1960,M,Bwera Gr,Kayanja fishing,,,,,0,0,0,,,,,0
+299,Muhindo Paul,=49=,,,,,,,,,1958,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+300,Bunane Elinatho,=50=,,,,,,,,,1958,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+301,Bwambale Ngenzo,=51=,,,,,,,,,1948,M,Bwera Gr,Kinyamaseka,,,,,0,0,0,,,,,0
+302,Bwambale William,=52=,,,,,,,,,1962,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+303,Byabanemu Baluku,=53=,,,,,,,,,1962,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+304,Baluku Selevest,=54=,,,,,,,,,1960,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+305,Malyana Matiya,=55=,,,,,,,,,1960,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+306,Baluku Kapuni,=56=,,,,,,,,,1969,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+307,Kamate Kitima,=57=,,,,,,,,,1964,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+308,Murangira Mededi,=59=,,,,,,,,,1970,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+309,Milton Turyagumanawe,=60=,,,,,,,,,1968,M,,Railway,,,,,0,0,0,,,,,0
+310,Masereka Johnson,=61=,,,,,,,,,1995,M,,Busunga,,,,,0,0,0,,,,,0
+311,Muhindo Hamuza,=62=,,,,Uganda,,,Illegal entry,,1982,M,Bwera Gr,Kinyamaseka,,,,,0,0,0,,,,,0
+312,Musinguzi Edward,=63=,,,,Uganda,,,Illegal entry,,1983,M,,Nyakatonze,,,,,0,0,0,,,,,0
+313,Banturaki Charles,=64=,,,,Uganda,,,Illegal entry,,1978,M,,Kidodo,,,,,0,0,0,,,,,0
+314,Kasaija Joseph,=65=,,,,Uganda,,,Illegal entry,,1991,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+315,Nakatuude Benaed,=66=,,,,,,,,,1993,M,,Katwe,,,,,0,0,0,,,,,0
+316,Bachwa David,=67=,,,,Uganda,,,Illegal grazing,,1954,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+317,Mugyenyi Patrick,=68=,,,,Uganda,,,,,1980,M,Bwera Gr,Murutu,,,,,0,0,0,,,,,0
+318,Byamugisha Everesto,=69=,,,,Uganda,,,Illegal entry,,1974,M,,Kyambura,,,,,0,0,0,,,,,0
+319,Ngoto Remegio,=70=,,,,Uganda,,,Other illegal activities,,1950,M,,Kikorongo,,,,,0,0,0,,,,,0
+320,Kiiza Charles,=72=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+321,Bwambale Godfrey,=73=,,,,Uganda,,,Illegal entry,,1981,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+322,Begumisa Stephen,=74=,,,,Uganda,,,Illegal entry,,1950,M,,Kashaka,,,,,0,0,0,,,,,0
+323,Tubuhwa Benon,=75=,,,,Uganda,,,Illegal entry,,1984,M,,Kyambura,,,,,0,0,0,,,,,0
+324,Asiimwe Moses,=76=,,,,Uganda,,,Illegal entry,,1985,M,,Kinera -Kashaka,,,,,0,0,0,,,,,0
+325,Bulemu Denis,=77=,,,,Uganda,,,Illegal entry,,1974,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+326,Kamate Katima,=78=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+327,Byaruga Silvano,=79=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kayanja,,,,,0,0,0,,,,,0
+328,Balyamzura Abel,=80=,,,,,,,,,1961,M,Kyangwali Gr,Karama,,,,,0,0,0,,,,,0
+329,Ninda Julius,=81=,,,,,,,,,1980,M,,Rusoro,,,,,0,0,0,,,,,0
+330,Kesiga Lelenge Michael,=82=,,,,,,,,,1967,M,,Katara,,,,,0,0,0,,,,,0
+331,Francis Kabondogwize,=83=,,,,,,,,,1959,M,,Kyanzaza,,,,,0,0,0,,,,,0
+332,Alishaba Sarafilio,=84=,,,,Uganda,,,Illegal entry,,1994,M,Kalinzu Fr,Lyamuhunga,,,,,0,0,0,,,,,0
+333,Mwejukye Reuben,=85=,,,,Uganda,,,Illegal entry,,1993,M,Kalinzu Fr,Lyanyamuhondo,,,,,0,0,0,,,,,0
+334,Muruhura Jonas,=86=,,,,Uganda,,,Illegal entry,,1992,M,Kalinzu Fr,Lyanyamuhundo,,,,,0,0,0,,,,,0
+335,Bitwire Ivan,=87=,,,,Uganda,,,Illegal entry,,1980,M,,Nyakatembe,,,,,0,0,0,,,,,0
+336,Natunda Filex,=88=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,,Katara,,,,,0,0,0,,,,,0
+337,Byamukama David,=89=,,,,Uganda,,,Illegal possesion of wildlife,,1992,M,,Katara,,,,,0,0,0,,,,,0
+338,Kagai Adruf,=90=,,,,Uganda,,,Illegal possesion of wildlife,,1993,M,,Kichwamba,,,,,0,0,0,,,,,0
+339,Abiine Nazaria,=91=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,,Katerera,,,,,0,0,0,,,,,0
+340,Kakule Lasio,=92=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,Bwera Gr,Kitabu,,,,,0,0,0,,,,,0
+341,Kisuki David,=93=,,,,Uganda,,,Illegal possesion of wildlife,,1977,M,Bwera Gr,Karusandara,,,,,0,0,0,,,,,0
+342,Nasasiri,=94=,,,,Uganda,,,Illegal entry,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+343,Arinaitwe Rodgers,=95=,,,,Uganda,,,Illegal entry,,1980,M,,Busunga,,,,,0,0,0,,,,,0
+344,Kule Jonas,=96=,,,,Uganda,,,Illegal entry,,1988,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+345,Wizaya Posiano,=97=,,,,Uganda,,,Illegal entry,,1987,M,,Mirammbi,,,,,0,0,0,,,,,0
+346,Bwambale Tadeo,=98=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+347,Baluku Jovenile,=99=,,,,Uganda,,,Illegal entry,,1980,M,,Kabirizi,,,,,0,0,0,,,,,0
+348,Balikenge Augustine,=100=,,,,,,,,,1991,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+349,Byayesu Charles,=101=,,,,,,,,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+350,Francis Kabondogwizi,=102=,,,,Uganda,,,Illegal possesion,,1961,M,,Kyanzaza,,,,,0,0,0,,,,,0
+351,Twongyeirwe Edson,=103=,,,,Uganda,,,Illegal entry,,1983,M,Queen Elizabeth Np,Nyakagera,,,,,0,0,0,,,,,0
+352,Byaruhanga James,=104=,,,,Uganda,,,Illegal entry,,1987,M,Queen Elizabeth Np,Nyakagera,,,,,0,0,0,,,,,0
+353,Sirambere Bahati,=105=,,,,Uganda,,,Illegal entry,,1977,M,Queen Elizabeth Np,Matanda,,,,,0,0,0,,,,,0
+354,Hakirimali Ngalima,=106=,,,,Uganda,,,Illegal entry,,1982,M,Queen Elizabeth Np,Matanda,,,,,0,0,0,,,,,0
+355,Friday Frank,=107=,,,,,,,,,1995,M,Kikarara,Rushaya,,,,,0,0,0,,,,,0
+356,Arinda Brain,=108=,,,,,,,,,1996,M,,Rushaya,,,,,0,0,0,,,,,0
+357,Mujasi Perezi,=113=,,,,,,,,,1991,M,,Busunga,,,,,0,0,0,,,,,0
+358,Ocheng Odwor,=114=,,,,Uganda,,,Illegal entry,,1980,F,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+359,Kasweka Joel,=115=,,,,Uganda,,,Illegal entry,,1984,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+360,Masereka Joseph,=116=,,,,Uganda,,,Illegal entry,,1965,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+361,Masereka Silvano,=117=,,,,Uganda,,,Illegal entry,,1989,M,,Busunga,,,,,0,0,0,,,,,0
+362,Madivan Alfred,=118=,,,,Uganda,,,Illegal possesion,,1980,M,Bwera Gr,Kichwamba,,,,,0,0,0,,,,,0
+363,Bwambale Pregirino,=119=,,,,,,,,,1960,M,Bwera Gr,Kinyamaseke,,,,,0,0,0,,,,,0
+364,Thembo Lawrence,=120=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kinyamaseke,,,,,0,0,0,,,,,0
+365,Ntseke Deo,=121=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Kinyameseka,,,,,0,0,0,,,,,0
+366,Mbusa Musisi,=122=,,,,Uganda,,,Illegal entry,,1977,M,Bwera Gr,Kinyamaseka,,,,,0,0,0,,,,,0
+367,Baluku Kanungana,=123=,,,,Uganda,,,Illegal entry,,1982,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+368,Kibaya Johnson,=124=,,,,Uganda,,,Illegal entry,,1977,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+369,Masereka Alex,=125=,,,,Uganda,,,Illegal entry,,1982,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+370,Bwambale Yofesi,=126=,,,,Uganda,,,Illegal entry,,1984,M,Bwera Gr,Kamulikwizi,,,,,0,0,0,,,,,0
+371,Duryahozaki Tito,=127=,,,,Uganda,,,Illegal entry,,1960,M,,Kiyanga,,,,,0,0,0,,,,,0
+372,Kasesri Yusuf,=128=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,,Kabukwiri,,,,,0,0,0,,,,,0
+373,Amanyire Stephen,=129=,,,,,,,,,1975,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+374,Karetenga Toma,=130=,,,,,,,,,1969,M,Bwera Gr,muhokya,,,,,0,0,0,,,,,0
+375,Medy Augustine,=131=,,,,,,,,,1978,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+376,Amanyani Posiano,=132=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+377,Kalyo Posiano,=133=,,,,Uganda,,,Illegal possesion of wildlife,,1967,M,Bwera Gr,Kitabo,,,,,0,0,0,,,,,0
+378,Tweheyo David,=134=,,,,Uganda,,,Illegal entry,,1969,M,,Kabukwiri,,,,,0,0,0,,,,,0
+379,Katungi Brian,=135=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Karusandara,,,,,0,0,0,,,,,0
+380,Robert Kabisi,=136=,,,,Uganda,,,Illegal entry,,1992,M,,Busunga,,,,,0,0,0,,,,,0
+381,Nyamirama Masereka,=138=,,,,Uganda,,,Illegal entry,,1980,M,Queen Elizabeth  Np,Nyakiyumbu,,,,,0,0,0,,,,,0
+382,Kataki Roneld,=139=,,,,Uganda,,,Illegal entry,,1978,M,Queen Elizabeth  Np,Nyakiyumbu,,,,,0,0,0,,,,,0
+383,Mpagi Fedinand,=140=,,,,,,,,,1976,M,,Rwenjubu,,,,,0,0,0,,,,,0
+384,Kabatito Kelly,=141=,,,,,,,,,1991,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+385,Mwesigwa Coleb,=142=,,,,Uganda,,,Illegal possesion,,1982,M,,Rutoto,,,,,0,0,0,,,,,0
+386,Bagambe Zobio,=143=,,,,Uganda,,,Illegal possesion,,1960,M,,Rutoto,,,,,0,0,0,,,,,0
+387,Masereka Wiliam,=144=,,,,,,,,,1976,M,,Rusese,,,,,0,0,0,,,,,0
+388,Tubaka Benon,=145=,,,,,,,,,1976,M,,Katerera,,,,,0,0,0,,,,,0
+389,Tumwesigye Samuel,=146=,,,,Uganda,,,Illegal possesion of wildlife,,1990,M,,Katerera,,,,,0,0,0,,,,,0
+390,Tumwine Yosan,=147=,,,,Uganda,,,Illegal possesion,,1987,M,,Kizira,,,,,0,0,0,,,,,0
+391,Kaper Edward,=148=,,,,Uganda,,,Illegal possesion of wildlife,,1990,M,,Kizira,,,,,0,0,0,,,,,0
+392,Tayeb Moses,=149=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,,Kizira,,,,,0,0,0,,,,,0
+393,Jockim Kakweya,=150=,,,,Uganda,,,,,1992,F,Bwera Gr,Kinyamaseka,,,,,0,0,0,,,,,0
+394,Mwize Eria,=151=,,,,,,,,,1980,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+395,Kahigwa Augusto,=152=,,,,,,,,,1978,M,,Busunga,,,,,0,0,0,,,,,0
+396,Bwambale Rashid,=153=,,,,,,,,,1987,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+397,Bwengye Josephat,=154=,,,,,,,,,1969,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+398,Tibijuka Thomas,=155=,,,,Uganda,,,Illegal entry,,1970,M,Queen Elizabeth Np,Kiyanga,,,,,0,0,0,,,,,0
+399,Ngorogweki James,=156=,,,,Uganda,,,Illegal entry,,1970,M,,Kiyanga,,,,,0,0,0,,,,,0
+400,Bisereko Venasio,=157=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+401,Muhindo Alfred,=158=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+402,Mugisha George,=159=,,,,Uganda,,,Illegal entry,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+403,Bashaja Robert,=160=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+404,Thembo Moses,=161=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+405,Kabigo Moses,=162=,,,,Uganda,,,Illegal entry,,1985,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+406,Musinguzi Patrick,=163=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+407,Kamukama Fredrick,=164=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+408,Abigaba Patrick,=165=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+409,Friday Wilson,=166=,,,,Uganda,,,Illegal entry,,1967,M,Bwera Gr,Kidod,,,,,0,0,0,,,,,0
+410,Byaruhanga Moses,=167=,,,,Uganda,,,Illegal entry,,1967,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+411,Ndyanabo Francis,=168=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+412,Bwambale Kibaya,=169=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Katholhu,,,,,0,0,0,,,,,0
+413,Geofrey Mpaine,=170=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Kyondo,,,,,0,0,0,,,,,0
+414,Mwesigwa Francis,=171=,,,,,,,,,1967,M,Bwera Gr,Kyondo,,,,,0,0,0,,,,,0
+415,Katurebe Pius Busombe,=172=,,,,Uganda,,,Illegal entry,,1977,M,Queen Elizabeth Np,Burambi,,,,,0,0,0,,,,,0
+416,Mushabe Alex,=173=,,,,Uganda,,,Illegal entry,,1994,M,,Hankungu,,,,,0,0,0,,,,,0
+417,Katumba Bonoventura,=174=,,,,Uganda,,,Illegal entry,,1958,M,Rwenzori Mountain Fr,Kaghorwe,,,,,0,0,0,,,,,0
+418,Masereka Selly,=175=,,,,Uganda,,,Illegal entry,,1962,M,Bwera Gr,Rwengajo,,,,,0,0,0,,,,,0
+419,Sunday Edson,=176=,,,,Uganda,,,Illegal entry,,1978,M,Bwera Gr,Mairukum,,,,,0,0,0,,,,,0
+420,Masereka Daniel,=177=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Kahokya,,,,,0,0,0,,,,,0
+421,Mulinga Zabron,=179=,,,,,,,,,1978,M,,Saluti B,,,,,0,0,0,,,,,0
+422,Bikingana Emmanuel,=180=,,,,,,,,,1974,M,Bwera Gr,Kyambogho,,,,,0,0,0,,,,,0
+423,Bwambale Ezakiel,=181=,,,,,,,,,1974,M,Bwera Gr,Kinyateke,,,,,0,0,0,,,,,0
+424,Mugisha Yoweri,=182=,,,,Uganda,,,Illegal entry,,1970,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+425,Kule Hanis,=183=,,,,Uganda,,,Illegal possesion,,1980,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+426,Bwambale Johnson,=184=,,,,Uganda,,,Illegal entry,,1978,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+427,Kanyambwa William,=185=,,,,Uganda,,,Hunting for meat,,1950,F,Bwera Gr,Kaleberyo,,,,,0,0,0,,,,,0
+428,Kanyambwa Elias,=186=,,,,Uganda,,,Hunting for meat,,1980,M,Bwera Gr,Kaleberyo,,,,,0,0,0,,,,,0
+429,Bwambale Jonas,=187=,,,,Uganda,,,Hunting for meat,,1965,M,Bwera Gr,Kaleberyo,,,,,0,0,0,,,,,0
+430,Mbambu Masirda,=188=,,,,Uganda,,,Hunting for meat,,1986,M,Bwera Gr,Kahokya,,,,,0,0,0,,,,,0
+431,Biira Nabas,=189=,,,,Uganda,,,Hunting for meat,,1984,F,Bwera Gr,Kahokya,,,,,0,0,0,,,,,0
+432,Bwambale Nelson,=190=,,,,Uganda,,,Hunting for meat,,1980,M,Bwera Gr,Kaleberyo,,,,,0,0,0,,,,,0
+433,Bwambale Nehemia,=191=,,,,Uganda,,,Hunting for meat,,1985,M,Bwera Gr,Kahokya,,,,,0,0,0,,,,,0
+434,Turyatunga,=192=,,,,Uganda,,,Illegal possesion,,1980,M,,Kiyanga,,,,,0,0,0,,,,,0
+435,Ntegyerize Husseine,=193=,,,,Uganda,,,Illegal entry,,1967,M,,Kiyanga,,,,,0,0,0,,,,,0
+436,Bwambale Murefu,=194=,,,,Uganda,,,Illegal entry,,1967,M,,Busunga,,,,,0,0,0,,,,,0
+437,Mugyeni Patrick,=195=,,,,Uganda,,,Illegal entry,,1974,M,,Nyamugasani,,,,,0,0,0,,,,,0
+438,Byamugisha Everist,=196=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kyambura,,,,,0,0,0,,,,,0
+439,Kisembo Janerose,=197=,,,,,,,,,1968,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+440,Mugabe Robert,=200=,,,,,,,,,1960,M,Bwera Gr,katwe,,,,,0,0,0,,,,,0
+441,Mugabe Patrick,=201=,,,,,,,,,1980,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+442,Madiva Alfred,=203=,,,,Uganda,,,Illegal entry,,1980,M,,Kichwamba,,,,,0,0,0,,,,,0
+443,Muchunguzi Jackson,=204=,,,,Uganda,,,Illegal entry,,1968,M,,Kyambura,,,,,0,0,0,,,,,0
+444,Kabanza Domaro,=205=,,,,Uganda,,,Illegal entry,,1983,M,,Busunga,,,,,0,0,0,,,,,0
+445,Msereka Silvno,=206=,,,,Uganda,,,Illegal entry,,1984,M,Bwera Gr,Kisinga,,,,,0,0,0,,,,,0
+446,Nakattude Benaerd,=207=,,,,Uganda,,,Illegal entry,,1982,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+447,Kagai Adoluf,=208=,,,,Uganda,,,Illegal entry,,1967,M,,Kyambura,,,,,0,0,0,,,,,0
+448,Natukunda Flex,=209=,,,,Uganda,,,Illegal entry,,1980,M,,Kichwamba,,,,,0,0,0,,,,,0
+449,Dedie Mali,=210=,,,,,,,,,1977,M,,Nyakatonze,,,,,0,0,0,,,,,0
+450,Monday Kaherwa,=211=,,,,Uganda,,,Illegal entry,,1985,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+451,Muhindo Franco,=212=,,,,Uganda,,,Illegal entry,,1985,M,Bwera Gr,Kyarumba,,,,,0,0,0,,,,,0
+452,Lubwama Moses,=213=,,,,Uganda,,,Illegal entry,,1968,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+453,Busingye Robert,=214=,,,,Uganda,,,Illegal entry,,1967,M,Bwera Gr,KASESE,,,,,0,0,0,,,,,0
+454,Siraji Simakula,=215=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+455,Kamala Stephen,=216=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+456,Bwambale Juma,=217=,,,,Uganda,,,Illegal entry,,1973,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+457,Bwambale,=219=,,,,Uganda,,,Illegal entry,,1982,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+458,Kagah Adurofu,=220=,,,,Uganda,,,Illegal entry,,1980,M,,Nyakatanda,,,,,0,0,0,,,,,0
+459,Abine Nazario,=221=,,,,Uganda,,,Illegal entry,,1978,M,,Nyakatanda,,,,,0,0,0,,,,,0
+460,Tibesigwa Vicent,=222=,,,,Uganda,,,Illegal entry,,1982,M,,Nyakatanda,,,,,0,0,0,,,,,0
+461,Tibihwa Benon,=226=,,,,Uganda,,,Illegal entry,,1980,M,,Katerera,,,,,0,0,0,,,,,0
+462,Kakwaya Jockim,=228=,,,,Uganda,,,,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+463,Kuyamba Apollo,=229=,,,,Uganda,,,Illegal entry,,1974,M,,Nyakahita,,,,,0,0,0,,,,,0
+464,Katalikawe David,=230=,,,,Uganda,,,Illegal entry,,1960,M,,Kiyanga,,,,,0,0,0,,,,,0
+465,Muhangyi Vicent,=231=,,,,Uganda,,,Illegal entry,,1976,M,,Kiyanga,,,,,0,0,0,,,,,0
+466,Katushabe Agness,=232=,,,,Uganda,,,Illegal entry,,1988,F,,Katunguru,,,,,0,0,0,,,,,0
+467,Namutembi Jaria,=233=,,,,Uganda,,,Illegal entry,,1988,F,,Katunguru,,,,,0,0,0,,,,,0
+468,Bulengye Festo,=234=,,,,Uganda,,,,,1981,M,Bwera Gr,Nyakatonzi,,,,,0,0,0,,,,,0
+469,Kaswaka Yohama,=236=,,,,Uganda,,,Illegal entry,,1992,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+470,Muhindo John,=237=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+471,Kabwana Augustin,=238=,,,,Uganda,,,Illegal possesion of wildlife,,1979,M,Bwera Gr,Katojo,,,,,0,0,0,,,,,0
+472,Amadi Ali,=239=,,,,Uganda,,,Illegal possesion of wildlife,,1966,M,Bwera Gr,Katojo,,,,,0,0,0,,,,,0
+473,Buguma Bob,=240=,,,,Uganda,,,Illegal possesion of wildlife,,1972,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+474,Mbusa Micheal,=241=,,,,Uganda,,,Illegal entry,,1985,M,,kabirizi,,,,,0,0,0,,,,,0
+475,Masereka Suleiman,=243=,,,,Uganda,,,Illegal entry,,1975,M,Bwera Gr,Bwera,,,,,0,0,0,,,,,0
+476,Bogere Alex,=244=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kigoro,,,,,0,0,0,,,,,0
+477,Mucunguzi Ptrick,=245=,,,,Uganda,,,Illegal entry,,1981,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+478,Kagwa Patrick,=246=,,,,Uganda,,,Illegal entry,,1989,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+479,Tumwesigye Bonefance,=247=,,,,Uganda,,,Illegal entry,,1980,M,,Kiyanga,,,,,0,0,0,,,,,0
+480,Begumisha Augustine,=248=,,,,Uganda,,,Illegal entry,,1979,M,,Kiyanga,,,,,0,0,0,,,,,0
+481,Kategaya Fred,=249=,,,,Uganda,,,Illegal entry,,1983,M,,Kiyanga,,,,,0,0,0,,,,,0
+482,Baseta Godfrey,=250=,,,,Uganda,,,Illegal entry,,1978,M,,,,,,,0,0,0,,,,,0
+483,Muhanji moses,=251=,,,,Uganda,,,Illegal entry,,1989,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+484,Asaba Simon,=252=,,,,Uganda,,,Illegal entry,,1989,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+485,Tumuhimbise Denis,=253=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,,Rwesigiro,,,,,0,0,0,,,,,0
+486,Byamukama Benon,=254=,,,,Uganda,,,Illegal possesion of wildlife,,1990,M,,Rwesigiro,,,,,0,0,0,,,,,0
+487,Byaruhanga Gerald,=255=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,,Rwesigiro,,,,,0,0,0,,,,,0
+488,Turyamureba Milton,=256=,,,,Uganda,,,Illegal entry,,1981,M,,Nyamusingiri,,,,,0,0,0,,,,,0
+489,Kakuru Joseph,=257=,,,,Uganda,,,Illegal entry,,1991,M,,Nyamusingiri,,,,,0,0,0,,,,,0
+490,Kibundu Sele,=258=,,,,Uganda,,,Illegal possesion of wildlife,,1973,M,Bwera Gr,Mughete,,,,,0,0,0,,,,,0
+491,Kamalha Johnson,=259=,,,,Uganda,,,Illegal possesion of wildlife,,1989,M,Bwera Gr,Mughete,,,,,0,0,0,,,,,0
+492,Mbojana Wilson,=260=,,,,Uganda,,,Illegal possesion of wildlife,,1975,M,Bwera Gr,Mughete,,,,,0,0,0,,,,,0
+493,Byaruhanga Augastine,=261=,,,,Uganda,,,Illegal entry,,1985,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+494,Kabwane Fred,=262=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+495,Kamara Peter,=263=,,,,Uganda,,,Illegal grazing,,1995,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+496,Jovia Ruyenze,=264=,,,,Uganda,,,Illegal grazing,,1967,F,,Busunga,,,,,0,0,0,,,,,0
+497,Baluku Selvestore,=265=,,,,Uganda,,,,,1958,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+498,Alex Aturende,=266=,,,,Uganda,,,Illegal farming,,1974,M,,Kichwamba,,,,,0,0,0,,,,,0
+499,Mugabe Ronald,=268=,,,,Uganda,,,Illegal entry,,1985,M,,Kichwamba,,,,,0,0,0,,,,,0
+500,Bwambale Robert,=269=,,,,,,,,,1990,M,,Kisenyi,,,,,0,0,0,,,,,0
+501,Hilary Sata,=270=,,,,,,,,,1973,M,,Kisenyi,,,,,0,0,0,,,,,0
+502,Agondeze Paius,=271=,,,,,,,,,1997,M,,Busunga,,,,,0,0,0,,,,,0
+503,Asaba Nicholas,=272=,,,,Uganda,,,Illegal possesion of wildlife,,1988,M,,Musumba,,,,,0,0,0,,,,,0
+504,Birende Stephen,=273=,,,,Uganda,,,Illegal possesion of wildlife,,1980,M,,Kazinga fishing vilage,,,,,0,0,0,,,,,0
+505,Kule Monday,=274=,,,,Uganda,,,Illegal possesion of wildlife,,1988,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+506,Tindimweba Peson,=275=,,,,,,,,,1990,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+507,Turyasingura Boniface,=276=,,,,,,,,,1993,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+508,Paul Kabondejye,=277=,,,,Uganda,,,Illegal entry,,1963,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+509,Baluku Stephen,=278=,,,,Uganda,,,Illegal entry,,1970,M,,Railway,,,,,0,0,0,,,,,0
+510,Isabatahi Moses,=279=,,,,Uganda,,,Illegal possesion of wildlife,,1963,M,Kanyanpara Fr,Kabingo,,,,,0,0,0,,,,,0
+511,Kayemba Vicent,=280=,,,,Uganda,,,Illegal possesion of wildlife,,1963,M,,Nyabigaga,,,,,0,0,0,,,,,0
+512,Swaibu Bukire,=281=,,,,Uganda,,,Illegal possesion of wildlife,,1952,M,,Nyabigaga,,,,,0,0,0,,,,,0
+513,Muhindo Ezakiel,=282=,,,,,,,,,1993,M,Bwera Gr,Kamughobe,,,,,0,0,0,,,,,0
+514,Baluku Geofry,=283=,,,,,,,,,1998,M,Bwera Gr,Kilembe,,,,,0,0,0,,,,,0
+515,Bwambale Jackson,=284=,,,,,,,,,1968,M,Bwera Gr,Kiburara,,,,,0,0,0,,,,,0
+516,Kiiza Mansuli,=285=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,katunguru,,,,,0,0,0,,,,,0
+517,Maate Suliat,=286=,,,,Uganda,,,Illegal entry,,1984,M,,kazinga,,,,,0,0,0,,,,,0
+518,Kyambade Siraji,=287=,,,,Uganda,,,Illegal entry,,1991,M,Bwera Gr,katunguru,,,,,0,0,0,,,,,0
+519,Ssenyonga Yahaya,=288=,,,,Uganda,,,Illegal entry,,1992,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+520,Motovu Ashirafu,=290=,,,,Uganda,,,Illegal entry,,1987,M,Bwera Gr,katunguru,,,,,0,0,0,,,,,0
+521,Bukenya Robert,=291=,,,,Uganda,,,Illegal entry,,1994,M,,Kazinga,,,,,0,0,0,,,,,0
+522,Muhairwe Naboth,=292=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,katunguru,,,,,0,0,0,,,,,0
+523,Tushabe Deo,=293=,,,,Uganda,,,Illegal entry,,1963,F,,Kazinga,,,,,0,0,0,,,,,0
+524,Masereka Nason,=294=,,,,Uganda,,,,,1994,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+525,Mugume Wensesirus,=295=,,,,Uganda,,,Illegal entry,,1982,M,,Nyakahita,,,,,0,0,0,,,,,0
+526,Abine Mugasu,=296=,,,,Uganda,,,,,1988,M,,Nyakatonze,,,,,0,0,0,,,,,0
+527,Musule Moses,=297=,,,,Uganda,,,Illegal entry,,2000,M,Bwera Gr,Kany ampara,,,,,0,0,0,,,,,0
+528,Begume Amos,=298=,,,,Uganda,,,,,1991,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+529,Peter Kenje,=299=,,,,Uganda,,,Illegal entry,,1973,M,,Nyamirangara,,,,,0,0,0,,,,,0
+530,Isingoma Vicent,=300=,,,,Uganda,,,Illegal entry,,1983,M,,Busunga,,,,,0,0,0,,,,,0
+531,Bandiho Emmanuel,=301=,,,,Uganda,,,Illegal entry,,1973,M,,Kikumbu,,,,,0,0,0,,,,,0
+532,Kisakye Harriet,=302=,,,,Uganda,,,Illegal possesion of wildlife,,1993,M,,Kyambura,,,,,0,0,0,,,,,0
+533,Musinta Ajara,=303=,,,,Uganda,,,Illegal entry,,1993,F,,Nyabubale,,,,,0,0,0,,,,,0
+534,Anita Kobusinge,=304=,,,,Uganda,,,Illegal entry,,1973,F,,Kyambura,,,,,0,0,0,,,,,0
+535,Muhindo Sadress,=305=,,,,Uganda,,,Illegal entry,,1968,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+536,Biira Getruda,=306=,,,,Uganda,,,Illegal entry,,1973,F,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+537,Kakuru Naboth,=307=,,,,Uganda,,,Illegal possesion of wildlife,,1982,M,,Nyakatunga,,,,,0,0,0,,,,,0
+538,Kato Moses,=308=,,,,Uganda,,,Illegal possesion of wildlife,,1983,M,,Kisita,,,,,0,0,0,,,,,0
+539,Banjinyika Jesica,=309=,,,,Uganda,,,Illegal possesion of wildlife,,1960,F,,Nyakatunga,,,,,0,0,0,,,,,0
+540,Tumusiimwe Joventa,=310=,,,,Uganda,,,Illegal possesion of wildlife,,1980,F,,Nyakayunga,,,,,0,0,0,,,,,0
+541,Mumbere Julius,=311=,,,,Uganda,,,Illegal possesion of wildlife,,1991,M,,Kafuro,,,,,0,0,0,,,,,0
+542,Bindshanga prutazo,=312=,,,,Uganda,,,Illegal possesion of wildlife,,1969,M,,Kisita,,,,,0,0,0,,,,,0
+543,Geofrey Twinomasiko,=313=,,,,Uganda,,,Illegal entry,,1969,M,,Kafuro,,,,,0,0,0,,,,,0
+544,Stephen Mbera,=314=,,,,Uganda,,,Illegal entry,,1969,M,,Kafuro,,,,,0,0,0,,,,,0
+545,Musubaho Manue,=315=,,,,Uganda,,,Illegal possesion,,1983,M,,Kafuro,,,,,0,0,0,,,,,0
+546,Malero Robert,=316=,,,,Uganda,,,Illegal entry,,1985,M,,kafuro,,,,,0,0,0,,,,,0
+547,Kahindo Francis,=317=,,,,Uganda,,,Illegal entry,,1971,M,,Kafuro,,,,,0,0,0,,,,,0
+548,Muhindo Moses,=318=,,,,Uganda,,,Illegal possesion,,1969,M,Bwera Gr,kikorongo,,,,,0,0,0,,,,,0
+549,Kule Nickson,=319=,,,,,,,,,1973,M,Bwera Gr,Katojo,,,,,0,0,0,,,,,0
+550,Prunali Muhindo,=320=,,,,,,,,,1983,M,,Katojo,,,,,0,0,0,,,,,0
+551,Bwambale Friday,=321=,,,,,,,,,1983,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+552,Kambasu Landas,=322=,,,,Uganda,,,Illegal entry,,1983,M,,Busunga,,,,,0,0,0,,,,,0
+553,Kawese Deus,=323=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Kakoni,,,,,0,0,0,,,,,0
+554,Asaba Joseph,=324=,,,,Uganda,,,Illegal entry,,1978,M,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+555,Kule Julius,=325=,,,,Uganda,,,Illegal entry,,1963,M,Bwera Gr,Kakoni,,,,,0,0,0,,,,,0
+556,Kule David,=326=,,,,Uganda,,,Illegal entry,,1994,M,Bwera Gr,Mushenene,,,,,0,0,0,,,,,0
+557,Bwambale Enos,=327=,,,,Uganda,,,Illegal entry,,1984,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+558,Tumuramwa Julius,=328=,,,,Uganda,,,Illegal entry,,1986,M,,Kashaka,,,,,0,0,0,,,,,0
+559,Tukundane Emmanuel,=329=,,,,Uganda,,,Illegal entry,,1977,M,,Kashaka,,,,,0,0,0,,,,,0
+560,Bwambale Eziron,=330=,,,,Uganda,,,Illegal entry,,1971,M,,Railway,,,,,0,0,0,,,,,0
+561,Kamugisha Felix,=332=,,,,Uganda,,,Illegal entry,,1989,M,,,,,,,0,0,0,,,,,0
+562,Byamugisha sulumani,=333=,,,,Uganda,,,Illegal entry,,1980,M,Nyakateete,buhindaji,,,,,0,0,0,,,,,0
+563,Mbariri Yoram,=334=,,,,Uganda,,,Illegal entry,,1971,M,Nyakateete,mitooma,,,,,0,0,0,,,,,0
+564,Byamugisha Sulumani,=335=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,kalinju,,,,,0,0,0,,,,,0
+565,Aliganyira Robert,=336=,,,,Uganda,,,Illegal entry,,1988,M,,Nyakatonze,,,,,0,0,0,,,,,0
+566,Muhindo Vanisi,=337=,,,,Uganda,,,Illegal entry,,1960,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+567,Masika Yodesi,=338=,,,,Uganda,,,Illegal entry,,1956,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+568,Milio Muhindo,=339=,,,,Uganda,,,Illegal entry,,1973,M,,Nyakatonze,,,,,0,0,0,,,,,0
+569,Masereka Jimmy,=340=,,,,Uganda,,,,,1995,M,,Busunga,,,,,0,0,0,,,,,0
+570,Ithungu Launida,=341=,,,,Uganda,,,Illegal entry,,1985,M,Bwera Gr,Kilembe,,,,,0,0,0,,,,,0
+571,Mbambu Laudia,=342=,,,,Uganda,,,Illegal entry,,1977,F,Bwera Gr,Mbunga,,,,,0,0,0,,,,,0
+572,Karuru William,=344=,,,,Uganda,,,Other illegal activities,,1985,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+573,Masereka Felisma,=345=,,,,Uganda,,,Illegal entry,,1982,M,Queen Elizabeth  Np,Bunweswa,,,,,0,0,0,,,,,0
+574,Mulindwa Yovan,=346=,,,,Uganda,,,,,1957,M,,Nyakatonze,,,,,0,0,0,,,,,0
+575,Nyangoma Annet,=347=,,,,Uganda,,,,,1988,F,Bwera Gr,Kyakitale,,,,,0,0,0,,,,,0
+576,Twinomujuni Felix,=348=,,,,Uganda,,,Illegal entry,,1968,M,,Nyabubale,,,,,0,0,0,,,,,0
+577,Tumuramye Julius,=349=,,,,Uganda,,,Illegal entry,,1986,M,,Kashaka,,,,,0,0,0,,,,,0
+578,Ndumo Muhamad,=350=,,,,Uganda,,,Illegal entry,,1957,M,,Lashaka,,,,,0,0,0,,,,,0
+579,Mpaka Nathan,=351=,,,,Uganda,,,Illegal entry,,1978,M,,Rubaya,,,,,0,0,0,,,,,0
+580,Eryesafu Kananga,=352=,,,,Uganda,,,Illegal entry,,1985,M,,Kasambya,,,,,0,0,0,,,,,0
+581,Bangirine Charles,=353=,,,,Uganda,,,Illegal entry,,1981,M,,Mukengeya,,,,,0,0,0,,,,,0
+582,Tukamushaba Harbert,=354=,,,,Uganda,,,Illegal entry,,1988,M,,Nyabubale,,,,,0,0,0,,,,,0
+583,Mwebesa Naboth,=355=,,,,Uganda,,,Illegal entry,,1981,M,,Kankina,,,,,0,0,0,,,,,0
+584,Tadeo Muhongya,=356=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+585,Muchunguzi John,=357=,,,,Uganda,,,Illegal entry,,1968,M,,Kyeyirabwa,,,,,0,0,0,,,,,0
+586,Kamukama Daniel,=358=,,,,Uganda,,,Illegal entry,,1995,M,,Kafunzo,,,,,0,0,0,,,,,0
+587,Ajuna Felix,=359=,,,,Uganda,,,Illegal entry,,1995,M,Bwera Gr,Busanga,,,,,0,0,0,,,,,0
+588,Kyakimwa Joy,=360=,,,,Uganda,,,Illegal entry,,1988,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+589,Helena Furaha,=361=,,,,Uganda,,,Illegal entry,,1973,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+590,Muhindo Janet,=362=,,,,Uganda,,,Illegal entry,,1965,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+591,Biira Suzan,=363=,,,,Uganda,,,Illegal entry,,1977,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+592,Biira Zaibu,=364=,,,,Uganda,,,Illegal entry,,1978,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+593,Musoki Erupa,=365=,,,,Uganda,,,Illegal entry,,1973,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+594,Kabugho Jenifa,=366=,,,,Uganda,,,Illegal entry,,1989,F,Bwera Gr,Kdodo,,,,,0,0,0,,,,,0
+595,Mbambu Yolesi,=367=,,,,Uganda,,,Illegal entry,,1986,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+596,Bwambale Rimon,=368=,,,,Uganda,,,Illegal entry,,1993,F,,Nyamirame,,,,,0,0,0,,,,,0
+597,Thembo Benard,=369=,,,,Uganda,,,Illegal entry,,1988,M,,Nyamirame,,,,,0,0,0,,,,,0
+598,Owesigira Emmauel,=370=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+599,Magezi Silvesta,=371=,,,,Uganda,,,Illegal entry,,1975,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+600,Abdu Juma,=372=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+601,Sempa Stephen,=373=,,,,Uganda,,,Illegal entry,,1961,M,,Kabukwiri,,,,,0,0,0,,,,,0
+602,Tibusingwa Likangiro,=374=,,,,Uganda,,,Illegal entry,,1960,M,Bwera Gr,omuruti,,,,,0,0,0,,,,,0
+603,Twesiimwe Kanyankole,=375=,,,,Uganda,,,Illegal possesion,,1986,M,,Katabagwe,,,,,0,0,0,,,,,0
+604,Musinguzi Dominic,=376=,,,,Uganda,,,Illegal possesion,,1991,M,,Katabagwe,,,,,0,0,0,,,,,0
+605,Robert Rwahem,=377=,,,,Uganda,,,Illegal entry,,1959,M,Bwera Gr,Kigerman,,,,,0,0,0,,,,,0
+606,Sunday Emmanuel,=378=,,,,Uganda,,,Illegal entry,,1973,M,,Kigabo,,,,,0,0,0,,,,,0
+607,Kisembo James,=379=,,,,Uganda,,,Illegal entry,,1970,M,Bwera Gr,Katunguru fishing village,,,,,0,0,0,,,,,0
+608,Kayondo Ezedekia,=380=,,,,Uganda,,,Illegal entry,,1978,M,Bwera Gr,Katunguru fishing village,,,,,0,0,0,,,,,0
+609,Kusaba Peter,=381=,,,,Uganda,,,Illegal entry,,1987,M,Bwera Gr,Kikonjo,,,,,0,0,0,,,,,0
+610,Byagagara Innocent,=382=,,,,Uganda,,,Illegal entry,,1991,M,,Sherere,,,,,0,0,0,,,,,0
+611,Alinaitwe Moses,=383=,,,,Uganda,,,Illegal entry,,1973,M,,Kirabwe,,,,,0,0,0,,,,,0
+612,Twejukye Laauresiyo,=384=,,,,Uganda,,,Illegal entry,,1983,M,,Kirabwe,,,,,0,0,0,,,,,0
+613,Musinguzi Benon,=385=,,,,Uganda,,,Illegal entry,,1968,M,,Sherere,,,,,0,0,0,,,,,0
+614,Tumwezuke Roggers,=386=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Kakoni,,,,,0,0,0,,,,,0
+615,Paul Mudogo,=387=,,,,Uganda,,,,,1970,M,,Nyakatonze,,,,,0,0,0,,,,,0
+616,Birungi Grace,=388=,,,,Uganda,,,,,1970,F,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+617,Marahi Paul,=389=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+618,Ampire Mwaimu,=390=,,,,Uganda,,,Illegal entry,,1981,M,,Kyambura,,,,,0,0,0,,,,,0
+619,Niwahabyona Patrick,=391=,,,,Uganda,,,Illegal entry,,1993,M,,Kyandangara,,,,,0,0,0,,,,,0
+620,Muchunguzi Robert,=392=,,,,Uganda,,,Illegal entry,,1970,M,Ntonwa,Kararo,,,,,0,0,0,,,,,0
+621,Ntirengomya Bazirio,=393=,,,,Uganda,,,Illegal grazing,,1983,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+622,Byabagambe Fransisco,=394=,,,,Uganda,,,Illegal entry,,1983,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+623,Venada Bismana,=395=,,,,Uganda,,,Illegal entry,,1973,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+624,Kabashaba Person,=396=,,,,Uganda,,,Illegal entry,,1961,M,,Rutoto,,,,,0,0,0,,,,,0
+625,Sunday Baluku,=397=,,,,Uganda,,,Illegal possesion of wildlife,,1973,M,Bwera Gr,Kighenge,,,,,0,0,0,,,,,0
+626,Sunday James,=398=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,Bwera Gr,Kighenge,,,,,0,0,0,,,,,0
+627,Mitse Jockus,=399=,,,,Uganda,,,Illegal possesion of wildlife,,1983,M,Bwera Gr,Kighenge,,,,,0,0,0,,,,,0
+628,Bwambale John,=400=,,,,Uganda,,,Illegal possesion of wildlife,,1985,M,Bwera Gr,Kighenge,,,,,0,0,0,,,,,0
+629,Mukyakazi Edson,=401=,,,,Uganda,,,,,1985,M,Bwera Gr,Kighenge,,,,,0,0,0,,,,,0
+630,Kiiza Yofesi,=402=,,,,Uganda,,,,,1981,M,,Nyakatonze,,,,,0,0,0,,,,,0
+631,Chris Bahirwa,=403=,,,,Uganda,,,Illegal entry,,1993,M,,Hamukungu,,,,,0,0,0,,,,,0
+632,Masereka Moses,=404=,,,,Uganda,,,Illegal entry,,1980,M,,Nyamugasani,,,,,0,0,0,,,,,0
+633,Byamukama James,=406=,,,,Uganda,,,Illegal entry,,1976,M,,,,,,,0,0,0,,,,,0
+634,Mwine Robert,=407=,,,,Uganda,,,Illegal entry,,1995,M,,Ngoma,,,,,0,0,0,,,,,0
+635,Bwambale Monday,=408=,,,,Uganda,,,Illegal entry,,1994,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+636,Bwambale Siraji,=409=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+637,Safari Deus,=410=,,,,,,,,,1973,M,,Mbuga,,,,,0,0,0,,,,,0
+638,Murangi Didas,=411=,,,,,,,,,1978,M,,Nyakatunga-Mbuga,,,,,0,0,0,,,,,0
+639,Kabasekye John,=412=,,,,,,,,,1985,M,,Rukoma,,,,,0,0,0,,,,,0
+640,Mumbere Geofrey,=413=,,,,Uganda,,,Illegal entry,,1987,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+641,Kambere James,=414=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+642,Muranga Johncation,=415=,,,,Uganda,,,Illegal possesion of wildlife,,1987,M,Bwera Gr,Kyarumba,,,,,0,0,0,,,,,0
+643,Mukanyezi Sam,=416=,,,,Uganda,,,Illegal entry,,1987,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+644,Munina Enock,=417=,,,,Uganda,,,Illegal entry,,1984,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+645,Biriko Sadrack,=418=,,,,Uganda,,,Illegal entry,,1976,M,Ntonwa,Katanga,,,,,0,0,0,,,,,0
+646,Janwari Medard,=419=,,,,Uganda,,,Illegal entry,,1964,M,Ntonwa,Katanga,,,,,0,0,0,,,,,0
+647,Kakwaya Johnson,=420=,,,,,,,,,1955,M,Ntonwa,Katanga,,,,,0,0,0,,,,,0
+648,Habimana Francis,=421=,,,,Uganda,,,Illegal entry,,1969,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+649,Kadukalaq Jameson,=422=,,,,Uganda,,,Illegal entry,,1993,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+650,Byamukama Fred,=423=,,,,Uganda,,,Illegal entry,,1991,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+651,Mugisha Enon,=424=,,,,Uganda,,,Illegal entry,,1976,M,,Kisenyi,,,,,0,0,0,,,,,0
+652,Mwesiga Edward,=426=,,,,Uganda,,,,,1978,M,,Rwandaro,,,,,0,0,0,,,,,0
+653,Mwine Abert,=427=,,,,Uganda,,,Illegal entry,,1995,M,,Ngoma,,,,,0,0,0,,,,,0
+654,Turyasingura Bambata,=428=,,,,Uganda,,,Illegal entry,,1992,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+655,Tindyebbwa Francis,=429=,,,,Uganda,,,Illegal entry,,1995,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+656,Kamugisha Dominic,=430=,,,,Uganda,,,Illegal entry,,1995,M,,Kyamuhunga,,,,,0,0,0,,,,,0
+657,Sunday Robert,=431=,,,,,,,,,1993,M,,Kyamuhunga,,,,,0,0,0,,,,,0
+658,Twamukiza Julius,=432=,,,,Uganda,,,Illegal entry,,1995,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+659,Mugisha Geofrey,=435=,,,,Uganda,,,Illegal entry,,1973,M,Ntonwa,Mahyora,,,,,0,0,0,,,,,0
+660,Mugisha Elias,=436=,,,,Uganda,,,Illegal entry,,1980,M,,Hamukungu,,,,,0,0,0,,,,,0
+661,Muhwezi Deus,=437=,,,,Uganda,,,Illegal entry,,1983,M,,Hamukungu,,,,,0,0,0,,,,,0
+662,Kabaseke John,=438=,,,,,,,,,1987,M,,Rukoma,,,,,0,0,0,,,,,0
+663,Murungi Didas,=440=,,,,,,,,,1973,M,,Mbuga,,,,,0,0,0,,,,,0
+664,Nzyabake Jenifa,=441=,,,,Uganda,,,Illegal entry,,1973,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+665,Biira Christine,=442=,,,,Uganda,,,Illegal entry,,1983,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+666,Vanisa Biira,=443=,,,,Uganda,,,Illegal entry,,1976,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+667,Biira Rosemary,=444=,,,,Uganda,,,Illegal entry,,1976,F,Bwera Gr,kidodo,,,,,0,0,0,,,,,0
+668,Ithungu Dorren,=445=,,,,Uganda,,,Illegal entry,,1978,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+669,Cidani Biira,=446=,,,,Uganda,,,Illegal entry,,1978,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+670,Musoki Dinah,=447=,,,,Uganda,,,Illegal entry,,1973,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+671,Muhindo Mary,=448=,,,,Uganda,,,Illegal entry,,1980,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+672,Masika Jonah,=449=,,,,Uganda,,,Illegal entry,,1971,F,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+673,Mumbere Godfrey,=450=,,,,Uganda,,,Illegal entry,,1987,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+674,Wilson Byaruhanga,=452=,,,,Uganda,,,Possesion of firearms,,1963,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+675,Nunu Reuben,=453=,,,,Uganda,,,Illegal possesion,,1973,M,Ntonwa,Ntara,,,,,0,0,0,,,,,0
+676,Murangi Jackson,=454=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+677,Kahwa Annet,=457=,,,,Uganda,,,Illegal entry,,1983,F,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+678,niisima Annet,=458=,,,,Uganda,,,Illegal entry,,1981,F,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+679,Muhozi Sabiti,=459=,,,,Uganda,,,Illegal entry,,1980,M,,Kyambura,,,,,0,0,0,,,,,0
+680,Talemwa Justus,=460=,,,,Uganda,,,Illegal entry,,1993,M,Ntonwa,Kararo,,,,,0,0,0,,,,,0
+681,Muyanga John,=461=,,,,Uganda,,,Illegal entry,,1983,M,Queen Elizabeth Np,Kabaka,,,,,0,0,0,,,,,0
+682,Fred Kalenzi,=462=,,,,Uganda,,,Illegal entry,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+683,M uhwezi Richard,=463=,,,,Uganda,,,,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+684,Arinaitwe Elias,=467=,,,,Uganda,,,Illegal entry,,1980,M,,Nguro,,,,,0,0,0,,,,,0
+685,Tumwebaze Jija,=468=,,,,Uganda,,,Illegal entry,,1995,M,,Ryeru,,,,,0,0,0,,,,,0
+686,Masereka Joel,=469=,,,,Uganda,,,Illegal entry,,1993,M,,Ryeru,,,,,0,0,0,,,,,0
+687,Bagumisa Samuel,=470=,,,,Uganda,,,,,1984,M,,Nyakatonze,,,,,0,0,0,,,,,0
+688,Mwesigye John,=471=,,,,Uganda,,,,,1984,M,,Nyakatonze,,,,,0,0,0,,,,,0
+689,Abine Robert,=472=,,,,Uganda,,,Illegal entry,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+690,Sunday Alex,=473=,,,,Uganda,,,Illegal entry,,1988,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+691,Bigumisa Ephram,=474=,,,,Uganda,,,Illegal entry,,1985,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+692,Monday Robert,=475=,,,,Uganda,,,Illegal entry,,1981,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+693,Kahyaka Edson,=476=,,,,Uganda,,,Illegal entry,,1994,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+694,Magezi Stephen,=477=,,,,Uganda,,,Illegal entry,,1974,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+695,Ahimbisibwe Ronald,=478=,,,,Uganda,,,Illegal entry,,1995,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+696,Karema Desiderio,=479=,,,,Uganda,,,Illegal entry,,1973,M,Kabaare,Irimya,,,,,0,0,0,,,,,0
+697,Mumbere Asasio,=480=,,,,,,,,,1995,M,,Nyamugasani,,,,,0,0,0,,,,,0
+698,Rufuranga Jackson,=481=,,,,,,,,,1973,M,,Nyakatonze,,,,,0,0,0,,,,,0
+699,Dadie Mali,=483=,,,,,,,,,1982,M,,Nyakatonze,,,,,0,0,0,,,,,0
+700,Nyarubona Moses,=484=,,,,,,,,,1955,M,,Nyakatonze,,,,,0,0,0,,,,,0
+701,Asasira Johad,=485=,,,,,,,,,1993,M,,Nyakatonze,,,,,0,0,0,,,,,0
+702,Muhindo Wilson,=486=,,,,,,,,,1973,M,,Busunga,,,,,0,0,0,,,,,0
+703,Wamala Geofrey,=487=,,,,,,,,,1983,M,,Busunga,,,,,0,0,0,,,,,0
+704,Nyawanga David,=488=,,,,,,,,,1993,M,,Busunga,,,,,0,0,0,,,,,0
+705,Matayo Lubega,=489=,,,,,,,,,1953,M,,Nyakatonze,,,,,0,0,0,,,,,0
+706,Mugisha Charles,=490=,,,,,,,,,1980,M,,Nyakatonze,,,,,0,0,0,,,,,0
+707,Kantu Moses,=491=,,,,Uganda,,,Illegal entry,,1979,M,,Nyakatonze,,,,,0,0,0,,,,,0
+708,Mburara Christopher,=492=,,,,,,,,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+709,Turyambegyera James,=493=,,,,Uganda,,,Illegal entry,,1983,M,,Bunyaruguru,,,,,0,0,0,,,,,0
+710,Balyemusi Wilson,=494=,,,,Uganda,,,Illegal entry,,1973,M,,Rutoto,,,,,0,0,0,,,,,0
+711,Mbaran Benon,=495=,,,,Uganda,,,Illegal entry,,1980,M,,Rutoto,,,,,0,0,0,,,,,0
+712,Kakuru Didas,=496=,,,,Uganda,,,Illegal entry,,1973,M,,Katerera,,,,,0,0,0,,,,,0
+713,Asingora Solomon,=497=,,,,,,,,,1998,M,,Hamukungu,,,,,0,0,0,,,,,0
+714,Kamukama Didas,=498=,,,,,,,,,1983,M,,Mbuga,,,,,0,0,0,,,,,0
+715,Kabwana Fred,=499=,,,,Uganda,,,Illegal entry,,1980,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+716,Tugume Rapheal,=500=,,,,Uganda,,,Illegal entry,,1988,M,,Rwenjubu,,,,,0,0,0,,,,,0
+717,Nkabakoraki Deograbias,=501=,,,,,,,,,1981,M,,Kabukwiri,,,,,0,0,0,,,,,0
+718,Ngabirano Zaverino,=502=,,,,,,,,,1993,M,,Kabukwiri,,,,,0,0,0,,,,,0
+719,Turyahwera Ronald,=503=,,,,,,,,,1978,M,,Kabukwiri,,,,,0,0,0,,,,,0
+720,Natugeza Obedi,=504=,,,,,,,,,1986,M,,Kyaruganda,,,,,0,0,0,,,,,0
+721,Nyesiga Godfrey,=505=,,,,,,,,,1995,M,,Kyaruganda,,,,,0,0,0,,,,,0
+722,Asiimwe Ronald,=506=,,,,,,,,,1994,M,,Kyaruganda,,,,,0,0,0,,,,,0
+723,Mwaka Fred,=507=,,,,,,,,,1994,M,,Kyaruganda,,,,,0,0,0,,,,,0
+724,Batabazi Pasikali,=508=,,,,,,,,,1948,M,,Kasambya,,,,,0,0,0,,,,,0
+725,Kayondo Francis,=509=,,,,Uganda,,,Illegal entry,,1981,M,,Kafuro,,,,,0,0,0,,,,,0
+726,Byamukama John,=510=,,,,Uganda,,,Illegal entry,,1973,M,,Kafuro,,,,,0,0,0,,,,,0
+727,Mushabe John,=511=,,,,Uganda,,,Illegal entry,,1981,M,,Kafuro,,,,,0,0,0,,,,,0
+728,Tindyebwa Pison,=512=,,,,Uganda,,,Illegal entry,,1970,M,,Kafuro,,,,,0,0,0,,,,,0
+729,Stephen Mulekya,=513=,,,,Uganda,,,Illegal entry,,1981,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+730,Bwambale Kinyamuhenze,=514=,,,,Uganda,,,Illegal entry,,1953,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+731,Tushabomwe Rodgers,=515=,,,,,,,,,1980,M,Queen Elizabeth Np,Kameme,,,,,0,0,0,,,,,0
+732,Mbabazi Dan,=516=,,,,,,,,,1969,M,Queen Elizabeth Np,Kameme,,,,,0,0,0,,,,,0
+733,Baguma Fuderi,=517=,,,,,,,,,1960,M,Queen Elizabeth Np,Kameme,,,,,0,0,0,,,,,0
+734,Agaba Alex,=518=,,,,,,,,,1984,M,Queen Elizabeth Np,Kameme,,,,,0,0,0,,,,,0
+735,Balewabo Francis,=519=,,,,,,,,,1979,M,Queen Elizabeth Np,Kmeme,,,,,0,0,0,,,,,0
+736,Kabebe Muhumuza,=520=,,,,,,,,,1983,M,,Kazinga,,,,,0,0,0,,,,,0
+737,Kambale Patrick,=521=,,,,,,,,,1985,M,,Kazinga channel,,,,,0,0,0,,,,,0
+738,Twine Innocent,=523=,,,,,,,,,1986,M,Queen Elizabeth Np,Kazinga,,,,,0,0,0,,,,,0
+739,Muhikirwa Mateho,=524=,,,,Uganda,,,,,1985,M,,Nyakatonze,,,,,0,0,0,,,,,0
+740,Kule Kasaly,=525=,,,,Uganda,,,,,1988,M,,Nyakatonze,,,,,0,0,0,,,,,0
+741,Kalveri Bambarana,=526=,,,,Uganda,,,Illegal entry,,1956,M,,Kagarama,,,,,0,0,0,,,,,0
+742,Richard Mazuta,=527=,,,,Uganda,,,Illegal possesion of wildlife,,1968,M,,Kafuro,,,,,0,0,0,,,,,0
+743,Masika Betrance,=528=,,,,Uganda,,,Illegal entry,,1973,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+744,Kabugho Betrance,=529=,,,,Uganda,,,Illegal entry,,1970,F,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+745,Masika Juliet,=530=,,,,Uganda,,,Illegal entry,,1983,F,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+746,Kemigisha Gaudesio,=531=,,,,Uganda,,,Illegal entry,,1963,F,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+747,Muhindo Josephine,=532=,,,,Uganda,,,Illegal entry,,1979,F,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+748,Baluku Wilson,=534=,,,,Uganda,,,Illegal entry,,1988,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+749,Kato John,=535=,,,,Uganda,,,,,1967,M,Bwera Gr,Katwe,,,,,0,0,0,,,,,0
+750,Mugyema Ediga,=536=,,,,Uganda,,,Illegal entry,,1994,M,,Nyamugasani,,,,,0,0,0,,,,,0
+751,Rutabatina Edward,=537=,,,,Uganda,,,Illegal entry,,1978,M,Ntonwa,Ntara,,,,,0,0,0,,,,,0
+752,Mwebesa Godfrey,=538=,,,,Uganda,,,Illegal entry,,1973,M,,Ntara,,,,,0,0,0,,,,,0
+753,Bangizi Wilson,=539=,,,,Uganda,,,Illegal entry,,1970,M,Ntonwa,Ntara,,,,,0,0,0,,,,,0
+754,Silver Bamuhagira,=540=,,,,Uganda,,,Illegal entry,,1963,M,,Rutoto,,,,,0,0,0,,,,,0
+755,Mwesigye Emmanuel,=541=,,,,Uganda,,,Illegal entry,,1973,M,,Kazinga,,,,,0,0,0,,,,,0
+756,Kichanga Sadam,=542=,,,,Uganda,,,Illegal entry,,1990,M,,Kazinga,,,,,0,0,0,,,,,0
+757,Kojogo Girigoli,=543=,,,,Uganda,,,Illegal entry,,1978,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+758,Muhanji Moses,=544=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+759,Emmanuel Nzambire Kulhalha,=545=,,,,Uganda,,,Illegal possesion of wildlife,,1973,M,Kanyanpara Fr,Kabingo,,,,,0,0,0,,,,,0
+760,Kule Jackson,=546=,,,,Uganda,,,Illegal possesion of wildlife,,1969,M,Kanyanpara Fr,Kabingo,,,,,0,0,0,,,,,0
+761,Twinomujuni Julius,=547=,,,,Uganda,,,Illegal entry,,1984,M,Ntonwa,Kararo,,,,,0,0,0,,,,,0
+762,Bwambale Jockim,=548=,,,,,,,,,1987,M,,Hamukungu,,,,,0,0,0,,,,,0
+763,Asab Boaz,=549=,,,,Uganda,,,Illegal entry,,1991,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+764,Kule Nason,=550=,,,,Uganda,,,Illegal entry,,1983,M,Kihara,Bughalitsa,,,,,0,0,0,,,,,0
+765,Mugoya Yazid,=551=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+766,Awari Bebagonza,=552=,,,,Uganda,,,Illegal entry,,1905,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+767,January Medard,=554=,,,,Uganda,,,Illegal entry,,1965,M,Ntonwa,Kanyabikyere,,,,,0,0,0,,,,,0
+768,Balikudembe Flex,=555=,,,,Uganda,,,Illegal entry,,1967,M,Ntonwa,Kanyabikyere,,,,,0,0,0,,,,,0
+769,Tumuhimbise Alexanda,=556=,,,,Uganda,,,Illegal entry,,1991,M,,Katerera,,,,,0,0,0,,,,,0
+770,Bahumuza Josephati,=557=,,,,Uganda,,,Illegal entry,,1979,M,Ntonwa,Kanyabikyere,,,,,0,0,0,,,,,0
+771,Muhindo Uzia,=558=,,,,Uganda,,,Illegal entry,,1956,M,Bwera Gr,Kitabu,,,,,0,0,0,,,,,0
+772,Muhindo Kapakasi,=559=,,,,Uganda,,,Illegal entry,,1985,M,,Kisheny,,,,,0,0,0,,,,,0
+773,Kazora Erius,=560=,,,,Uganda,,,Illegal entry,,1977,M,,Kishenyi,,,,,0,0,0,,,,,0
+774,Sijirenda Yofesi,=561=,,,,Uganda,,,Illegal entry,,1956,M,,Kiyanga,,,,,0,0,0,,,,,0
+775,Turyasingura Julius,=562=,,,,Uganda,,,Illegal entry,,1982,M,,Kyabakara,,,,,0,0,0,,,,,0
+776,Mwesigye Charles,=563=,,,,Uganda,,,Illegal possesion,,1995,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+777,Tumusimwe Yonah,=564=,,,,Uganda,,,Illegal entry,,1968,M,,Rutoto,,,,,0,0,0,,,,,0
+778,Kabagambe Erick,=565=,,,,Uganda,,,Illegal entry,,1985,M,,Rutoto,,,,,0,0,0,,,,,0
+779,Sula Denis,=566=,,,,Uganda,,,Illegal entry,,1986,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+780,Kinedi Senyondo,=567=,,,,Uganda,,,Illegal entry,,1961,M,,Katunguru,,,,,0,0,0,,,,,0
+781,Bukega Vatali,=568=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+782,Tebenzuka Isaac,=569=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+783,Azenga Godfrey,=570=,,,,Uganda,,,Illegal entry,,1973,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+784,Bagambe Emmanuel,=571=,,,,Uganda,,,Illegal entry,,1994,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+785,Ssenyondo Kennedy,=572=,,,,Uganda,,,Illegal entry,,1961,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+786,Wamala Nyesio,=573=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+787,Kakoza Ramathan,=574=,,,,Uganda,,,Illegal entry,,1988,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+788,Tumubwine Erisa,=575=,,,,Uganda,,,Illegal entry,,1983,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+789,Byamukama Kabujubu,=576=,,,,Uganda,,,Illegal entry,,1992,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+790,Byamukama Paul,=577=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+791,Kabye Joel,=578=,,,,Uganda,,,Illegal entry,,1993,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+792,Tembeya Patrick,=579=,,,,Uganda,,,Illegal entry,,1948,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+793,Batahwa Saidi,=580=,,,,Uganda,,,Illegal entry,,1948,M,,Katunguru,,,,,0,0,0,,,,,0
+794,Sebuhina Babu,=581=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Katunguru,,,,,0,0,0,,,,,0
+795,Mugabe Penina,=582=,,,,Uganda,,,Illegal entry,,1974,F,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+796,Bahati Dinah,=583=,,,,Uganda,,,Illegal entry,,1977,F,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+797,Kabagambe Godie,=584=,,,,Uganda,,,Illegal entry,,1976,M,,Rwenshama,,,,,0,0,0,,,,,0
+798,Asasira Martin,=585=,,,,Uganda,,,Illegal entry,,1991,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+799,Kabagye Busoborozi,=586=,,,,Uganda,,,Illegal entry,,1987,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+800,Twinomasiko Godwin,=587=,,,,Uganda,,,Illegal entry,,1993,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+801,Mahema Deus,=588=,,,,Uganda,,,Illegal entry,,1975,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+802,Mutibwa Vagenitino,=589=,,,,Uganda,,,Illegal entry,,1938,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+803,Mulyata Juma,=590=,,,,Uganda,,,Illegal entry,,1971,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+804,MTIA Emmanuel,=591=,,,,Uganda,,,Illegal entry,,1973,M,,Rwenshama,,,,,0,0,0,,,,,0
+805,Thembo Jackson,=592=,,,,Uganda,,,Illegal entry,,1995,M,Bwera Gr,Omuriti,,,,,0,0,0,,,,,0
+806,Biira Janet,=593=,,,,Uganda,,,,,1992,F,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+807,Byamukama Hilary,=594=,,,,Uganda,,,Illegal entry,,1967,M,Kalinzu Fr,Kyamuhunga,,,,,0,0,0,,,,,0
+808,Twesijye John,=595=,,,,Uganda,,,Illegal entry,,1994,M,,Rwandaro,,,,,0,0,0,,,,,0
+809,Bughogho Deo,=596=,,,,Uganda,,,Illegal entry,,1949,M,,Kabirizi,,,,,0,0,0,,,,,0
+810,Bwabale James,=597=,,,,,,,,,1974,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+811,Katurebe Sam,=598=,,,,Uganda,,,Illegal entry,,1987,M,Ntonwa,Kagogo,,,,,0,0,0,,,,,0
+812,Kule Simon,=599=,,,,Uganda,,,Illegal entry,,1972,M,,Busunga,,,,,0,0,0,,,,,0
+813,Nyabutono Miriam,=600=,,,,Uganda,,,Illegal entry,,1990,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+814,Grace Kabya,=601=,,,,Uganda,,,Illegal entry,,1994,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+815,Mbambu Hadija,=602=,,,,Uganda,,,Illegal entry,,1974,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+816,Mbambu Mary,=603=,,,,Uganda,,,Illegal entry,,1977,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+817,Kinyangwa Agnes,=604=,,,,Uganda,,,Illegal entry,,1974,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+818,Masereka Thomas,=605=,,,,Uganda,,,Illegal possesion of wildlife,,1974,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+819,Mugisha Joseph,=606=,,,,Uganda,,,Illegal possesion of wildlife,,1984,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+820,muhindo mary,=607=,,,,Uganda,,,Illegal possesion of wildlife,,1984,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+821,Pascal Bazara,=608=,,,,Uganda,,,Illegal possesion of wildlife,,1979,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+822,Kuzara Peter,=609=,,,,Uganda,,,Illegal entry,,1979,M,,Kasenyi,,,,,0,0,0,,,,,0
+823,Bulenge Moses,=611=,,,,Uganda,,,,,1988,M,Bwera Gr,Omuruti,,,,,0,0,0,,,,,0
+824,Thembo Semei,=612=,,,,Uganda,,,Illegal entry,,1969,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+825,Kithokwa Amon,=613=,,,,Uganda,,,Illegal entry,,1974,M,Bwera Gr,Kahokya,,,,,0,0,0,,,,,0
+826,Bagumye Amos,=614=,,,,Uganda,,,,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+827,Ahimbisibwe Edward,=615=,,,,Uganda,,,Illegal entry,,1993,M,Ntonwa,Mahyoro,,,,,0,0,0,,,,,0
+828,Kajumura Patrick,=616=,,,,Uganda,,,,,1979,M,Bwera Gr,omuruti,,,,,0,0,0,,,,,0
+829,Musule Samson,=617=,,,,Uganda,,,,,1979,M,,Busunga,,,,,0,0,0,,,,,0
+830,Mumbere Tadeo,=618=,,,,Uganda,,,Illegal entry,,1988,M,Bwera Gr,Muhokya,,,,,0,0,0,,,,,0
+831,Prosper Kabiona,=619=,,,,Uganda,,,Illegal entry,,1974,M,,Kyabakara,,,,,0,0,0,,,,,0
+832,Byaruhanga Benard,=620=,,,,Uganda,,,Illegal entry,,1979,M,,Kyabakara,,,,,0,0,0,,,,,0
+833,Byaruhanga Vicent,=621=,,,,Uganda,,,Illegal entry,,1979,M,,Kabukwiri,,,,,0,0,0,,,,,0
+834,Mumbere Elize,=622=,,,,Uganda,,,Illegal entry,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+835,Tumwejukye Keneth,=623=,,,,Uganda,,,Illegal grazing,,1987,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+836,Turyamureba David,=624=,,,,Uganda,,,Illegal entry,,1989,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+837,Asanasio Rwabinume,=625=,,,,Uganda,,,Illegal entry,,1970,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+838,Bwambale Alex,=626=,,,,Uganda,,,Illegal entry,,1996,M,,Nyakatonze,,,,,0,0,0,,,,,0
+839,Twinomujuni George,=627=,,,,Uganda,,,Illegal entry,,1961,M,,Mbuga,,,,,0,0,0,,,,,0
+840,Peter Ambrose,=628=,,,,Uganda,,,Illegal entry,,1985,M,,Mpuga,,,,,0,0,0,,,,,0
+841,Bideha Jackson,=629=,,,,Uganda,,,Illegal entry,,1988,M,,Mpuga,,,,,0,0,0,,,,,0
+842,Tugumehabwe Reuben,=630=,,,,Uganda,,,Illegal possesion of wildlife,,1986,M,,Kakari,,,,,0,0,0,,,,,0
+843,Nabasa Roggers,=631=,,,,Uganda,,,Illegal possesion of wildlife,,1994,M,,Katabagwe,,,,,0,0,0,,,,,0
+844,Kabakyenga Sadam,=632=,,,,Uganda,,,Illegal entry,,1990,M,,Katunguru,,,,,0,0,0,,,,,0
+845,Nuhwereza Bosco,=633=,,,,Uganda,,,Illegal entry,,1994,M,,Kazinga,,,,,0,0,0,,,,,0
+846,Mbambu Irine,=634=,,,,,,,,,1982,M,,Kidodo,,,,,0,0,0,,,,,0
+847,Vanisa Kireru,=635=,,,,,,,,,1967,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+848,Asiimwe Jackson,=636=,,,,Uganda,,,,,1972,M,,Busunga,,,,,0,0,0,,,,,0
+849,Kazede Amos,=637=,,,,Uganda,,,,,1980,M,,Busunga,,,,,0,0,0,,,,,0
+850,Kakuru Alfred,=638=,,,,Uganda,,,,,1974,M,,Kabirizi,,,,,0,0,0,,,,,0
+851,Mbusa Peter,=639=,,,,Uganda,,,Illegal entry,,1978,M,,Kyabakara,,,,,0,0,0,,,,,0
+852,Alex Twinomujuni,=640=,,,,Uganda,,,,,1980,M,,Kafuro,,,,,0,0,0,,,,,0
+853,Nyabongo Godfrey,=642=,,,,Uganda,,,Illegal entry,,1987,M,,Nyakatonze,,,,,0,0,0,,,,,0
+854,Sabiti John,=643=,,,,Uganda,,,Illegal entry,,1979,M,,Katerera,,,,,0,0,0,,,,,0
+855,Kambasu Boniface,=645=,,,,Uganda,,,Illegal entry,,1975,M,,Kikonzo-Katerera,,,,,0,0,0,,,,,0
+856,Kibaya Seriwaya,=646=,,,,Uganda,,,Illegal entry,,1980,M,,Kikonzo-Katerera,,,,,0,0,0,,,,,0
+857,Tabora Reuben,=647=,,,,Uganda,,,Illegal entry,,1984,M,,Rwandaro,,,,,0,0,0,,,,,0
+858,Binaisa Karagara,=648=,,,,Uganda,,,Illegal entry,,1981,M,,Rwandaro,,,,,0,0,0,,,,,0
+859,Gumisiriza Emmauel,=649=,,,,Uganda,,,Illegal entry,,1996,M,Mushumba,Rwandaro,,,,,0,0,0,,,,,0
+860,Musinguzi Alex,=650=,,,,Uganda,,,Illegal entry,,1993,M,,Ryeru,,,,,0,0,0,,,,,0
+861,Bwambale Koronel,=651=,,,,Uganda,,,Illegal entry,,9179,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+862,Thembo Semu,=652=,,,,Uganda,,,Illegal entry,,1944,M,Bwera Gr,Kikorongo,,,,,0,0,0,,,,,0
+863,Mucuguzi Gasomi Kyakarondo,=653=,,,,Uganda,,,Illegal entry,,1974,M,,Kiyanga,,,,,0,0,0,,,,,0
+864,Henry Rukara,=655=,,,,Uganda,,,Illegal entry,,1986,M,Bwera Gr,Muruti,,,,,0,0,0,,,,,0
+865,Ziribaberi Bagheni,=656=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Muruti,,,,,0,0,0,,,,,0
+866,Robert Kabese,=657=,,,,Uganda,,,,,1980,M,,Nyamugasani,,,,,0,0,0,,,,,0
+867,Sserugu Thomas,=658=,,,,Uganda,,,Illegal entry,,1995,M,,Kiyanga,,,,,0,0,0,,,,,0
+868,Bahati Bonesi,=659=,,,,Uganda,,,Illegal entry,,1979,M,Bwera Gr,Kidodo,,,,,0,0,0,,,,,0
+869,Kule Ezakiel,=660=,,,,Uganda,,,Illegal entry,,1995,M,,Nyakatonze,,,,,0,0,0,,,,,0
+870,Kaheru Muhesi,=661=,,,,Uganda,,,Illegal entry,,1940,M,,Rwehingo,,,,,0,0,0,,,,,0
+871,Thembo Yokana,=662=,,,,Uganda,,,Illegal entry,,1938,M,,Rwehingo,,,,,0,0,0,,,,,0
+872,Mugisha Vicent,=663=,,,,Uganda,,,Illegal entry,,1982,M,,Kafuro,,,,,0,0,0,,,,,0
+873,Odoki Thomas,=664=,,,,Uganda,,,Illegal entry,,1972,M,,Kafuro,,,,,0,0,0,,,,,0
+874,Saturday Deo,=665=,,,,Uganda,,,Illegal entry,,1989,M,,Kisenyi,,,,,0,0,0,,,,,0
+875,Mbale Mukala,=666=,,,,Uganda,,,Illegal entry,,1982,M,,Kisenyi,,,,,0,0,0,,,,,0
+876,Baluku Addul,=667=,,,,Uganda,,,Illegal entry,,1987,M,,Kisenyi,,,,,0,0,0,,,,,0
+877,Abigaba Manisuzi,=669=,,,,Uganda,,,Illegal grazing,,1996,M,,Kazinga,,,,,0,0,0,,,,,0
+878,Nuwagaba Abdoni,=670=,,,,Uganda,,,Illegal entry,,1978,M,,Kafuro,,,,,0,0,0,,,,,0
+879,Kamu Peter,=671=,,,,Uganda,,,Illegal entry,,1994,M,,Kafuro,,,,,0,0,0,,,,,0
+880,Natweta Pausoni,=672=,,,,Uganda,,,Illegal entry,,1994,M,,Kafuro,,,,,0,0,0,,,,,0
+881,Rugundan Sam,=673=,,,,Uganda,,,,,1976,M,,Busunga,,,,,0,0,0,,,,,0
+882,Mukinye Robert,=674=,,,,Uganda,,,,,1974,M,,Busunga,,,,,0,0,0,,,,,0
+883,Biira Jenifar,=675=,,,,Uganda,,,Illegal entry,,1994,M,,Nyaruzigati,,,,,0,0,0,,,,,0
+884,Kabugho Sylivia,=676=,,,,,,,,,1984,M,,Nyaruzigati,,,,,0,0,0,,,,,0
+885,Muhindo Agnes,=677=,,,,,,,,,1982,F,,Nyaruzigati,,,,,0,0,0,,,,,0
+886,Twesigye Obedi,=678=,,,,Uganda,,,Illegal entry,,1989,M,,Hamukungu,,,,,0,0,0,,,,,0
+887,Ogeza Robert,=680=,,,,,,,,,1998,M,,Busunga,,,,,0,0,0,,,,,0
+888,Barigye Nicholas,=681=,,,,Uganda,,,Illegal entry,,1992,M,,Kyabakara,,,,,0,0,0,,,,,0
+889,Bafak Jackson,=682=,,,,Uganda,,,Illegal entry,,1984,M,,Kyabakara,,,,,0,0,0,,,,,0
+890,Tugume Obedi,=683=,,,,Uganda,,,,,1989,M,,Nyakatonze,,,,,0,0,0,,,,,0
+891,Kato Simeo,=684=,,,,Uganda,,,Illegal entry,,1969,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+892,Swaib Bini,=685=,,,,Uganda,,,Illegal entry,,1976,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+893,Tumukunde Edson,=686=,,,,Uganda,,,Illegal possesion,,1993,M,,Kiyanga,,,,,0,0,0,,,,,0
+894,Tumwebaze Robert,=687=,,,,Uganda,,,Illegal possesion,,1988,M,,Kyemengo,,,,,0,0,0,,,,,0
+895,Emmanuel Mbalibula Emmanuel,=688=,,,,Uganda,,,Illegal entry,,1995,M,Bwera Gr,Kakoni,,,,,0,0,0,,,,,0
+896,Asiimwe Susan,=689=,,,,Uganda,,,Illegal entry,,1988,M,,Kisenyi,,,,,0,0,0,,,,,0
+897,Safari Deues,=690=,,,,Uganda,,,Illegal entry,,1973,M,,Mbuga,,,,,0,0,0,,,,,0
+898,Kakasheshe Jesica,=691=,,,,Uganda,,,,,1976,M,Bwera Gr,Kanyangeya,,,,,0,0,0,,,,,0
+899,Muhindo Jockim,=693=,,,,Uganda,,,,,1994,M,,Busunga,,,,,0,0,0,,,,,0
+900,Abdu Baluku,=694=,,,,Uganda,,,Illegal entry,,1994,M,Bwera Gr,Kasenyi,,,,,0,0,0,,,,,0
+901,Twinomujuni John,=695=,,,,Uganda,,,Illegal entry,,1952,M,,Kafuro,,,,,0,0,0,,,,,0
+902,Tukunde Wilson,=696=,,,,Uganda,,,Illegal entry,,1971,M,,Katerera,,,,,0,0,0,,,,,0
+903,Twiranabo Henry,=697=,,,,Uganda,,,Illegal entry,,1968,M,,Katerera,,,,,0,0,0,,,,,0
+904,Happy Pangani,=698=,,,,Uganda,,,Illegal entry,,1978,M,,Nyaruzigati,,,,,0,0,0,,,,,0
+905,Baluku Ibrahim,=699=,,,,Uganda,,,Illegal entry,,1992,M,,Nyaruzigati,,,,,0,0,0,,,,,0
+906,Mugisha John,=700=,,,,Uganda,,,Illegal entry,,1995,M,,Nyakatonze,,,,,0,0,0,,,,,0
+907,Kangiraho Moses,=701=,,,,Uganda,,,Illegal entry,,1976,M,,Nyakatonze,,,,,0,0,0,,,,,0
+908,Muhamed Basema,=702=,,,,Uganda,,,Illegal entry,,1982,M,,Kisenyi,,,,,0,0,0,,,,,0
+909,Ssembala Moses,=703=,,,,Uganda,,,Illegal entry,,1980,M,,Kisenyi,,,,,0,0,0,,,,,0
+910,Vanasio Ngabirano,=704=,,,,,,,,,1974,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+911,Kanyanyozi Ephiram,=705=,,,,Uganda,,,Illegal entry,,1962,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+912,Aratujuna Alex,=706=,,,,Uganda,,,Illegal entry,,1986,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+913,Tibamanya Kafa,=707=,,,,Uganda,,,Illegal entry,,1979,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+914,Muyambi Alex,=708=,,,,Uganda,,,Illegal entry,,1990,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+915,Mpesi Rashid,=709=,,,,Uganda,,,Illegal entry,,1994,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+916,Kiiza Gad,=710=,,,,Uganda,,,Illegal entry,,1981,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+917,Ambrose Tumuhimbise,=711=,,,,Uganda,,,Illegal entry,,1967,M,Maramagambo Fr,Rwenshama,,,,,0,0,0,,,,,0
+918,Tukamuhabwa Pascazia,=712=,,,,Uganda,,,Illegal entry,,1984,M,,Kazinga,,,,,0,0,0,,,,,0
+919,Kyomugisha Mariat,=713=,,,,Uganda,,,Illegal entry,,1991,F,,Kazinga,,,,,0,0,0,,,,,0
+920,Nalukwagwa Magret,=714=,,,,Uganda,,,Illegal entry,,1972,F,,Kazinga,,,,,0,0,0,,,,,0
+921,Leokadia Nansoro,=715=,,,,Uganda,,,Illegal entry,,1961,F,,Kazinga,,,,,0,0,0,,,,,0
+922,Lucky Julius,=716=,,,,Uganda,,,Illegal entry,,1974,M,Bwera Gr,Kahendero,,,,,0,0,0,,,,,0
+923,Kabebi Milton,=717=,,,,Uganda,,,Illegal entry,,1998,M,,Kyabakara,,,,,0,0,0,,,,,0
+924,Turyakira John,=718=,,,,Uganda,,,Illegal entry,,1961,M,,Kyabakara,,,,,0,0,0,,,,,0
+925,Katurebe Ronald,=719=,,,,Uganda,,,Illegal entry,,1989,M,,Kashaka,,,,,0,0,0,,,,,0
+926,Musiime Domian,=720=,,,,Uganda,,,Illegal entry,,1993,M,,Kashaka,,,,,0,0,0,,,,,0
+927,Kalyamund vicent,=721=,,,,,,,,,1998,M,,Rwandaro,,,,,0,0,0,,,,,0
+928,Kizito Byamugisha,=722=,,,,,,,,,1998,M,,Rwandaro,,,,,0,0,0,,,,,0
+929,Ndabiroha Deus,,,,,Uganda,UWA,24/03-2015,Illegal harvesting,,1985,M,Kyabandara,Mwibale,,,,,1,0,0,Mutoro,P5,peasant,,0
+930,Mubangizi Sarapio,,,,,Uganda,UWA,24/03-2015,Illegal harvesting,,1955,M,Kyabandara,Mwibale,,,,,1,0,0,Mutoro,P3,Peasant,,0
+931,Tumwesigye Yohana,,,,,Uganda,,,Illegal possesion,,1975,M,Kigaraare,Butunduzi,,,,,0,0,0,Mutoro,,Peasant,,0
+935,Mugisha Emmanuel,,,,,Uganda,,,Illegal grazing,,1995,M,Kibale Np,Kiziba,,,,,0,0,0,Munyarwanda,P4,Peasant,,0
+932,Atuhaire Nicholas,,,,,Uganda,,,Illegal possesion,,1988,M,Kigaraare,Kigorani,,,,,0,0,0,Mutoro,Vocational,clinical officer,,0
+933,Ayabale Jamaica,,,,,Uganda,,,Illegal possesion,,1983,M,Mugongwe,Kigorani,,,,,0,0,0,Mutoro,P6,Peasant,,0
+934,Sandae Geofffrey,,,,,Uganda,,,Illegal grazing,,1970,M,,,,,,,0,0,0,mugungu,,peasant,,0
+936,Amooti Richard,,,,,Uganda,,,Hunting for meat,,1987,M,Ntonwa,Bwizi,,,,,0,0,0,,P6,Peasant,,0
+937,Nyabwojo Fred,,,,,Uganda,,,Hunting for meat,,1976,M,Ntonwa,Biguri,,,,,1,0,0,,P6,Peasant,,0
+938,Kabuza Valentino,,,,,Uganda,UWA,25/03-2015,Illegal entry,,1965,M,,Kololo,,,,,1,0,0,Mukiiga,P5,Peasant,,0
+939,Cannara Denis,,,,,Uganda,UWA,27/03-2015,Hunting for meat,,1982,M,,Kinunga,,,,,0,0,0,ALUR,,peasant,,0
+940,Korugyendo Jovanis,,,,,Uganda,,,Illegal possesion,,1967,F,,Kinoni,,,,,0,0,0,Munyankole,,,,0
+941,Wakisa Frank,,,,,Uganda,,,Illegal grazing,,1939,M,Kiziba,Kiziba,,,,,0,0,0,Munyankole,S3,casual labouere,,0
+942,Natukunda James,,,,,Uganda,,,Illegal grazing,,1996,M,Kiziba,Kiziba,,,,,0,0,0,Munyankole,P6,casual labourer,,0
+943,Muhenda,,,,,Uganda,,,Illegal entry,,1984,M,,Nkinga 2,,,,,0,0,0,Mutoro,,Peasant,,0
+944,Okello Micheal,,,,,Uganda,UWA,31/03-2015,Illegal fishing,,1996,M,,Siitu,,,,,0,0,0,acholi,none,peasant,,0
+945,Rwabooza William,,,,,Uganda,,,Illegal grazing,,1961,M,,Kitemba,,,,,0,0,0,Munyankole,,cattle keeper,,0
+947,Nuwagaba Wilson,,,,,Uganda,UWA,16/04-2015,Illegal possesion,,0,M,Kiyanga,Nyakashebe,,,,,1,2,0,Mukiga,none,Peasant,,0
+946,Rwamusigazi Stephen,,,,,Uganda,,,Illegal grazing,,1989,M,,Kitemba,,,,,0,0,0,Munyankole,,Cattle keeper,,0
+948,Fabian Tibareka,,,,,Uganda,UWA,16/04-2015,Illegal entry,,1948,M,Rukoki,Rukoki,,,,,1,4,0,munyankole,,Brick Maker,,0
+949,Muhindo John,,,,,Uganda,UWA,29/04-2015,Hunting for meat,0779458245,1997,M,Mahyoro,(qeca) Rwentumu,,,,,0,0,0,Mukonzo,P3,Peasant,,0
+950,Vumilia Jesica,,,,,Uganda,,,Illegal harvesting,,1975,F,Kanyangeya,(qeca)  Railway,,,,,0,0,0,Protestant,none,Peasant,selling firewood,0
+951,Kyomukama Olivia,,,,,Uganda,,,Illegal harvesting,0773992247,1966,F,Kanyangeya,(qeca)  Railway,,,,,0,0,0,munyankole,none,Peasant,selling firewood,0
+952,Kabalisa Florance,,,,,Uganda,,,Illegal harvesting,0777051064,1965,F,Kanyangeya,(qeca)  Railway,,,,,0,0,4,Mukonzo,none,Peasant,selling firewood,0
+953,Nkesiga Nicholas,,,,,Uganda,,,Illegal fishing,,1987,M,Kashaka,(qeca) Kashaka,,,,,0,0,0,munyankole,,Fisherman,,0
+954,Mugabe Robert,,,,,Uganda,,,Illegal grazing,0772830570,1984,M,Hamukungu,(qeca) Hamukungu,,,,,1,0,0,Musongora,none,Cattle Grazer,,0
+955,Oleny Nelson,,,,,Uganda,UWA,01/05-2015,Illegal grazing,0753254768,1990,M,Hamukungu,(qeca) Hamukungu,,,,,0,0,0,Musongora,none,Cattle Grazer,,0
+956,Masereka Milton,,,,,Uganda,,,Hunting for meat,0772451938,1977,M,Kajwenge,(qeca) Kajwenge,,,,,1,3,0,Protestant,none,Peasant,,0
+957,Masereka Milton,,,,,Uganda,,,Hunting for meat,0772451938,1977,M,,(qeca) Kajwenge,,,,,1,0,0,Mukonzo,none,Peasant,,0
+958,Kabagambe Stephen,,,,,Uganda,,,Illegal fishing,,1980,M,Nyakera,(qeca) Nyakera,,,,,1,0,0,Protestant,none,fisherman,,0
+959,Byaruhanga Francis,,,,,Uganda,,,Illegal fishing,,1981,M,Nyakera,(qeca) Nyakera,,,,,1,0,0,Protestant,none,fisherman,,0
+960,Barugahare Benon,,,,,Uganda,,,Illegal entry,,1992,M,Kisiizi,(qeca) Rutobo,,,,,1,0,0,Born Agian,none,Peasant,,0
+961,Begumisa Yubu,,,,,Uganda,,,Illegal entry,,1993,M,Kisiizi,(qeca) Rutobo,,,,,0,0,0,Moslem,none,Peasant,,0
+962,Beyendera Benon,,,,,Uganda,,,Illegal fishing,,1963,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Munyankole,none,Peasant,,0
+963,Bakihwahenje Deo,,,,,Uganda,,,Illegal fishing,,1986,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Munyankole,none,Peasant,,0
+964,Mugisha Acleo,,,,,Uganda,,,Illegal fishing,,1971,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Munyankole,none,Peasant,,0
+965,Tumukunde Semeo,,,,,Uganda,,,Illegal fishing,,1971,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Mukiga,none,Peasant,,0
+966,Nsanzomuhire Polido,,,,,Uganda,UWA,02/05-2015,Illegal fishing,,1985,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Mufumbira,none,Peasant,,0
+967,Twinomigisha Julius,,,,,Uganda,,,Illegal fishing,,1974,M,Mahyoro,(qeca) Rwentuma,,,,,1,0,0,Munyankole,none,Peasant,,0
+968,Biira Irene,,,,,Uganda,,,Illegal harvesting,0777926133,1985,F,Nyakasanga I,(qeca)nyaksanga,,,,,0,0,0,Mukonzo,none,Peasant,,0
+969,Biira Grace,,,,,Uganda,,,Illegal harvesting,0776860707,1985,F,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,MUkonzo,none,Peasant,,0
+970,Mbambu Alice,,,,,Uganda,,,Illegal harvesting,,1972,F,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,Mukonzo,none,Peasant,,0
+971,Muhindo Grace,,,,,Uganda,,,Illegal harvesting,,1985,F,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,Mukonzo,none,Peasant,,0
+972,Muhindo Jojonia,,,,,Uganda,,,Illegal harvesting,,1977,F,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,Mukonzo,none,Peasant,,0
+973,Masika Rose,,,,,Uganda,,,Illegal harvesting,,1987,F,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,Mukonzo,none,Peasant,,0
+974,Biira Kasiringi,,,,,Uganda,,,Illegal harvesting,,1975,M,Kanyangeya,(qeca) Kanyangeya,,,,,0,0,0,Mukonzo,none,Peasant,,0
+975,Katembo Pelaka,,,,,Uganda,,,Illegal possesion,,1985,M,Kinyamaseke,(qeca) Mailokumi,,,,,0,0,0,Mukonzo,none,Peasant,,0
+976,Ndyebesa Mariko,,,,,Uganda,,,Illegal possesion,0701216499,1969,M,Swazi,(qeca) Swazi,,,,,1,4,0,Munyankole,P5,Peasant,,0
+977,Bwambale Joad,,,,,Uganda,,,Illegal entry,,1990,M,Kyabwenge,(qeca) Bukumbia,,,,,1,0,0,Mukonzo,none,Peasant,,0
+978,Masereka Makombo,,,,,Uganda,,,Illegal entry,,1987,M,Nyakiyumbu,(qeca) Bukumbia,,,,,1,0,0,Mukonzo,none,Peasant,,0
+979,Mulyangasu Joseph,,,,,Uganda,,,Illegal entry,,1980,M,Kahendero,(qeca) Busara,,,,,1,0,0,Mukonzo,P4,Peasant,,0
+980,Zephanus Mbutho,,,,,Uganda,,,Hunting for meat,,1977,M,Kahendero,(qeca) Busara,,,,,1,0,0,Mukonzo,none,Peasant,,0
+981,Ngarireho John,,,,,Uganda,,,Illegal fishing,,1979,M,Nyakiyanja,(qeca) Kabukwiri,,,,,1,0,0,Munyankole,none,Peasant,,0
+982,Nazunwa Doniya,,,,,Uganda,,,Illegal fishing,,1984,M,Kichwamba,(qeca) Kyaruganda,,,,,1,0,0,Munyankole,none,Peasant,,0
+983,Sabomwe Laban,,,,,Uganda,,,Illegal fishing,,0,M,Nyakiyanja,(qeca) Kabukwiri,,,,,0,0,0,Munyankole,P5,Peasant,,0
+984,Kule James,,,,,Uganda,,,Illegal entry,,1967,M,Kaghema,(qeca) Kaghema,,,,,0,0,0,Mukonzo,none,Peasant,,0
+985,Muhindo Mark,,,,,Uganda,,,Illegal possesion,,990,M,Nyakasanga I,(qeca) Kanyasanga,,,,,0,0,0,Mukonzo,P1,Peasant,,0
+986,Byamugisha Wilson,,,,,Uganda,,,Illegal fishing,0778542788,1986,M,Nyakiyanja,(qeca) Kabukwiri,,,,,1,0,0,Mukiga,none,Peasant,,0
+987,Kambasu Lawrancio,,,,,Uganda,,,Illegal fishing,,1989,M,Hamukungu,(qeca) Hamukungu,,,,,1,0,0,Mukonzo,none,fisherman,,0
+988,Baluku Matiya,,,,,Uganda,,,Hunting for meat,,1979,M,Nyakatonzi,(qeca) Bwanika,,,,,1,0,0,Mukonzo,none,Peasant,,0
+989,Kanyamakwera Wilson,,,,,Uganda,,,Hunting for meat,,1964,M,Nyakatonzi,(qeca) Bwanika,,,,,1,6,0,Mukonzo,none,Peasant,,0
+990,Katuramu John,,,,,Uganda,,,Illegal possesion,0753162527,1988,M,Rugazi,(qeca) Rwandaro,,,,,1,0,0,Munyankole,none,Campenter,,0
+991,Muhwezi Andrew,,,,,Uganda,,,Illegal possesion,,1992,M,Rugazi,(qeca) Nyaruharo,,,,,0,0,0,Munyankole,none,Boda boda rider,,0
+992,Eryeza Kagogo,,,,,Uganda,,,Illegal grazing,,1940,M,Katwe I,(qeca) Nyamugasani,,,,,1,0,0,Musongora,none,Cattle Grazer,,0
+993,Katungi Joseph,,,,,Uganda,,,Illegal fishing,,1999,M,Kyarukara,(qeca) Kyarukara,,,,,0,0,0,Musongora,none,Fisherman,,0
+994,Byamukama Yasin,,,,,Uganda,,,Illegal fishing,,2000,M,Mwongyera,(qeca)kanyegaramire,,,,,0,0,0,Munyankole,none,Fisherman,,0
+995,Tumusiime Edson,,,,,Uganda,,,Illegal possesion,0756033843,1987,M,Kabingo,(qeca) Kabingo,,,,,1,2,0,Munyankole,none,Peasant,,0
+996,Mugarura Amon,,,,,Uganda,,,Illegal fishing,,1996,M,Kabingo,(qeca) Kabingo,,,,,1,0,0,Munyankole,none,Peasant,,0
+997,Balemaghe Laziyera,,,,,Uganda,,,Hunting for meat,,1965,M,Kahokya,Kinyateke,,,,,1,0,0,Mukonzo,none,Peasant,,0
+998,Beyendeza  John,,,,,Uganda,,,Illegal harvesting,0771206778,1971,M,Kabingo,(qeca) Bugongo,,,,,1,0,0,Munyankole,none,Peasant,,0
+999,Mwesigye Francis,,,,,Uganda,,,Illegal harvesting,,1983,M,Kabingo,(qeca) Bugongo,,,,,0,0,0,Munyankole,none,Peasant,,0
+1000,Mugisha Joshua,,,,,Uganda,,,Illegal harvesting,,1975,M,Kamwenge,(qeca) Galilaya,,,,,1,0,0,Mukiga,none,Peasant,,0
+1001,Kambale Digari,,,,,Uganda,,,Hunting for meat,,1995,M,Kanyangeya,(qeca) Kanyangeya,,,,,1,0,0,Mukonzo,none,Peasant,,0
+1002,Kebirungi Kedith,,,,,Uganda,,,Illegal harvesting,,1985,M,Katerera,(qeca) Kafuro,,,,,0,0,0,Munyankole,none,Peasnt,,0
+1003,Clemensia Biira,,,,,Uganda,,,Illegal harvesting,,1995,M,Katerera,(qeca) Kafuro,,,,,0,0,0,Mukonzo,none,peasant,,0
+1004,Nyanzi Jacinta,,,,,Uganda,,,Illegal harvesting,,1969,F,Katereke,(qeca) Kafuro,,,,,0,0,0,Munyankole,none,peasant,,0
+1005,Abishot Silva,,,,,Uganda,,,Illegal harvesting,,1970,M,Muhokya,(qeca) Muhokya,,,,,0,0,0,Mukiga,none,peasant,,0
+1006,Kyomukama Joyce,,,,,Uganda,,,Hunting for meat,,1997,F,Karusandara,Tweyambe,,,,,0,0,0,Mukiga,none,peasant,,0
+1007,Tibamwenda Godfrey,,,,,Uganda,,,Hunting for meat,,1986,M,Kazinga,(qeca) Kazinga,,,,,0,0,0,Munyankole,none,peasant,,0
+1008,Kitalibara Mark,,,,,Uganda,,,Hunting for meat,,1997,M,Queen Elizabeth Np,Katanda,,,,,0,0,0,Mukonzo,none,peasant,,0
+1009,Masereka Paul,,,,,Uganda,,,Hunting for meat,,1987,M,Nyakatonzi,Musomoro,,,,,1,0,0,Mukonzo,none,peasant,,0
+1010,Mbaka Peter,,,,,Uganda,,,Hunting for meat,,1993,M,Kabirizi,(qeca) Karujumba,,,,,0,0,0,Mukonzo,none,peasant,,0
+1011,Sondaki Lazarous,,,,,Uganda,,,Hunting for meat,,1997,M,Queen Elizabeth Np,(qeca) Katanda,,,,,0,0,0,Mukonzo,none,peasant,,0
+1012,Mukasa Obed,,,,,Uganda,UWA,08/11-2014,Hunting for meat,078445421,1977,M,Kashaasha,Kagogo,,,,,1,0,0,mukiga,,Peasant,,0
+1013,Kakabare Eliphaz,,,,,Uganda,,,Illegal entry,,0,M,,Kyakatwile,,,,,0,0,0,Mukiiga,P3,,,0
+1014,Kaheru Walibiroho,,,,,Uganda,UWA,25/06-2015,Illegal fishing,,1956,M,Kigwera,Katodio,,,,,0,0,0,Mugungu,P2,peasant,,0
+1015,Asiimwe Gilbert,,,,,Uganda,,,Illegal fishing,,1998,M,Kigwera,Wanseko,,,,WGS84,0,0,0,Mugungu,P6,peasant,,0
+1016,Okumu Brown,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1973,M,Ngwedo,Mubako,,,,,2,7,0,Alur,none,Peasant,,0
+1017,Jakony Robert,,,,,Uganda,UWA,25/06-2015,Illegal fishing,,1997,M,Kigwera,Kakakwwoi,,,,,0,0,0,Alur,none,Peasant,,0
+1018,Otto Paulo,,,,,Uganda,UWA,25/06-2015,Illegal fishing,,1987,M,Pakwinyo,Ajigo,,,,,0,0,0,Alur,P5,Peasant,,0
+1019,Mumbere Joshua Kunika,,,,,Uganda,,,Illegal grazing,,0,,,Mitimusaju,,,,,0,0,0,,,Cattle Keeper,,0
+1020,Niisima Saul,,,,,Uganda,,,Illegal grazing,,0,M,,,,,,,0,0,0,Musongora,P6,Cattle Keeper,,0
+1021,Baluku Denis,,,,,Uganda,UWA,25/05-2015,Illegal possesion,,0,M,,Kirembe Ii Ward,,,,,0,0,0,Mukonzo,none,Peasant,,0
+1022,Nyawanga Richard,,,,,Uganda,,,Illegal grazing,,0,M,,Omuruti,,,,,0,0,0,Musongora,,cattlekeeper,,0
+1023,Nasasira Erisa,,,,,Uganda,,,Illegal grazing,,0,M,,Omuruti,,,,,0,0,0,Musongora,,Cattle Keeper,,0
+1024,Arinitwe Nathan,,,,,Uganda,,,Illegal grazing,,0,M,,Busunga,,,,,0,0,0,Musongora,,Cattle Keeper,,0
+1025,Muhangi Ronald,,,,,Uganda,,,Illegal grazing,,0,M,,Omuruti,,,,,0,0,0,Musongora,,Cattle Keeper,,0
+1026,Kugonza Clovice,,,,,Uganda,,,Illegal grazing,,0,M,,Omuruti,,,,,0,0,0,Musongora,,Cattle Keeper,,0
+1027,Wasswa Hassan,,,,,Uganda,,,Illegal grazing,0752955499,0,M,,Kyarukara,,,,,0,0,0,muganda,,bussinessman,,0
+1028,Muhindo Ngerido,,,,,Uganda,,,Hunting for meat,,0,M,,Mundongo,,,,,0,0,0,Mukonzo,,peasant,,0
+1029,Masereka Moris,,,,,Uganda,,,Hunting for meat,0781833427,0,M,,Nyakatozi,,,,,0,0,0,Mukonzo,,Cattle Keeper,,0
+1030,Okello Wilfred,,,,,Uganda,UWA,04/06-2015,Hunting for meat,,1970,M,Latoro,Te Achum,,,,,1,4,0,acholi,P1,Peasant,,0
+1031,Okello Tonny,,,,,Uganda,UWA,25/06-2015,Hunting for trophies,,1978,M,Amor,Amor Ferry,,,,,1,0,0,Lango,P3,Peasant,,0
+1032,Twinamasiko Laurent,,,,,Uganda,,,Illegal entry,0779115118,0,M,,Nyamitanga Division,,,,,0,0,0,mukiga,,mechanic,,0
+1033,Ongulu Alfred,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1980,M,Amor,Jopungulu,,,,,1,4,0,Alur,S5,Peasant,,0
+1034,Kule David,,,,,Uganda,,,Illegal possesion,,0,M,,Nyamighera,,,,,0,0,0,Mukonzo,,brick maker,,0
+1035,Fabian Tibareka,,,,,Uganda,,,Illegal possesion,,0,M,,Rukoki Ward Kasese Mancipality,,,,,0,0,0,Munyankole,,peasant,,0
+1036,Byaruhanga Innocent,,,,,Uganda,,,Illegal entry,,0,M,,Lyamagongi-kamwenge District,,,,,0,0,0,Mukiga,,,,0
+1037,Justin Safari,,,,,Congo,,,Illegal grazing,,0,M,,Kyakitale,,,,,0,0,0,Congole,none,Cattle Keeper,,0
+1038,Bambiha Sailas,,,,,Uganda,,,Illegal fishing,,0,M,,Hankungu,,,,,0,0,0,munyaruguru,,peasant,,0
+1039,Mbine John,,,,,Uganda,,,Illegal fishing,,0,M,,Rwandaro,,,,,0,0,0,Munyankole,,peasant,,0
+1040,Muhangi Obed,,,,,Uganda,,,Illegal grazing,,0,M,,Muruti,,,,,0,0,0,Munyankole,none,,,0
+1041,Mumbere John,,,,,Uganda,,,Illegal grazing,,0,M,Karambi,Kituti,,,,,0,0,0,mukonzo,none,Cattle keeper,,0
+1042,Mumbere Julius,,,,,Uganda,,,Illegal grazing,,0,M,,,,,,,0,0,0,mukonzo,,Cattle keeper,,0
+1043,Bahati Patrick,,,,,Uganda,,,Illegal grazing,,0,M,,Kizungu,,,,,0,0,0,Mukonzo,,Cattle Keeper,,0
+1044,Kambasu Mubyona,,,,,Uganda,,,Hunting for meat,,0,M,,Kaghorwe,,,,,0,0,0,Mukonzo,,peasant,,0
+1045,Muhindo Amon,,,,,Uganda,,,Hunting for meat,,0,M,,Kalonge - Kyarumba Sc,,,,,0,0,0,Mukonzo,,peasant,,0
+1046,Onyai Charles,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1980,M,Nyamahasa,Latworo,,,,,0,0,0,Alur,none,Peasant,,0
+1047,Onega Jemes,,,,,Uganda,UWA,04/06-2015,Hunting for meat,,1982,M,Nyamahasa,Latworo,,,,,0,0,0,Alur,none,Peasant,,0
+1048,Orwoytho Otati,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1960,M,Nyamahasa,Latworo,,,,,1,8,0,Alur,P1,Peasant,,0
+1049,Tumuhirwe Ronald,,,,,Uganda,,,Illegal entry,,1978,,,Kafuro Village,,,,,0,0,0,Munyankole,,,,0
+1050,A1 Muhindo Hilliary A2 Bwambale Fred,,,,,Uganda,,,Illegal entry,,1979,M,,Kasenyi,,,,,0,0,0,Mukonjo,,Farmer,,0
+1051,Orwtho Otati,,,,,Uganda,UWA,15/06-2015,Hunting for meat,,1970,M,Nyamahasa,Latworo,,,,,0,0,0,Alur,none,Peasant,,0
+1052,Onega Jemes,,,,,Uganda,UWA,15/06-2015,Hunting for meat,,1982,M,Nyamahasa,Latworo,,,,,0,0,0,Alur,none,Peasant,,0
+1053,Ochoun Moris,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1985,M,Nyamahasa,Latworo,,,,,1,4,0,Alur,none,Peasant,,0
+1054,Omirambe Patrick,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1986,M,Nyamahasa,Latworo,,,,,2,5,0,Alur,P6,Peasant,,0
+1055,Akena Fred,,,,,Uganda,UWA,25/06-2015,Hunting for meat,,1986,M,Nyamahasa,Latworo,,,,,1,3,0,Alur,none,Peasant,,0
+1056,Byengkya Rashid,,,,,Uganda,UWA,25/06-2015,Illegal harvesting,,1970,M,Labongo,Hanger,,,,,0,0,0,Alur,none,Peasant,,0
+1057,Ahebwa Patrick,,,,,Uganda,UWA,25/06-2015,Illegal harvesting,,1998,M,Labongo,Hanger,,,,,0,0,0,Alur,none,pupil,,0
+1058,Agenonga Ulul,,,,,Uganda,,,Illegal possesion,,1983,M,Butiaba,Bubwe,,,,,1,0,0,Alur,none,Peasant,,0
+1059,Okumu Gilbert,,,,,Uganda,,,Illegal possesion,,1982,M,Butiaba,Kampala A,,,,,0,0,0,Alur,none,Peasant,,0
+1060,Akele Robert,,,,,Uganda,,,Hunting for meat,,1976,M,Todora,Pajara,,,,,1,0,0,Acholi,none,,,0
+1061,Opio Wilfred,,,,,Uganda,,,Hunting for meat,,1980,M,Todora,Anaka,,,,,0,0,0,Acholi,P1,Peasant,,0
+1062,Komakech Miceal,,,,,Uganda,,,Hunting for meat,,1983,M,Todora,Anaka,,,,,0,0,0,Acholi,none,Peasant,,0
+1063,Okumu Saidi,,,,,Uganda,,,Illegal fishing,,1980,M,Ngwedo,Kisombere,,,,,0,0,0,Alur,none,Peasant,,0
+1064,Ocako Juma,,,,,Uganda,UWA,22/06-2015,Illegal fishing,,1982,M,Ngwedo,Kisombere,,,,,2,0,0,Alur,none,Peasant,,0
+1065,Ovwon Gilbert,,,,,Uganda,,,Illegal fishing,,1983,M,,Kisombere,,,,,0,0,0,Alur,none,Peasant,,0
+1066,Ovwon Gilbert,,,,,Uganda,,,Illegal fishing,,1983,M,Ngwedo,Kisombere,,,,,0,0,0,Alur,none,peasant,,0
+1067,Oromcan Gilbert,,,,,Uganda,,,Hunting for meat,,1980,M,Ngwedo,Muvule 1,,,,,0,0,0,Alur,none,Peasant,,0
+1068,Ongei Francis,,,,,Uganda,UWA,22/06-2015,Hunting for meat,,1997,M,Ngwedo,Muvule 1,,,,,0,0,0,Alur,none,pupil,,0
+1069,Otim William,,,,,Uganda,,,Hunting for meat,,2000,M,Ngwedo,Muvule 1,,,,,0,0,0,Alur,P6,pupil,,0
+1070,Komakech Albert,,,,,Uganda,,,Hunting for meat,,2002,M,Ngwedo,Muvule 1,,,,,0,0,0,Alur,P4,pupil,,0
+1071,Wathum Richard,,,,,Uganda,,,Hunting for meat,,1982,M,Ganda,Kagenga,,,,,1,0,5,Alur,none,Peasant,,0
+1072,Okwonga Walter,,,,,Uganda,UWA,23/06-2015,Hunting for meat,,1969,M,Pabit,Lalem,,,,,0,0,0,acholi,none,Peasant,,0
+1073,Mbambu Desangi,,,,,Uganda,,,Other illegal activities,,0,F,Bwera Gr,Mubagho,,,,,0,0,0,Mukonzo,none,Business woman,,0
+1074,Kule Sele,,,,,Uganda,,,Illegal possesion,,0,F,Kilembe,Rwebihungu,,,,,0,0,0,Mukonjo,,,,0
+1075,Bituhura Selevest,,,,,Uganda,,,Hunting for meat,,0,M,,,,,,,0,0,0,Mukonjo,,,,0
+1076,Auma Hellen,,,,,Uganda,,,Illegal possesion,,1980,F,Pabwo,Te-gwana,,,,,0,0,0,acholi,P6,business woman,,0
+1077,Ayela Patrick,,,,,Uganda,UWA,01/07-2015,Illegal possesion,,1986,M,Pabwo,Pabbo,,,,,0,0,0,acholi,none,bodaboda,,0
+1078,Oyoo Moris,,,,,Uganda,UWA,20/08-2015,Illegal possesion,,1992,M,Pondwong,Kitgum,,,,,0,0,0,acholi,P1,Peasant,,0
+1079,Acaye Thomas,,,,,Uganda,,,Illegal possesion,,1987,M,Alango,Gulu,,,,,0,0,0,acholi,none,Peasant,,0
+1080,Okello Patrick,,,,,Uganda,,,Illegal possesion,,1983,M,Pabwo,Gulu,,,,,0,0,0,Acholi,none,peasant,,0
+1081,Oola Lusano,,,,,Uganda,,,Illegal possesion,,1974,M,Laliya,Layibi,,,,,0,0,0,Acholi,none,peasant,,0
+1082,Kinyera Robert,,,,,Uganda,,,Illegal possesion,,1980,M,Pabwo,Gulu,,,,,0,0,0,acholi,none,Peasant,,0
+1083,Ongom David,,,,,Uganda,,,Illegal possesion,,1967,M,Pabwo,Oboya West,,,,,0,0,0,acholi,none,Peasant,,0
+1084,Twinomugisha Patrick,,,,,Uganda,,,Illegal grazing,,1973,M,Kisiabi,Walukuba,,,,,0,0,0,munyarwanda,none,kattle keeper,,0
+1085,Olem Darrious,,,,,Uganda,,,Hunting for meat,,1974,M,Mukale,Kabule,,,,,0,0,0,Alur,none,peasant,,0
+1086,Jawia William,,,,,Uganda,,,Hunting for meat,,1985,M,Ngwedo,Jupiyo,,,,,1,2,0,Alur,P2,Peasant,,0
+1087,Rwotomiyo Hams,,,,,Uganda,,,Illegal fishing,,1997,M,Baro,Wangkado,,,,,0,0,0,Alur,P5,Peasant,,0
+1088,Openymungu Victor,,,,,Uganda,,,Illegal fishing,,1997,M,Baro,Wangkado,,,,,0,0,0,Alur,P6,Peasant,,0
+1089,Umirambe Charles,,,,,Uganda,,,Illegal harvesting,,1981,M,Biiso,Nyamasoga,,,,,0,0,0,paluo,none,Peasant,,0
+1090,Kagaba Joseph,,,,,Uganda,,,Other illegal activities,,1992,M,Bukwali Ward,Bwera B,,,,,0,0,0,Mutooro,P6,Boda boda rider,,0
+1091,Mandela Godfrey,,,,,Uganda,,,Illegal entry,,1991,M,Kitumba Ward,Kitumba,,,,,0,0,0,Mutooro,,Peasant,,0
+1092,Kwikiriza Lawrence,,,,,Uganda,,,Illegal entry,,1986,M,Kitumba Ward,Kitumba,,,,,0,0,0,Mutooro,,Peasant,,0
+1151,Kadoma Paul,,,,,Uganda,,,Illegal entry,,0,M,Kasenda,Rugyembe,,,,,1,7,0,Mutooro,P5,Peasant,,0
+1093,Shaban Ibrahim,,,,,Uganda,,,Illegal entry,,1987,M,Kitumba Ward,Kitumba,,,,,0,0,0,Mutooro,,Peasant,,0
+1094,Baimuka John,,,,,Uganda,,,Illegal entry,,1972,M,Kabirizi,Muhangi,,,,,1,7,0,Mutooro,P6,Peasant,,0
+1095,Opio Collins,,,,,Uganda,,,Illegal entry,,1992,M,Povungu,Puvunga,,,,,1,0,0,Alur,none,Peasant,,0
+1096,Owinji Ismail,,,,,Uganda,,,Illegal harvesting,,1971,M,Labongo,Bokwe,,,,,1,0,0,Alur,none,Peasant,,0
+1097,Opar Micheal,,,,,Uganda,,,Hunting for meat,,1957,M,Ngwedo,Muvule 1,,,,,0,0,0,Alur,none,Peasant,,0
+1098,Kakuru Emanuel,,,,,Uganda,,,Illegal fishing,,0,M,,Buhingo,,,,,0,0,0,Munyankole,,fisherman,,50000
+1099,Ahimbisibwe Paul,,,,,Uganda,,,Illegal fishing,,0,M,,Buhingo,,,,,0,0,0,Munyankole,P5,fisherman,,40000
+1100,Tumushabe Amos,,,,,Uganda,,,Illegal entry,0779951651,0,M,,Kyanika 1,,,,,0,0,0,Munyankole,P5,peasant,,40000
+1101,Turyatemba Yoramu,,,,,Uganda,,,Illegal entry,0777006021,0,M,,Kiwaba,,,,,0,3,0,Mukiga,P6,carpenter,,0
+1102,Kaseni Patrick,,,,,Uganda,,,Illegal harvesting,,0,M,,Kinoko,,,,,0,3,0,mukiga,P5,carpenter,,50000
+1103,Chrismas Samwiri,,,,,Uganda,,,Illegal harvesting,0780270976,0,M,,Rutoto,,,,,0,5,0,Mukiga,P3,carpenter,,50000
+1104,Robert  Bindu,,,,,Uganda,,,Hunting for meat,,1975,M,,Muhindi,,,,,1,8,2,Mukonzo,none,peasant,,30000
+1105,Nuwagaba Willson,,,,,Uganda,,,Illegal possesion,0787575220,1986,M,,Nyabubale,,,,,1,2,1,Munyankole,S2,bussinessman,,60000
+1106,Kabogere Robert,,,,,Uganda,,,Hunting for meat,077919013,0,M,,Karagara,,,,,0,0,0,munyaruguru,P4,bodabodaruder,,70000
+1107,Mwebuza Felex,,,,,Uganda,,,Hunting for meat,,0,M,,Ngondo,,,,,0,0,0,munyaruguru,none,Peasant,,60000
+1108,Gumisiriza Kiku,,,,,Uganda,,,Hunting for meat,,0,M,,Ngondo,,,,,0,0,0,munyaruguru,none,Peasant,,60000
+1109,Kantu Moses,,,,,Uganda,,,,0779503552,0,M,,Omuruti,,,,,0,0,0,Musongora,P3,Cattle Keeper,,50000
+1110,Bandera Mikidadi,,,,,Uganda,,,Illegal possesion,,0,M,,Kyagha,,,,,0,4,0,Mukonzo,none,peasant,,50000
+1111,Sulaiti Muhindo,,,,,Uganda,,,Illegal harvesting,,0,M,,Bihondo,,,,,0,0,0,Mukonzo,P3,peasant,,45000
+1112,Abraham Longwang,-,-,-,-,Uganda,,,Illegal possesion,--,0,M,,-,,,,,0,0,0,-,,-,,0
+1113,Opio Ronald,,,,,Uganda,,,Hunting for meat,0777883372,1993,M,Pabit,Got Apwoyo,,,,,1,2,0,acholi,P6,Peasant,,0
+1114,Openy Walter,,,,,Uganda,,,Hunting for meat,0783922632,1979,M,Pabit,Pabit East,,,,,0,0,0,acholi,none,Peasant,,0
+1115,Oola Patrick,,,,,Uganda,,,Hunting for meat,0782241816,1989,M,Pabit,Pabit West,,,,,2,5,0,acholi,P6,Peasant,,0
+1116,Okello Justine,,,,,Uganda,,,Hunting for meat,,1968,M,Latoro,Pajengo,,,,,0,0,0,acholi,none,Peasant,,0
+1117,Okot Moris,,,,,Uganda,,,Hunting for meat,,1985,M,Latoro,Pajengo,,,,,0,0,0,acholi,none,Peasant,,0
+1118,Ojok Robinson,,,,,Uganda,,,Hunting for meat,,1995,M,Pawatomero,Lawora,,,,,0,0,0,acholi,none,Peasant,,0
+1120,Oroma Stephen,,,,,Uganda,,,Hunting for meat,,1984,M,Ngwedo,Simba,,,,,0,0,0,Alur,none,Peasant,,0
+1119,Mwaka Denis,,,,,Uganda,,,Hunting for meat,,1995,M,Pawatomero,Lawora,,,,,0,0,0,acholi,none,Peasant,,0
+1121,Otinga Santo,,,,,Uganda,,,Illegal fishing,,1965,M,Ngwedo,Mubako,,,,,0,0,0,Alur,none,Peasant,,0
+1122,Byakatonda Magara,,,,,Uganda,,,Illegal fishing,,1979,M,,Kahendero,,,,,1,6,2,munyankole,none,fisherman,,30000
+1123,Bigwmunda Januari,,,,,Uganda,,,Illegal fishing,,1976,M,,Kahendero,,,,,1,4,1,munyankole,none,fisherman,,50000
+1124,Kanyamakomi Ibrahim,,,,,Uganda,,,Illegal fishing,,1997,M,,Kahendero,,,,,0,0,6,munyabindi,P6,fisherman,,30000
+1125,Kathwaninwa Fredric,,,,,Uganda,,,Illegal possesion,,1929,M,,Kyakitale,,,,,1,12,5,mukonzo,none,saltminer,50000,1500000
+1126,Kiiza Isiah,,,,,Uganda,,,Illegal fishing,,1945,M,,Katorogo Village,,,,,1,9,5,mukonzo,none,saltminer,farming as he earns shs 100000,300000
+1127,Bigiritima John,,,,,Uganda,,,Illegal fishing,,1970,M,,Kigabo,,,,,1,4,2,mUCHINGWE,none,fisherman,NON ON RECORD,30000
+1128,Mulinzi Possiano,,,,,Uganda,,,Illegal fishing,0773691955,1973,M,,Kyabitimbo,,,,,1,3,2,muthagwenda,none,peasant,none,40000
+1129,Muhindo Umar,,,,,Uganda,,,Illegal entry,0779953841,1975,M,,Kasasiro Kasese,,,,,2,9,2,mukonzo,none,securiko,none on record,70000
+1130,Yasini Mazinga,,,,,Uganda,,,Illegal fishing,,1964,M,,Kakoni,,,,,2,12,4,mokonzo,none,fisherman,non on record,60000
+1131,Baligiribati Gabriel Kiiza,,,,,Uganda,,,Illegal possesion,,1978,M,,Kakoni,,,,,2,12,0,mukonzo,P4,fisherman,none on record,60000
+1132,Mwesigye Sam,,,,,Uganda,,,Illegal grazing,,1995,M,,Nyakatonzi,,,,,0,0,0,musongora,S4,cattlekeeper,none on record,50000
+1133,Bahati Patrick,,,,,Uganda,,,Illegal grazing,,1994,M,,Omuruti,,,,,0,0,0,mukonzo,none,cattlekeeper,none on record,60000
+1134,Byarugaba Galvasio,,,,,Uganda,,,Hunting for meat,,1979,M,,Nyamirama,,,,,1,3,0,munyankole,P4,peasant,none on record,50000
+1135,Africano Byakatonda,,,,,Uganda,,,Hunting for meat,,1975,M,,Buhingo,,,,,1,4,2,mukiga,none,fisherman,None on record,50000
+1136,Tugume Joseph,,,,,Uganda,,,Hunting for meat,0779943147,1968,M,,Kahendero,,,,,1,5,1,mukiga,none,fisherman,none on record,50000
+1137,Barugahare Henry,,,,,Uganda,,,Hunting for meat,,1965,M,,Kagando,,,,,2,9,3,munyaruguru,P3,fisherman,none on record,50000
+1138,Ninsima Saulo,,,,,Uganda,,,Illegal grazing,,1995,M,,Omruti,,,,,0,0,0,musongora,P3,cattlekeeper,none on record,60000
+1139,Abdu Karim,,,,,Uganda,,,Illegal possesion,,1995,M,,Kyalanga,,,,,1,2,1,mufumbira,P6,peasant,NONE ON RECORD,40000
+1140,Okello Paskal,,,,,Uganda,,,Illegal fishing,,1985,M,Ngwedo,Kilyango,,,,,1,0,0,Alur,none,Peasant,,0
+1141,Turinawe Benjamin,,,,,Uganda,,,Illegal fishing,,1980,M,,Kyezonzo,,,,,1,2,0,Mukiga,P2,fisherman,,30000
+1142,Ochowun Wilson,,,,,Uganda,,,Illegal fishing,,1963,M,Ngwedo,Kilyango,,,,,2,0,0,Alur,none,Peasant,,0
+1143,Onegi Waja,,,,,Uganda,,,Illegal fishing,,1977,M,Ngwedo,Kilyango,,,,,0,0,0,Alur,none,Peasant,,0
+1144,Wanango Oguti Aka Gabon,,,,,Uganda,,,Illegal fishing,,1975,M,Ngwedo,Kilyango,,,,,0,0,0,Alur,none,Peasant,,0
+1145,Onegi Charles,,,,,Uganda,,,Illegal fishing,,1988,M,Ngwedo,Kisombere,,,,,0,0,0,Alur,none,Peasant,,0
+1146,Kankiriho Moses,,,,,Uganda,,,Illegal grazing,,1976,M,,Omuruti,,,,,0,2,1,Musongora,P6,Cattle Keeper,,50000
+1147,Baluku Mali,,,,,Uganda,,,Illegal grazing,,1975,M,,Omuruti,,,,,1,2,0,Mukonzo,P4,Cattle Keeper,,50000
+1148,Mali Dedeya,,,,,Uganda,,,Illegal grazing,,1975,M,Nakasero II,Omuruti,,,,,1,2,0,Mukonzo,P4,Cattle Keeper,none on record,50000
+1149,Okello Tonny,,,,,Uganda,,,Hunting for meat,,1970,M,Amor,Amor Ferry,,,,,2,0,0,Alur,none,Peasant,,0
+1150,Gamba Kennedy,,,,,Uganda,,,Hunting for meat,,1992,M,Amor,Jupangulu,,,,,0,0,0,Alur,none,Peasant,,0
+1166,Amumpaire Wilbroad,,,,,Uganda,UWA,10/06-2015,Illegal possesion,,1988,M,Karambi,Kagama,,,,,0,0,0,Munyankole,Vocational,,,0
+1152,Nkurunungi Nyansio Donnah,,,,,Uganda,UWA,21/09-2015,Illegal possesion,,0,M,Rwenkuba,Kiziba,,,,,0,0,0,Munyarwanda,P6,Peasant,,0
+1153,Gumisiriza Naboth,,,,,Uganda,UWA,21/09-2015,Illegal possesion,,0,M,Rwenkuba,Kiziba,,,,,0,0,0,Mukiga,P6,boda boda rier,,0
+1154,Turyatunga John,,,,,Uganda,UWA,21/09-2015,Illegal entry,,0,M,Isunga,Isunga,,,,,1,0,0,Mukiga,,Peasant,,0
+1155,Bomera Vicent,,,,,Uganda,UWA,21/09-2015,Illegal harvesting,,0,M,Kaswa,Mugusu,,,,,1,0,0,Mutooro,P1,Peasant,,0
+1156,Asaba Birungi,,,,,Uganda,UWA,21/09-2015,Illegal harvesting,,0,M,Kaswa,Mugusu,,,,,1,0,0,Mutooro,,Peasant,,0
+1157,Tukamushaba Anthony,,,,,Uganda,,,Illegal entry,,1998,M,Isunga,Nyarwina,,,,,0,0,0,Mukiga,P5,Peasant,,0
+1158,Ayebale Dinavensi,,,,,Uganda,,,Illegal entry,,0,F,Isunga,Isunga,,,,,0,0,0,Mutooro,P3,Peasant,,0
+1159,Kansiime Sarah,,,,,Uganda,,,Illegal entry,,0,F,Isunga,Isunga,,,,,0,0,0,Mutooro,P3,Peasant,,0
+1160,Busingye Aidah,,,,,Uganda,,,Illegal entry,,0,F,Isunga,Isunga,,,,,0,0,0,Mutooro,P5,Peasant,,0
+1172,Nyirarukundo Esther,,,,,Uganda,,,Illegal possesion,,2002,F,Rwenkuba,Kiziba,,,,,0,0,0,Munyarwanda,P6,Student,,0
+1161,Atuhaire John,,,,,Uganda,,,Illegal grazing,,0,M,Rurama,Rwetera,,,,,0,0,0,Mutooro,,Peasant,,0
+1162,Musobozi Stephen,,,,,Uganda,,,Illegal grazing,,0,M,Rurama,Rwetera,,,,,0,0,0,Mutooro,,Peasant,,0
+1163,Kato Pius,,,,,Uganda,UWA,14/09-2015,Illegal grazing,,0,M,Rurama,Rwetera,,,,,0,0,0,Mutooro,,Peasant,,0
+1164,Isingoma Peter,,,,,Uganda,,,Illegal grazing,,0,M,Rwenkuba,Kiziba,,,,,0,0,0,Mutooro,P2,Peasant,,0
+1165,Baguma Patrick,,,,,Uganda,UWA,21/09-2015,Illegal entry,,0,M,Busoro,Nyabisenyi Iii,,,,,0,0,0,Mutooro,,Peasant,,0
+1167,Kahwa Daniel,,,,,Uganda,UWA,21/09-2015,Illegal possesion,,1983,M,Rwiimi,Rwimi,,,,,0,0,0,Mutooro,S6,Peasant,,0
+1168,Kalisya Zabuloni,,,,,Uganda,UWA,21/09-2015,Illegal possesion,,0,M,Karugutu,Karugutu,,,,,0,0,0,Mukonzo,,Business man,,0
+1169,Matsiko Ezra,,,,,Uganda,UWA,21/09-2015,Illegal entry,,0,M,Nyabweya,Busingye,,,,,0,0,0,Mukiga,,Peasant,,0
+1170,Ntebirwe Paka,,,,,Uganda,UWA,21/09-2015,Illegal entry,,0,M,Nyabweya,Busingye,,,,,0,0,0,Mukiga,,Peasant,,0
+1173,Katushabe Maclean,,,,,Uganda,,,Illegal entry,,1990,F,Isunga,Isunga,,,,,0,0,0,Mukiga,,Peasant,,0
+1174,Tusiime Grace,,,,,Uganda,,,Illegal harvesting,,1975,F,Isunga,Isunga,,,,,0,0,0,Mutooro,,Peasant,,0
+1175,Tinkamwebalire Edward,,,,,Uganda,,,Illegal entry,,1962,M,Nyabweya,Kanyante,,,,,0,0,0,Mukiga,,Peasant,,0
+1176,Aruho Jonan,,,,,Uganda,,,Illegal grazing,,1987,M,Kibira,Kibira,,,,,0,0,0,Munyankole,P3,Peasant,,0
+1177,Mbiine Steven,,,,,Uganda,UWA,15/09-2015,Illegal grazing,,1986,M,Kibira,Kibira,,,,,0,0,0,Munyankole,P3,Peasant,,0
+1178,Tumuramye Justus,,,,,Uganda,,,Illegal entry,,1980,M,Kamwenge,Kabingo 1,,,,,0,0,0,Munyankole,P4,Peasant,,0
+1180,Tinkasiimire Julius,,,,,Uganda,UWA,15/09-2015,Hunting for meat,,1961,M,Butiiti,Kitongole,,,,,0,0,0,Mutooro,,Peasant,,0
+1181,Byaruhanga Milton,,,,,Uganda,,,Illegal entry,,1968,M,Kyabandara,Kitehurizi,,,,,1,6,0,Munyankole,,Peasant,,0
+1182,Mukasa James,,,,,Uganda,,,Illegal possesion,,1975,M,Rwenkuba,Kinyarwanda,,,,,1,7,0,Mukiga,,Peasant,,0
+1183,Kasaruhanda Obed,,,,,Uganda,,,Illegal possesion,,1968,M,Rwenkuba,Kinyarwanda,,,,,0,0,0,Mukiga,,Peasant,,0
+1185,Ofoyuru Opio,,,,,Uganda,,,Illegal entry,,1988,M,Ngwedo,Oduk,,,,,0,0,0,Alur,none,peasant,,0
+1184,Tukasingura Narris,,,,,Uganda,,,Illegal possesion,,1985,M,Rwenkuba,Kiziba,,,,,1,3,0,Mukiga,,Boda boda rider,,0
+1186,Nkabaruhira Esau,,,,,Uganda,,,Illegal possesion,,1980,M,Pawatomero,Pakuba Airfield,,,,,0,0,0,Amunyankole,none,peasant,,0
+1187,Okello Denis,,,,,Uganda,,,Illegal possesion,,0,M,Pawatomero,Pakuba Airfield,,,,,0,0,0,Acholi,none,Soldier,,0
+1188,Mushabe Mesak,,,,,Uganda,,,Illegal possesion,,0,M,Pawatomero,Pakuba Airfield,,,,,1,0,0,Amunyankole,none,Soldier,,0
+1189,Tumwebaze David,,,,,Uganda,,,Illegal possesion,,0,M,Pawatomero,Pakuba Airfield,,,,,2,0,0,Amunyankole,none,Soldier,,0
+1190,Adume Charles Yiga,,,,,Uganda,,,Illegal possesion,,0,M,Pawatomero,Pakuba Airfield,,,,,0,0,0,Alugbara,none,Soldier,,0
+1191,Swaibu Kasimu,,,,,Uganda,,,Illegal possesion,,0,M,Pawatomero,Katodio,,,,,0,0,0,Mugungu,none,Peasant,,0
+1192,Onencan Stephen,,,,,Uganda,,,Illegal fishing,,1996,M,Kigwera,Ndandamire,,,,,0,0,0,Alur,P4,peasant,,0
+1193,Ojara Oscar,,,,,Uganda,,,Illegal fishing,,1996,M,Kigwera,Ndandamire,,,,,0,0,0,Acholi,none,peasant,,0
+1194,Ojok Kennedy,,,,,Uganda,,,Illegal fishing,,1995,M,Kigwera,Ndandamire,,,,,0,0,0,,none,peasant,,0
+1195,Achuleza Simon,,,,,Uganda,,,Illegal fishing,,0,M,Kigwera,Ndandamire,,,,,1,0,0,Amugungu,none,Peasant,,0
+1196,Odong Vincent,,,,,Uganda,,,Illegal possesion,,1980,M,Latoro,Lolim,,,,,2,0,0,acholi,none,Peasant,,0
+1208,Byaruhanga Denis,,,,,Uganda,,,Illegal possesion,,1988,M,Nkongoro,Kasoga 1,,,,,1,0,0,Mukiga,,Peasant,,0
+1197,Bogere Bizimungu Phillips,,,,,Burundi,UWA,07/10-2015,Illegal entry,,1973,M,,Muruli,,,,,0,0,0,Burundian,none,Peasant,,0
+1198,Asiimwe Ben,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1976,M,Ngwedo,Mubako,,,,,1,0,0,Amugungu,none,Peasant,,0
+1199,Kamuturaki Francis,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1993,M,Baro,Port Bell,,,,,0,0,0,Mugungu,none,Peasant,,0
+1200,Waseme Innocent,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,2000,M,Baro,Port Bell,,,,,0,0,0,Amugungu,none,Peasant,,0
+1201,Ochaki William,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1969,M,Baro,Kiyaya,,,,,0,0,0,Alur,none,Peasant,,0
+1202,Owonda Edward,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1980,M,Baro,Kiyaya,,,,,0,0,0,Alur,none,Peasant,,0
+1203,Obedmot Sam,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1997,M,Baro,Kiyaya,,,,,0,0,0,Alur,none,Peasant,,0
+1204,Ocaya Stephen,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1997,M,Baro,Kiyaya,,,,,0,0,0,Alur,none,Peasant,,0
+1205,Galibawerwa James,,,,,Uganda,UWA,07/10-2015,Illegal harvesting,,1991,M,Labongo,Kidwera,,,,,0,0,0,Amunyoro,none,Peasant,,0
+1206,Okwayimungu Robert,,,,,Uganda,UWA,07/10-2015,Illegal harvesting,,1996,M,Labongo,Kihaguzi,,,,,0,0,0,Alur,none,Peasant,,0
+1207,Mugisha Robert,,,,,Uganda,UWA,07/10-2015,Illegal fishing,,1995,M,Kigwera,Katanga,,,,,0,0,0,Alur,none,Peasant,,0
+1209,Saturday Emmanuel,,,,,Uganda,,,Illegal possesion,,1988,M,Nkongoro,Kasoga 1,,,,,1,0,0,Munyankole,,Peasant,,0
+1210,Bossa Julius,,,,,Uganda,UWA,19/10-2015,Hunting for meat,,1975,M,Karwenyi,Kajumbura,,,,,0,0,0,Munyankole,,Peasant,,0
+1211,Mubangizi Prutazio,,,,,Uganda,,,Illegal entry,,1991,M,Busiriba,Kachwamakaito,,,,,1,1,0,Munyankole,S4,Peasant,,0
+1213,Bojo Emmanuel,,,,,Uganda,,,Illegal entry,,0,M,Kanara,Kanara,,,,,0,0,0,Munyankole,,Peasant,,0
+1212,Bayenda Justus,,,,,Uganda,UWA,19/10-2015,Illegal possesion,,1980,M,Butiiti,Rwakayira,,,,,3,0,0,Mukiga,,Peasant,,0
+1214,Kajungu Mariko,,,,,Uganda,,,Illegal grazing,,1988,M,,O,,,,,0,0,0,,P6,,,0
+1215,Tumusiime Justus,,,,,Uganda,UWA,02/11-2015,Hunting for meat,,1997,M,,Kijangi,,,,,1,2,0,Mugungu,none,Peasant,,0
+1216,Kagaba Sarapio,,,,,Uganda,,,Illegal entry,,1995,M,Busiriba,Kyakatoma,,,,,0,0,0,Mukiga,P5,Peasant,,0
+1217,Kagaba Sarapio,,,,,Uganda,,,Illegal entry,,1995,M,Busiriba,Kyakatoma,,,,,0,0,0,Mukiga,P2,Peasant,,0
+1218,Katuramu David,,,,,Uganda,,,Illegal entry,,1987,M,Kasenda,Kanyerire,,,,,0,0,0,Mukiga,P5,Peasant,,0
+1219,Nsabe Silas,,,,,Uganda,,,Illegal possesion,,0,M,Rwenkuba,Kiziba,,,,,1,8,0,Mukiga,,Peasant,,0
+1220,Munguacel Liberty,,,,,Uganda,UWA,19/11-2015,Hunting for meat,,1983,M,Amor,Pajao,,,,,0,0,0,Alur,none,Peasant,,0
+1221,Onencan Innocent,,,,,Uganda,UWA,19/11-2015,Hunting for meat,,1997,M,Povungu,Pajao,,,,,0,0,0,Alur,none,Peasant,,0
+1222,Dada John,,,,,Uganda,UWA,20/11-2015,Hunting for meat,,1963,M,Labongo,Bokwe,,,,,0,0,0,Lendu,none,Peasant,,0
+1223,Kabwona Ismail,,,,,Uganda,UWA,20/11-2015,Illegal harvesting,,1988,M,Labongo,Bokwe,,,,,0,0,0,Lendu,none,Peasant,,0
+1224,Bahati  Juma,,,,,Uganda,UWA,20/11-2015,Illegal harvesting,,1987,M,Labongo,Bokwe,,,,,0,0,0,,none,peasant,,0
+1225,Tumusiimwe Rogers,,,,,Uganda,UWA,20/11-2015,Illegal harvesting,,1987,M,,Kataleba,,,,,0,0,0,Mugungu,none,Peasant,,0
+1226,Okumu Hassan,,,,,Uganda,UWA,20/11-2015,Hunting for meat,,1958,M,Butiaba,Kamagongoro,,,,,0,0,0,Alur,none,Peasant,,0
+1227,Otim Joel,,,,,Uganda,UWA,20/11-2015,Hunting for meat,,1990,M,Butiaba,Kamagongoro,,,,,0,0,0,Alur,none,Peasant,,0
+1228,Magezi Moses,,,,,Uganda,UWA,20/11-2015,Hunting for meat,,1980,M,Kigwera,Kirama,,,,,0,0,0,Mugungu,none,Peasant,,0
+1229,Baluku Mali,,,,,Uganda,,,Illegal grazing,,1975,M,,,,,,,0,0,0,,none,,,0
+1230,Basaija David,,,,,Uganda,,,Illegal harvesting,,1983,M,Kiko,Kiko,,,,,0,0,0,Mutooro,,Peasant,,0
+1239,Okumu Geofrey,,,,,Tuvalu,UWA,24/11-2015,Illegal fishing,,1990,M,Ngwedo,Kasenyi,,,,,0,0,0,Alur,none,Peasant,,0
+1231,Ategeka John,,,,,Uganda,,,Illegal possesion,,1993,M,Kiko,Makobyo,,,,,1,2,0,Mutooro,P4,Peasant,,0
+1232,Twebaze Christopher,,,,,Uganda,,,Illegal possesion,,1996,M,Kiko,Makobyo,,,,,0,0,0,Mutooro,S2,Student,,0
+1233,Musinguzi Brian,,,,,Uganda,,,Illegal possesion,,1996,M,Kiko,Makobyo,,,,,1,0,0,Mutooro,,Peasant,,0
+1234,Nteziyamye Fulgence,,,,,Uganda,,,Illegal possesion,,1980,M,Kiko,Makobyo,,,,,1,0,0,Mukiga,,Peasant,,0
+1235,Nyamugera Pascal,,,,,Uganda,,,Illegal entry,,1965,M,,Kajumiro C,,,,,0,0,0,Mukiga,,Peasant,,0
+1236,Byamugisha Wilbroad,,,,,Uganda,,,Illegal entry,,1987,M,,Kajumiro C,,,,,0,0,0,Mukiga,,Peasant,,0
+1237,Nyakato Immaculate,,,,,Uganda,,,Illegal entry,,2001,F,,Kajumiro C,,,,,0,0,0,Mukiga,P6,Student,,0
+1240,Adegi Richard,,,,,Uganda,UWA,24/11-2015,Illegal fishing,,1995,M,Ngwedo,Kisombere,,,,,1,0,0,Alur,none,Peasant,,0
+1238,Tumuhimbise Christine,,,,,Uganda,,,Illegal entry,,1996,F,,Kajumiro C,,,,,0,0,0,Mukiga,,Peasant,,0
+1241,Businge Robert,,,,,Uganda,UWA,24/11-2015,Illegal fishing,,1995,M,Ngwedo,Kasenyi,,,,,0,0,0,Alur,none,Peasant,,0
+1242,Wathum James,,,,,Tuvalu,UWA,24/11-2015,Hunting for meat,,1976,M,Padel,Pazongo,,,,,0,0,0,Alur,none,Peasant,,0
+1243,Thonifua Robert,,,,,Uganda,UWA,24/11-2015,Hunting for meat,,1974,M,Padel,Tilal,,,,,0,0,0,Alur,none,Peasant,,0
+1244,Kalisa Alfred,,,,,Uganda,UWA,24/11-2015,Illegal fishing,,1965,M,Kigwera,Katodio,,,,,0,0,0,Alur,none,Peasant,,0

@@ -1,0 +1,1499 @@
+rec	Station	Crime type
+
+1	KCA-TSWR	Illegal grazing
+2	KCA-KNP	Illegal possesion
+3	KCA-KNP	Illegal possesion
+4	KCA-KNP	Hunting for meat
+5	KCA-KNP	Illegal possesion
+6	QECA-RMNP	Illegal harvesting
+7		
+8	KCA-TSWR	Illegal grazing
+9	KCA	Hunting for meat
+10	QECA-QENP	Illegal possesion
+11	LMNP	Hunting for meat
+12	KCA-TSWR	Illegal grazing
+13	KCA-TSWR	Hunting for meat
+14		
+15	KVCA-KVNP	Hunting for meat
+16	MFCA-MFNP	Illegal fishing
+17	MFCA-MFNP	Illegal entry
+19	MFCA-MFNP	Illegal entry
+20		
+21	MFCA-MFNP	Illegal entry
+22	MFCA-MFNP	Illegal entry
+23		
+24	MFCA-MFNP	Illegal entry
+25	MFCA-MFNP	Possesion of firearms
+26	MFCA-MFNP	Possesion of firearms
+27	MFCA-MFNP	Illegal entry
+28		
+29		
+30	KCA-TSWR	Illegal possesion
+31		
+32	MFCA-MFNP	Illegal entry
+33	MFCA-MFNP	Accessory to crime
+34	MFCA-MFNP	Illegal entry
+35	MFCA-MFNP	Illegal entry
+36	MFCA-MFNP	Illegal entry
+37	MFCA-MFNP	Illegal entry
+38		
+39		
+40		
+41		
+42		
+43		
+44		
+45	MFCA-MFNP	Illegal entry
+46	KCA-KNP	Illegal harvesting
+47	KCA-KNP	Illegal possesion
+48	KCA-KNP	Illegal possesion
+50	KCA-KNP	Illegal entry
+51	KCA-KNP	Illegal entry
+53	KCA-SNP	Hunting for meat
+54		
+55		
+56	KCA-SNP	Illegal possesion
+57		
+58		
+59	KCA-SNP	Illegal possesion
+60		
+61		
+62	KCA-SNP	Illegal possesion
+63		
+64	KCA-SNP	Hunting for meat
+65		
+66		
+67		
+68	MFCA-MFNP	Illegal fishing
+69	MFCA-MFNP	Illegal fishing
+70	MFCA-MFNP	Illegal fishing
+71		
+72	MFCA-MFNP	Hunting for meat
+73	MFCA-MFNP	Illegal entry
+74		
+75	MFCA-MFNP	Illegal fishing
+76		
+77		
+78		
+79	MFCA-MFNP	Hunting for meat
+80	MFCA-BWR	Illegal grazing
+81	KCA-KNP	Illegal entry
+82	KCA-KNP	Accessory to crime
+83	KCA-KNP	Illegal possesion
+84	MFCA-MFNP	Illegal entry
+85	MFCA-MFNP	Illegal entry
+86	MFCA-MFNP	Illegal fishing
+87	KCA-KNP	Hunting for meat
+88	MFCA-MFNP	Illegal fishing
+92	KCA-KNP	Illegal possesion
+93	MFCA-MFNP	Illegal fishing
+94		
+95		
+96		
+97	MFCA-MFNP	Illegal fishing
+98		
+99		
+100		
+101	HQ	Illegal possesion
+102		
+103	MFCA-MFNP	Illegal entry
+104	MFCA-MFNP	Illegal entry
+105	MFCA-MFNP	Illegal entry
+106	MFCA-MFNP	
+107		
+108	MFCA-MFNP	Illegal possesion
+109	QECA-QENP	Illegal grazing
+110		
+111	KVCA-KVNP	Hunting for meat
+112	MFCA-BWR	Illegal possesion
+113	MFCA-MFNP	Illegal entry
+114	MFCA-MFNP	Illegal possesion
+115	MFCA-MFNP	
+116	MFCA-MFNP	Ivory poaching
+117	MFCA-MFNP	Hunting for meat
+118	QECA-QENP	Illegal grazing
+119	QECA-QENP	Illegal fishing
+120		
+121	QECA-QENP	Illegal grazing
+122		
+123	QECA-QENP	Illegal grazing
+124		
+125		
+126	QECA-QENP	Illegal entry
+127	MFCA-MFNP	Illegal fishing
+128	MFCA-MFNP	Illegal fishing
+129		
+130	QECA-QENP	Illegal entry
+131		
+132	QECA-QENP	Illegal entry
+133		
+134		
+135	QECA-QENP	Illegal entry
+136	QECA-QENP	Illegal entry
+137	QECA-QENP	Illegal entry
+138	QECA-QENP	Illegal entry
+139	QECA-QENP	Illegal entry
+140	QECA-QENP	Illegal grazing
+141	QECA-QENP	
+142	MFCA-MFNP	Illegal fishing
+143		
+144		
+145	QECA-QENP	Illegal grazing
+146	QECA-QENP	Illegal harvesting
+147	QECA-QENP	Hunting for meat
+148	MFCA-MFNP	Illegal entry
+149	QECA-QENP	Illegal entry
+150	QECA-QENP	Illegal entry
+151	QECA-QENP	Illegal entry
+152		
+153	QECA-QENP	Illegal fishing
+154		
+155	QECA-QENP	Illegal fishing
+156	QECA-QENP	Illegal fishing
+157	QECA-QENP	Illegal fishing
+158	QECA-QENP	Illegal fishing
+159	QECA-QENP	Illegal fishing
+160		
+161		
+162	QECA-QENP	Illegal fishing
+163		
+164	QECA-QENP	Hunting for meat
+165	QECA-QENP	Illegal harvesting
+166	QECA-QENP	
+167		
+168	QECA-QENP	Illegal harvesting
+169	QECA-QENP	Illegal fishing
+170	QECA-QENP	Illegal possesion
+171	QECA-QENP	Illegal harvesting
+172	QECA-QENP	Illegal harvesting
+173	QECA-QENP	Illegal harvesting
+174	QECA-QENP	Illegal grazing
+175	QECA-QENP	Illegal grazing
+176	QECA-QENP	Illegal grazing
+177		Illegal possesion
+178	MFCA-MFNP	
+179		
+180	QECA-QENP	Illegal grazing
+181		
+182		
+183		
+184	QECA-QENP	Illegal harvesting
+185	QECA-QENP	Illegal harvesting
+186	QECA-QENP	Illegal harvesting
+187	QECA-QENP	Illegal fishing
+188	QECA-QENP	Illegal grazing
+189		
+190	QECA-QENP	Illegal harvesting
+191		
+192	QECA-QENP	Illegal grazing
+193	QECA-QENP	Illegal entry
+194		
+195		
+196		
+197	QECA-QENP	Illegal possesion
+198	MFCA-MFNP	Hunting for meat
+199	MFCA-MFNP	Illegal entry
+200	MFCA-MFNP	Illegal entry
+201	QECA-QENP	Illegal possesion
+202	QECA-QENP	Illegal fishing
+203	QECA-QENP	Illegal fishing
+204	QECA-QENP	Illegal entry
+206	QECA-QENP	Illegal entry
+207	QECA-QENP	Illegal entry
+208	MFCA-MFNP	
+209	MFCA-MFNP	Illegal entry
+210	MFCA-MFNP	Hunting for meat
+212	QECA-QENP	Illegal fishing
+213	MFCA-MFNP	Hunting for meat
+214	QECA-QENP	Illegal possesion
+215		
+216	MFCA-MFNP	Illegal entry
+217	MFCA-BWR	Illegal entry
+218	MFCA-MFNP	Illegal entry
+219	MFCA-MFNP	Illegal entry
+220	KCA-KNP	Illegal possesion
+221	KCA-KNP	Illegal possesion
+222	KCA-KNP	Illegal possesion
+223	KCA-KNP	Illegal possesion
+224		Possession of wildlife specimen
+225		Possession of wildlife specimen
+226		Possession of wildlife specimen
+227		Possession of wildlife specimen
+228		Possession of wildlife specimen
+229		Possession of wildlife specimen
+230		Illegal entry
+231		Illegal possession of devices
+232		Possession of illegal devices
+233		Illegal entry
+234		Illegal entry
+235		Illegal entry
+236		Illegal entry
+237		Possession of wildlife specimen
+238		Possession of wildlife specimen
+239		Possession wildlife specimen
+240		Illegal devices
+241		Neligently permiting domestic animals into awildlife protected a
+242		Illegal entry
+243		illegal entry
+244		Illegal entry
+245		Illegal entry
+246		Illegal entry
+247		Illegal entry
+248		Possession of wildlife specimen
+249		Possession of wildlife specimen
+250		Possession of wildlife specimen
+251		Illegal entry
+252		Illegal entry
+253		illegal entry
+254		illegal entry
+255		Possession of illegal devices
+256		illegal entry
+257		Illegal entry
+258		Possession of illegal devices
+259		illegal entry
+260		illega entry
+261		illegal entry
+262		Ilegal entry
+263		illegal entry
+264		Illegal entry
+265		Illegal entry
+266		Illegal entry
+267		Illegal entry
+268		Illegal entry
+269		ilolegal entry
+270		Illegal entry
+271		Illegal entry
+272		Illegal entry
+273		illegal entry
+274		illegal entry
+275		illegal entry
+276		illegal entry
+277		Illegal entry into aprotected Area
+278		Illegal entry into the protected area
+279		Negligently permitting domestic into awild life protected area
+280		Negigently permitting domestic animals into awildlife protected 
+281		illegal entry
+282		Burning the park
+283		Negligently permitting domestic animals into awildlife protected
+284		Illegal entry
+285		Illegal entry
+286		illegal entry
+287		illegal entry
+288		illegal entry
+289		Illegal entry
+290		Illegal entry
+291		Illegal entry
+292		possession of agun UG 8816-2000 WITH 116 ROUNDS
+293		possession of gun UG 8816-200 With 116
+294		possession of agun UG 8816-200,WITH 116 ROUNDS
+295		possession of illegal devices
+296		Illegal entry
+297		illegal entry
+298		illegal entry
+299		Illegal entry
+300		Possession of wildlife specimen
+301		Possession wildlife specimen
+302		possession of wildlife specimen
+303		possession of wildlife specimen
+304		Possession of specimen
+305		possession of wildlife specimen
+306		illegal entry
+307		Illegal entry
+308		illegal entry
+309		illegal entry
+310		illegal entry
+311		Illegal entry
+312		ilegal entry
+313		illegal entry
+314		Possession of illegal devices
+315		Illegal entry
+316		Illegal entry
+317		illegal entry
+318		Illegal entry
+319		illegal entry
+320		illegal entry
+321		Illegal entry
+322		Illegal entry
+323		Illegal entry
+324		Illegal entry
+325		illegaL entry
+326		illegal entry .
+327		Illegal entry
+328		Illegal entry
+329		illegal entry
+330		Illlegal devices
+331		illegal entry
+332		Illegal entry
+333		illegal entry
+334		illegal entry
+335		illegal entry
+336		ilegal entry
+337		illegal entry
+338		Illegal entry
+339		Ilegel entry
+340		Possession of wildlife specimen
+341		
+342		
+343		possession of wild life specimen
+344		Possession of wildlife specimen
+345		possession wildlife specimen
+346		illegal entry
+347		illegal entry
+348		illegal entry
+349		possession of illegal devices
+350		Illega entry
+351		Illegal entry
+352		illegal entry
+353		illegal entry
+354		possession of illegal devices
+355		Possession of illegal devices
+356		illegal entry
+357		possession of illegal devics
+358		possession of wildlife specimen
+359		Possession of illegal devices
+360		Possession of wildlife protected species
+361		Possession of wildlife protected species
+362		Negligently permitting domestic animals into awildlife protected
+363		illegal entry
+364		Negligently permitting domestic animals into awildlife protected
+365		possession of wldlife species
+366		possession of wildlife protected species
+367		illegal entry
+368		illegal entry
+369		illegal entry
+370		Illegal entry
+371		Illegal entry
+372		Illegal entry
+373		illegal entry
+374		Illegal entry
+375		illegal entry
+376		Illegal entry
+377		illegal entry
+378		Illegal entry
+379		Illegal entry
+380		Illegal entry
+381		Illegal entry into a protected area
+382		Illegal entry
+383		
+384		Illegal entry
+385		illegal entry
+386		Illegal entry
+387		illegal entry
+388		Illegal entry
+389		Illegal entry
+390		Illegal entry
+391		Illegal entry
+392		ilegal entry
+393		Illega entry
+394		Illegal entry
+395		Illegal devices
+396		Illegal entry
+397		possession of hipo meat
+398		illegal possession of hippo meat
+399		Possession of hippo meat
+400		possession of hippo meat
+401		possession of a hippo meat
+402		Possession a hippo meat
+403		Possession of a hippo meat
+404		possession of devices
+405		Illegal entry
+406		Illegal entry
+407		Illegal entry
+408		Illegal entry
+409		Possession wildlife specimen
+410		illegal entry
+411		illegal entry
+412		illegal fishing
+413		Illegal entry
+414		Illegal entry
+415		Illegal entry
+416		Illegal entry
+417		Illegal entry
+418		Illegal entry
+419		illegal entry
+420		illegal entry
+421		illegal entry
+422		Illegal entry
+423		Illegal entry
+424		Illegal entry
+425		Illegal entry
+426		Illegal entry
+427		Illegal entry
+428		Illegal entry
+429		Illegal entry
+430		Illegal entry
+431		Illegal entry
+432		Illegal entry
+433		ILLEGAL ENTRY
+434		Illegal entry
+435		Illegal entry
+436		Illegal entry
+437		illegal entry
+438		Illegal entry
+439		Illegal entry
+440		Negligently permitting domestic a nimals into a wildlife protect
+441		Illegal entry
+442		Illegal entry
+443		Illegal entry
+444		illegal entry
+445		Illegal entry
+446		
+447		IllegaI entry into the PA
+448		Illegal entry into the PA
+449		Illigal entry
+450		Possession of soecimen of protected species
+451		Possession of soecimen of protected species
+452		Possession of soecimen of protected species
+453		Illegal entry into the PA
+454		Illegal entry into the PA
+455		Illegal entry into the PA
+456		Illegal entry into the PA
+457		Illegal entry into the PA
+458		Illegal entry into the PA
+459		Illegal entry into the PA
+460		Illegal entry into the PA
+461		Illegal entry into the PA
+462		Illegal entry into the PA
+463		Illegal entry into the PA
+464		Possession of illegal specimen
+465		Possession of illegal specimen
+466		Possession of illegal specimen
+467		Illegal entry into PA
+468		Illegal entry into PA
+469		Possession of wildlife specimen
+470		Possession of wildlife species
+471		Possession of wildlife species
+472		Illegal entry into a wildlife protected area
+473		Ileegal entry into a wildlife protected area
+474		Introduction of domestic animals into a wildlife protected area
+475		Introduction of domestic animals into a wildlife protected area
+476		Negligently permitting domestic animals into a wildlife protecte
+477		Ilegalentry into a wildlife protected area
+478		Illegal entry into a wildlife protected area
+479		Illegal entry into protected area
+480		IllegaL entry
+481		Illegal entry into a protecetd area
+482		Illegal entry into a protected area
+483		Possession of wildlife protected species
+484		Possession of wildlife protected
+485		Illegal burning of wildlife protected area
+486		Illegal entry into a wildlife protected area
+487		Illegal entry into awildlife protected area
+488		Illegal entry into a wildlife Protected  area
+489		Illegal entry into aa wildlife protected area
+490		Possession of wildlife specimen
+491		Illegal possession of wildlife specimen
+492		Possession of wildlife specimen
+493		Possession of wildlife specimen
+494		Possession of wildlife protected specimen
+495		Possession of wildlife protected specimen
+496		Illegal entry into awildlife protected area
+497		Illegal entry into awildlife protected area
+498		Illegal entry into awildlife protected area
+499		Illegal entry into awildlife protected area
+500		Illegal entry into a wildlife protected area
+501		Illegal entry into awildlife protected area
+502		Illegal entry into a wildlife protected area
+503		Illegal entry into a wildlife protected area
+504		Illegal entry into awildlife protected area
+505		Negligently permitting domestic animals into awildlife protected
+506		Illegal entry into awildlife protected area
+507		Negligently permitting domestic animals into awildlife protected
+508		Illegal entry into a wildlife protected area
+509		Negligently permitting domestic animals into awildlife protected
+510		Illegal entry into a wildlife proteced area
+511		Illegal entry into awildlife protected area
+512		Illegal entry into a wildlife protected area
+513		possession of wildlife protected species
+514		Illegal entry into a wildlife proteced area
+515		Illegal entry into awildlife protected area
+516		Illegal entry into awildlife protected area
+517		Illegal entry into awildlife protected area
+518		Possession of wildlife protected species
+519		Possession of wildlife protected species
+520		Possession of wildlife protected species
+521		Possession of wildlife protecetde species
+522		Possession of wildlife protected species
+523		Possession ofwildlife protected species
+524		Illegal entry into awildlie protected area
+525		Illegal entry into awildlife protected area
+526		Illegal entyr into awildlife protected area
+527		Illegal entry into awildlife protected area
+528		Illegal entry into awildlife protected species
+529		Illegal entrty into awildlife protected area
+530		illegal  entry into a wildlife protcted area
+531		
+532		negligently permitting domestic animals into a wildlife protecte
+533		illegal entry into a wildlife protected area
+534		illegal entry into a wildlife protected area
+535		illegal entry into a wildlife protected area
+536		illegal entry into a wildlife p[rotecetd area
+537		illegal entry into a wildlife protected area
+538		Iillegal entry into a wildlife protected area
+539		illegal entry into a wildlife protected area
+540		illegal entry into a wildlife proteceted proteceted area
+541		illegal entry into awildlife protected area
+542		Illegal entry into a protected area.
+543		Illegal entry into a eildlife protected area.
+544		Illegal entry into a wildlife protected area
+545		Illegal entry
+546		Illegal entry into a wildlife protected area
+547		Illegal entry into a wildlife protected area
+548		Illegal entry into a wildlife protected area
+549		Illegal entry into a wildlife protecte area
+550		Negligently permitting domestic animals into a wildlife protecte
+551		Illegal entry into a wildlife protected area
+552		Illegal entry into a wildlife protected area
+553		Illegal entry into a wildlife  protected area
+554		I
+555		Illegal entry into a wildlife protected area
+556		Negligently permitting domestic animals into a wildlife protecte
+557		Negligently permitting domestic animals into a wildlife protject
+558		Illegal entry into a wildlife protected area
+559		Illegal entry into a wildlife protected area
+560		Illegal entry into  a wildlife protected area
+561		Illegal entry into a wildlife protected area
+562		illegal entry into a wildlife protected area
+563		Illegal entry into a wildlife protected area
+564		Illegal entry into a wildife protected area
+565		Illegal entry into a wildlife protected arae
+566		Illegal entry into a wildlife protected area
+567		Illegal entry into a wildlife protected arae
+568		Illegal entry into a wildlife protected area
+569		Illegal entry into a wildlife protected species
+570		Illegal entry into a wildlife protected area
+571		Illegal entry into a wildlife protected area
+572		Illegal entry into a wildlife protected area
+573		Illegal entry into a wildlife protected area
+574		Illegal entry into a wildlife protected area
+575		Illegal entry into a wildlife protected Area
+576		Ilegal entry into a wildlife protected Area
+577		Illegal entry into a wildlife protected Area
+578		Illegal entry into a wildlife proteceted area
+579		Illegal entry into a wildlife protected area
+580		Illegal entry into a wildlife protected area
+581		Illegal entry into a wildlife protected area
+582		Illegal entry a wildlife protected area
+583		Illegal entry into a wildlife protected area
+584		Illegal entry into awildlife protected area
+585		Possession of illegal devices capable of killing wild animals
+586		Possession of illegal devices capable of killing wild animals
+587		Illegal entry into a wildlife protyected area
+588		Illegal entry into a wildlife protected area
+589		Illegal entry into a wildlife protected area
+590		Illegal entry into a wildlife protected area
+591		Illegal entry into a wildlife protected area
+592		Illegal entry into a wildlief protected area
+593		Illegal entry into a wildlife protected area
+594		Illegal entry into a wildlife protected area
+595		Illegal entry into a wildlife protected area
+596		Illegal entry into a wildlife protected area
+597		Negligently straying in domestic animals into a wildlife protect
+598		Negligently straying in domestic animals into a wildlife protect
+599		Illegal entry into a wildlife protected area
+600		Illegal entry into a wildlife protected area
+601		Illegal entry into a wildlife protected area
+602		Illegal entry into a wildlife protected area
+603		Illegal enty into a wildlife protected area
+604		Illegal entry into a wildlife protected area
+605		Illegal entry into a wildlife protected area
+606		Illegal entry into a wildlife protected area
+607		Possession of wildlife protected species
+608		Possession wildlife protected species
+609		Possession of wildlife protected species
+610		Possession of wildlife protected species
+611		Possession of illegal devices capable of killing and disturbing 
+612		Negligently permitting domestic animals into a wildlife protecte
+613		Illegal entry into a wildlife protected area
+614		Illegal entry into a wildlife protected area
+615		Negligently straying domestic animals into a wildlife protected 
+616		Illegal entry into a wildlife protected area
+617		Illegal entry into a wildlife protected area
+618		Illegal entry into a wildlife protected area
+619		Illegal entry into a wildlife protected area
+620		Possession of wildlife protected species
+621		Possession of wildlife protected species
+622		Possession of wildlife protected species
+623		Illegal entry into a wildlife protected area
+624		Illegal entry into a wildlife protected area
+625		Hunting of wild animals
+626		Illegal entry into a wildlife protected area
+627		Illegal entry into a wildlife protected area
+628		Illegal entry into a wildlife protected area
+629		Illegal entry into a wildlife protected area
+630		Illegal entry into a wildlife protected area
+631		Illegal entry into a wildlife protected area
+632		Illegal entry into a wildlife protected area
+633		Illegal entry into a wildlife protected area
+634		Illegal entry into a wildlife protected area
+635		Illegal entry into a wildlife protected area
+636		possession of illegal devices capable of killing and disturbing 
+637		Illegal entry into a wildlife protected area
+638		Illegal entry into a wildlife protected area
+639		Illegal entry into a wildlife protecetd area
+640		Illegal entry into a wildlife protected area
+641		
+642		Illegal entry into a wildlife protected area
+643		un lawful possession of devices
+644		un lawful entry into a wildlife protected area
+645		Un lawful entry into a wildlife protected area
+646		un lawful entry into a wildlife protected area
+647		un lawful entry into a wildlife protected area
+648		Possession of wildlife protected specimen
+649		un lawful possession of wildlife protected specimen
+650		un lawful possession of wildlife protected specimen
+651		Un lawful entry into a wildlife protected area
+652		Un law ful entry into a wildlife protected area
+653		Unlawful entry into a wildlife protected area
+654		Un lawful entry into a wildlife protected arae
+655		Un lawful entry into a wildlife protected area
+656		Un lawful entry into a wildlife protected area
+657		Un lawful entry into a wildlife protected area
+658		Unlawful entry into a wildlife protected arae
+659		Un lawful entry into a wildlife protected area
+660		illegal entry into a wildlife protected area
+661		Illegal entry into a wildlife  protected area
+662		HUNTING OF WILDANIMALS
+663		possession of devices
+664		Un law ful entry into a wildlife protected area
+665		Illegal entry int a wildlife protected area
+666		Illegal entry into a wildlife protected area
+667		Illegal entry into a wildlife preotected area
+668		ILLEGAL ENTRY INTO A WILDLIFE PROTECTED AREA
+669		Illegal entry into a wildlife protected area
+670		Illegal entry into a wildlief protected area
+671		Illegal entry into a wildlife protected area
+672		Illegal entry into a wildlife protected area
+673		Negligently permitting domestic animals into a wildlife protecte
+674		Illegal entry into a wildlife protected area
+675		Illegal entry into a wildlife prtected area
+676		Illegal entry into  a wildlife protected area
+677		Illegal entry into a wildlife protected area
+678		Illegal entry into a wildlife protected area
+679		Illegal entry into a wildlife protected area
+680		Negligently permitting domestic animals into a wildlife protecte
+681		Negligently permitting domestic animals into a wildlife protecte
+682		Illegal entry into a wildlife protected area
+683		ILLEGAL ENTRY INTO A WILDLIFE PROTECTED AREA
+684		Illegal entry into a wildlife protected area
+685		Illegel entry into a wildlife protected area
+686		Illegal entry into a wildlife protected area
+687		Illegal entry into a wildlife protected area
+688		Illegal entry into a wildlife protected area
+689		Illegal entry into a wildlife protected area
+690		Illegal entry into a wildlife protected area
+691		Illegal entry into a wildlife protected area
+692		Illegal entry intoa wildlife protected area
+693		Illegal entry into a wildlife protected area
+694		Illegal entry into a wildlife protected area
+695		illegal entry into a wildlife protected area
+696		Illegal entry into a wildlife protected area
+697		Illegal entry into a wildlife protected area
+698		illegal entry into a wildlife protected area
+699		illegal entry into a wildlife protected area
+700		illegal entry into a wildlife protected area
+701		illegal entry into a wildlife protected area
+702		illegal entry into a wildlife protected area
+703		Illegal entry into a wildlife protected area
+704		Illegal entry into a wildlife protected area
+705		Illegal entry into a wildlife protected area
+706		Illegal entry into a wildlife protected area
+707		illegal entry into a wildlife protected area
+708		hunting of wild animals
+709		Illegal entry into a wildlife protected area
+710		Illegal entry into a wildlife protected area
+711		illegal entry a wildife protected area
+712		Possession of wildlife specimen
+713		Possession of wildlife specimen
+714		Possession of wildlife specimen
+715		Possession of wildlife specimen
+716		Possession of wildlife specimen
+717		Possession of wildlife specimen
+718		Illegal entry
+719		Illegal possession of devices
+720		Possession of illegal devices
+721		Illegal entry
+722		Illegal entry
+723		Illegal entry
+724		Illegal entry
+725		Possession of wildlife specimen
+726		Possession of wildlife specimen
+727		Possession wildlife specimen
+728		Illegal devices
+729		Neligently permiting domestic animals into awildlife protected a
+730		Illegal entry
+731		illegal entry
+732		Illegal entry
+733		Illegal entry
+734		Illegal entry
+735		Illegal entry
+736		Possession of wildlife specimen
+737		Possession of wildlife specimen
+738		Possession of wildlife specimen
+739		Illegal entry
+740		Illegal entry
+741		illegal entry
+742		illegal entry
+743		Possession of illegal devices
+744		illegal entry
+745		Illegal entry
+746		Possession of illegal devices
+747		illegal entry
+748		illega entry
+749		illegal entry
+750		Ilegal entry
+751		illegal entry
+752		Illegal entry
+753		Illegal entry
+754		Illegal entry
+755		Illegal entry
+756		Illegal entry
+757		ilolegal entry
+758		Illegal entry
+759		Illegal entry
+760		Illegal entry
+761		illegal entry
+762		illegal entry
+763		illegal entry
+764		illegal entry
+765		Illegal entry into aprotected Area
+766		Illegal entry into the protected area
+767		Negligently permitting domestic into awild life protected area
+768		Negigently permitting domestic animals into awildlife protected 
+769		illegal entry
+770		Burning the park
+771		Negligently permitting domestic animals into awildlife protected
+772		Illegal entry
+773		Illegal entry
+774		illegal entry
+775		illegal entry
+776		illegal entry
+777		Illegal entry
+778		Illegal entry
+779		Illegal entry
+780		possession of agun UG 8816-2000 WITH 116 ROUNDS
+781		possession of gun UG 8816-200 With 116
+782		possession of agun UG 8816-200,WITH 116 ROUNDS
+783		possession of illegal devices
+784		Illegal entry
+785		illegal entry
+786		illegal entry
+787		Illegal entry
+788		Possession of wildlife specimen
+789		Possession wildlife specimen
+790		possession of wildlife specimen
+791		possession of wildlife specimen
+792		Possession of specimen
+793		possession of wildlife specimen
+794		illegal entry
+795		Illegal entry
+796		illegal entry
+797		illegal entry
+798		illegal entry
+799		Illegal entry
+800		ilegal entry
+801		illegal entry
+802		Possession of illegal devices
+803		Illegal entry
+804		Illegal entry
+805		illegal entry
+806		Illegal entry
+807		illegal entry
+808		illegal entry
+809		Illegal entry
+810		Illegal entry
+811		Illegal entry
+812		Illegal entry
+813		illegaL entry
+814		illegal entry .
+815		Illegal entry
+816		Illegal entry
+817		illegal entry
+818		Illlegal devices
+819		illegal entry
+820		Illegal entry
+821		illegal entry
+822		illegal entry
+823		illegal entry
+824		ilegal entry
+825		illegal entry
+826		Illegal entry
+827		Ilegel entry
+828		Possession of wildlife specimen
+829		
+830		
+831		possession of wild life specimen
+832		Possession of wildlife specimen
+833		possession wildlife specimen
+834		illegal entry
+835		illegal entry
+836		illegal entry
+837		possession of illegal devices
+838		Illega entry
+839		Illegal entry
+840		illegal entry
+841		illegal entry
+842		possession of illegal devices
+843		Possession of illegal devices
+844		illegal entry
+845		possession of illegal devics
+846		possession of wildlife specimen
+847		Possession of illegal devices
+848		Possession of wildlife protected species
+849		Possession of wildlife protected species
+850		Negligently permitting domestic animals into awildlife protected
+851		illegal entry
+852		Negligently permitting domestic animals into awildlife protected
+853		possession of wldlife species
+854		possession of wildlife protected species
+855		illegal entry
+856		illegal entry
+857		illegal entry
+858		Illegal entry
+859		Illegal entry
+860		Illegal entry
+861		illegal entry
+862		Illegal entry
+863		illegal entry
+864		Illegal entry
+865		illegal entry
+866		Illegal entry
+867		Illegal entry
+868		Illegal entry
+869		Illegal entry into a protected area
+870		Illegal entry
+871		
+872		Illegal entry
+873		illegal entry
+874		Illegal entry
+875		illegal entry
+876		Illegal entry
+877		Illegal entry
+878		Illegal entry
+879		Illegal entry
+880		ilegal entry
+881		Illega entry
+882		Illegal entry
+883		Illegal devices
+884		Illegal entry
+885		possession of hipo meat
+886		illegal possession of hippo meat
+887		Possession of hippo meat
+888		possession of hippo meat
+889		possession of a hippo meat
+890		Possession a hippo meat
+891		Possession of a hippo meat
+892		possession of devices
+893		Illegal entry
+894		Illegal entry
+895		Illegal entry
+896		Illegal entry
+897		Possession wildlife specimen
+898		illegal entry
+899		illegal entry
+900		illegal fishing
+901		Illegal entry
+902		Illegal entry
+903		Illegal entry
+904		Illegal entry
+905		Illegal entry
+906		Illegal entry
+907		illegal entry
+908		illegal entry
+909		illegal entry
+910		Illegal entry
+911		Illegal entry
+912		Illegal entry
+913		Illegal entry
+914		Illegal entry
+915		Illegal entry
+916		Illegal entry
+917		Illegal entry
+918		Illegal entry
+919		Illegal entry
+920		Illegal entry
+921		ILLEGAL ENTRY
+922		Illegal entry
+923		Illegal entry
+924		Illegal entry
+925		illegal entry
+926		Illegal entry
+927		Illegal entry
+928		Negligently permitting domestic a nimals into a wildlife protect
+929		Illegal entry
+930		Illegal entry
+931		Illegal entry
+932		illegal entry
+933		Illegal entry
+934		
+935		IllegaI entry into the PA
+936		Illegal entry into the PA
+937		Illigal entry
+938		Possession of soecimen of protected species
+939		Possession of soecimen of protected species
+940		Possession of soecimen of protected species
+941		Illegal entry into the PA
+942		Illegal entry into the PA
+943		Illegal entry into the PA
+944		Illegal entry into the PA
+945		Illegal entry into the PA
+946		Illegal entry into the PA
+947		Illegal entry into the PA
+948		Illegal entry into the PA
+949		Illegal entry into the PA
+950		Illegal entry into the PA
+951		Illegal entry into the PA
+952		Possession of illegal specimen
+953		Possession of illegal specimen
+954		Possession of illegal specimen
+955		Illegal entry into PA
+956		Illegal entry into PA
+957		Possession of wildlife specimen
+958		Possession of wildlife species
+959		Possession of wildlife species
+960		Illegal entry into a wildlife protected area
+961		Ileegal entry into a wildlife protected area
+962		Introduction of domestic animals into a wildlife protected area
+963		Introduction of domestic animals into a wildlife protected area
+964		Negligently permitting domestic animals into a wildlife protecte
+965		Ilegalentry into a wildlife protected area
+966		Illegal entry into a wildlife protected area
+967		Illegal entry into protected area
+968		IllegaL entry
+969		Illegal entry into a protecetd area
+970		Illegal entry into a protected area
+971		Possession of wildlife protected species
+972		Possession of wildlife protected
+973		Illegal burning of wildlife protected area
+974		Illegal entry into a wildlife protected area
+975		Illegal entry into awildlife protected area
+976		Illegal entry into a wildlife Protected  area
+977		Illegal entry into aa wildlife protected area
+978		Possession of wildlife specimen
+979		Illegal possession of wildlife specimen
+980		Possession of wildlife specimen
+981		Possession of wildlife specimen
+982		Possession of wildlife protected specimen
+983		Possession of wildlife protected specimen
+984		Illegal entry into awildlife protected area
+985		Illegal entry into awildlife protected area
+986		Illegal entry into awildlife protected area
+987		Illegal entry into awildlife protected area
+988		Illegal entry into a wildlife protected area
+989		Illegal entry into awildlife protected area
+990		Illegal entry into a wildlife protected area
+991		Illegal entry into a wildlife protected area
+992		Illegal entry into awildlife protected area
+993		Negligently permitting domestic animals into awildlife protected
+994		Illegal entry into awildlife protected area
+995		Negligently permitting domestic animals into awildlife protected
+996		Illegal entry into a wildlife protected area
+997		Negligently permitting domestic animals into awildlife protected
+998		Illegal entry into a wildlife proteced area
+999		Illegal entry into awildlife protected area
+1000		Illegal entry into a wildlife protected area
+1001		possession of wildlife protected species
+1002		Illegal entry into a wildlife proteced area
+1003		Illegal entry into awildlife protected area
+1004		Illegal entry into awildlife protected area
+1005		Illegal entry into awildlife protected area
+1006		Possession of wildlife protected species
+1007		Possession of wildlife protected species
+1008		Possession of wildlife protected species
+1009		Possession of wildlife protecetde species
+1010		Possession of wildlife protected species
+1011		Possession ofwildlife protected species
+1012		Illegal entry into awildlie protected area
+1013		Illegal entry into awildlife protected area
+1014		Illegal entyr into awildlife protected area
+1015		Illegal entry into awildlife protected area
+1016		Illegal entry into awildlife protected species
+1017		Illegal entrty into awildlife protected area
+1018		illegal  entry into a wildlife protcted area
+1019		
+1020		negligently permitting domestic animals into a wildlife protecte
+1021		illegal entry into a wildlife protected area
+1022		illegal entry into a wildlife protected area
+1023		illegal entry into a wildlife protected area
+1024		illegal entry into a wildlife p[rotecetd area
+1025		illegal entry into a wildlife protected area
+1026		Iillegal entry into a wildlife protected area
+1027		illegal entry into a wildlife protected area
+1028		illegal entry into a wildlife proteceted proteceted area
+1029		illegal entry into awildlife protected area
+1030		Illegal entry into a protected area.
+1031		Illegal entry into a eildlife protected area.
+1032		Illegal entry into a wildlife protected area
+1033		Illegal entry
+1034		Illegal entry into a wildlife protected area
+1035		Illegal entry into a wildlife protected area
+1036		Illegal entry into a wildlife protected area
+1037		Illegal entry into a wildlife protecte area
+1038		Negligently permitting domestic animals into a wildlife protecte
+1039		Illegal entry into a wildlife protected area
+1040		Illegal entry into a wildlife protected area
+1041		Illegal entry into a wildlife  protected area
+1042		I
+1043		Illegal entry into a wildlife protected area
+1044		Negligently permitting domestic animals into a wildlife protecte
+1045		Negligently permitting domestic animals into a wildlife protject
+1046		Illegal entry into a wildlife protected area
+1047		Illegal entry into a wildlife protected area
+1048		Illegal entry into  a wildlife protected area
+1049		Illegal entry into a wildlife protected area
+1050		illegal entry into a wildlife protected area
+1051		Illegal entry into a wildlife protected area
+1052		Illegal entry into a wildife protected area
+1053		Illegal entry into a wildlife protected arae
+1054		Illegal entry into a wildlife protected area
+1055		Illegal entry into a wildlife protected arae
+1056		Illegal entry into a wildlife protected area
+1057		Illegal entry into a wildlife protected species
+1058		Illegal entry into a wildlife protected area
+1059		Illegal entry into a wildlife protected area
+1060		Illegal entry into a wildlife protected area
+1061		Illegal entry into a wildlife protected area
+1062		Illegal entry into a wildlife protected area
+1063		Illegal entry into a wildlife protected Area
+1064		Ilegal entry into a wildlife protected Area
+1065		Illegal entry into a wildlife protected Area
+1066		Illegal entry into a wildlife proteceted area
+1067		Illegal entry into a wildlife protected area
+1068		Illegal entry into a wildlife protected area
+1069		Illegal entry into a wildlife protected area
+1070		Illegal entry a wildlife protected area
+1071		Illegal entry into a wildlife protected area
+1072		Illegal entry into awildlife protected area
+1073		Possession of illegal devices capable of killing wild animals
+1074		Possession of illegal devices capable of killing wild animals
+1075		Illegal entry into a wildlife protyected area
+1076		Illegal entry into a wildlife protected area
+1077		Illegal entry into a wildlife protected area
+1078		Illegal entry into a wildlife protected area
+1079		Illegal entry into a wildlife protected area
+1080		Illegal entry into a wildlief protected area
+1081		Illegal entry into a wildlife protected area
+1082		Illegal entry into a wildlife protected area
+1083		Illegal entry into a wildlife protected area
+1084		Illegal entry into a wildlife protected area
+1085		Negligently straying in domestic animals into a wildlife protect
+1086		Negligently straying in domestic animals into a wildlife protect
+1087		Illegal entry into a wildlife protected area
+1088		Illegal entry into a wildlife protected area
+1089		Illegal entry into a wildlife protected area
+1090		Illegal entry into a wildlife protected area
+1091		Illegal enty into a wildlife protected area
+1092		Illegal entry into a wildlife protected area
+1093		Illegal entry into a wildlife protected area
+1094		Illegal entry into a wildlife protected area
+1095		Possession of wildlife protected species
+1096		Possession wildlife protected species
+1097		Possession of wildlife protected species
+1098		Possession of wildlife protected species
+1099		Possession of illegal devices capable of killing and disturbing 
+1100		Negligently permitting domestic animals into a wildlife protecte
+1101		Illegal entry into a wildlife protected area
+1102		Illegal entry into a wildlife protected area
+1103		Negligently straying domestic animals into a wildlife protected 
+1104		Illegal entry into a wildlife protected area
+1105		Illegal entry into a wildlife protected area
+1106		Illegal entry into a wildlife protected area
+1107		Illegal entry into a wildlife protected area
+1108		Possession of wildlife protected species
+1109		Possession of wildlife protected species
+1110		Possession of wildlife protected species
+1111		Illegal entry into a wildlife protected area
+1112		Illegal entry into a wildlife protected area
+1113		Hunting of wild animals
+1114		Illegal entry into a wildlife protected area
+1115		Illegal entry into a wildlife protected area
+1116		Illegal entry into a wildlife protected area
+1117		Illegal entry into a wildlife protected area
+1118		Illegal entry into a wildlife protected area
+1119		Illegal entry into a wildlife protected area
+1120		Illegal entry into a wildlife protected area
+1121		Illegal entry into a wildlife protected area
+1122		Illegal entry into a wildlife protected area
+1123		Illegal entry into a wildlife protected area
+1124		possession of illegal devices capable of killing and disturbing 
+1125		Illegal entry into a wildlife protected area
+1126		Illegal entry into a wildlife protected area
+1127		Illegal entry into a wildlife protecetd area
+1128		Illegal entry into a wildlife protected area
+1129		
+1130		Illegal entry into a wildlife protected area
+1131		un lawful possession of devices
+1132		un lawful entry into a wildlife protected area
+1133		Un lawful entry into a wildlife protected area
+1134		un lawful entry into a wildlife protected area
+1135		un lawful entry into a wildlife protected area
+1136		Possession of wildlife protected specimen
+1137		un lawful possession of wildlife protected specimen
+1138		un lawful possession of wildlife protected specimen
+1139		Un lawful entry into a wildlife protected area
+1140		Un law ful entry into a wildlife protected area
+1141		Unlawful entry into a wildlife protected area
+1142		Un lawful entry into a wildlife protected arae
+1143		Un lawful entry into a wildlife protected area
+1144		Un lawful entry into a wildlife protected area
+1145		Un lawful entry into a wildlife protected area
+1146		Unlawful entry into a wildlife protected arae
+1147		Un lawful entry into a wildlife protected area
+1148		illegal entry into a wildlife protected area
+1149		Illegal entry into a wildlife  protected area
+1150		HUNTING OF WILDANIMALS
+1151		possession of devices
+1152		Un law ful entry into a wildlife protected area
+1153		Illegal entry int a wildlife protected area
+1154		Illegal entry into a wildlife protected area
+1155		Illegal entry into a wildlife preotected area
+1156		ILLEGAL ENTRY INTO A WILDLIFE PROTECTED AREA
+1157		Illegal entry into a wildlife protected area
+1158		Illegal entry into a wildlief protected area
+1159		Illegal entry into a wildlife protected area
+1160		Illegal entry into a wildlife protected area
+1161		Negligently permitting domestic animals into a wildlife protecte
+1162		Illegal entry into a wildlife protected area
+1163		Illegal entry into a wildlife prtected area
+1164		Illegal entry into  a wildlife protected area
+1165		Illegal entry into a wildlife protected area
+1166		Illegal entry into a wildlife protected area
+1167		Illegal entry into a wildlife protected area
+1168		Negligently permitting domestic animals into a wildlife protecte
+1169		Negligently permitting domestic animals into a wildlife protecte
+1170		Illegal entry into a wildlife protected area
+1171		ILLEGAL ENTRY INTO A WILDLIFE PROTECTED AREA
+1172		Illegal entry into a wildlife protected area
+1173		Illegel entry into a wildlife protected area
+1174		Illegal entry into a wildlife protected area
+1175		Illegal entry into a wildlife protected area
+1176		Illegal entry into a wildlife protected area
+1177		Illegal entry into a wildlife protected area
+1178		Illegal entry into a wildlife protected area
+1179		Illegal entry into a wildlife protected area
+1180		Illegal entry intoa wildlife protected area
+1181		Illegal entry into a wildlife protected area
+1182		Illegal entry into a wildlife protected area
+1183		illegal entry into a wildlife protected area
+1184		Illegal entry into a wildlife protected area
+1185		Illegal entry into a wildlife protected area
+1186		illegal entry into a wildlife protected area
+1187		illegal entry into a wildlife protected area
+1188		illegal entry into a wildlife protected area
+1189		illegal entry into a wildlife protected area
+1190		illegal entry into a wildlife protected area
+1191		Illegal entry into a wildlife protected area
+1192		Illegal entry into a wildlife protected area
+1193		Illegal entry into a wildlife protected area
+1194		Illegal entry into a wildlife protected area
+1195		illegal entry into a wildlife protected area
+1196		hunting of wild animals
+1197		Illegal entry into a wildlife protected area
+1198		Illegal entry into a wildlife protected area
+1199		illegal entry a wildife protected area
+1200	MFCA	Illegal fishing
+1201		illegal entry into a wildlife protected area
+1202		illegal entry into a wildlife protected area
+1203		illegal entry into a wildlife protected area
+1204		illegal entry into a wildlife protected area
+1205		possession of wildlife specimen
+1206		Illegal entry into a wildlife protected area
+1207		Illegal entry into a wildlife protected area
+1208		Illegal entry into a wildlife protected area
+1209		Illegal entry into a wildlife protected area
+1210		Illegal entry into a wildlife protected area
+1211		Illegal entry into a wildlife protected area
+1212		UN LAWFUL POSSESSION OF DEVICES
+1213		Possession of dvices
+1214		Possession of devices
+1215		Possession of devices
+1216		Possession of devices
+1217		Un lawful entry into a wildlife protected area
+1218		
+1219		Un lawful entry into a wildlife protected area
+1220		Possession of wildlife protected specimen
+1221		Negligently permitting domestic animals into a wildlife protecte
+1222		Negligently permitting domestic a nimals into a wildlife protect
+1223		Un lawful entry into a wildlife protected area
+1224		Killing of wild animals
+1225		Illegal entry ointo a wildlife proteced area
+1226		Illegal entry into a wildlife protected area
+1227		Illegal entry into a wildlife protected area
+1228		Illegal entry into a wildlife protected area
+1229		Illegal entry into a wildlife protected area
+1230		Possession devices
+1231		Illegal entry into a wildlife protected area
+1232		Negligently permitting domestic animals into a wildlife protecte
+1233		Illegal entry into a wildlife protected area
+1234		Illegal entry into a wildlife protected area
+1235		Illlegal entry into a wildlife protected area
+1236		Illegal entry into a wildlife protected area
+1237		Illegal entry into a wildlife protected area
+1238		Illegal entry into a wildlife protected area
+1239		illegal entry into a wildlife protected area
+1240		Illegal entry into a wildlife protected area
+1241		Illegal entry into a wildlife protected area
+1242		POSSESSION OF WILDLIFE PROTECTED SPECIMEN
+1243		possession of wildlife protected specimen
+1244		Illegal entry into a wildlife protected area
+1245		illegal entry into a wildlife protected area
+1246		Un lawful entry into a wildlife protected area
+1247		Illegal entry into a wildlife protected area
+1248		Illegal entry into a wildlife protected area
+1249		Illegal entry into a wildlife protected area
+1250		Illegal entry into a wildlife protected area
+1251		Illegal entry into a wildlife protected area
+1252		Illegal entry into a wildlife protected area
+1253		Illlegal entry into a wildlife protected area
+1254		Illegal entry into a wildlife protected area
+1255		Illegal entry into a wildlife protected area
+1256		Illegal entry into a wildlife protected area
+1257		Illegal entry into a wildlife protected area
+1258		Un lawful entry into a wildlife protected Area
+1259		Un Lawful entry into a wildlife protected area
+1260		possession of devices
+1261		Un law ful entry into a wildlife protected Area
+1262		Un lawful entry into a wildlife protected area
+1263		Un lawful entry into a wildlife protected entry
+1264		Un law ful entry into a wildllife proteceted area
+1265		Un lawful entry into a wildlife protected area
+1266		Un law ful entry into a wildlife protected area
+1267		Un lawful entry into a wildlife protected Area
+1268		Un lawful entry into a wildlife protected Aera
+1269		Un lawful entry into a wildlife protected
+1270		Un lawful entry into a wildlife protected area
+1271		illegal entry into a wildlife protected area
+1272		Illegal entry into a wildlife protected area
+1273		illegal entry into a wildlife protected Area
+1274		illegal entry into a wildlife protected Arae
+1275		illegal entry into a wildlife protected area
+1276		illegal entry into a wildlife protected area
+1277		illegal entry into a wildlife protected Arae
+1278		illegal entry into a wildlife protected area
+1279		Un lawful entry into a wildlife protected area
+1280		Un lawful entry into a wildlife protected area
+1281		Un lawful entry into a wildlife protected area
+1282		Un lawful entry into a wildlife protected area
+1283		Un lawful entry into a wildlife protected area
+1284		Un lawfull entry into a wildlife protected area
+1285		Un lawful entry into a wildlife protected area
+1286		Un lawful entry into a wildlife protected area
+1287		Un l;awful entry into a wildlife protected area
+1288		Un lawful entry into a wildlife protected area
+1289		Un law ful entry into a wildlife protected area
+1290		Un lawful possession of devices capable of killing and disturbin
+1291		Un lawfull entry into a wildlife protected area
+1292		Un lawfull entry into a wildlife protected area
+1293		Un lawful entry into a wildlife protected area
+1294		Negligently permitting domestic animals into a wildlife protecte
+1295		un lawful entry into a wildlife protected carea
+1296		Un lawful entry into a wildlife protected area
+1297		Un lawful entry into a wildlife protected area
+1298		Un lawful entry into a wildlife protected area
+1299		Un lawful entry into a wildlife protected area
+1300		Un lawful entry into a wildlife protected area
+1301		Un lawful entry into a wildlife protected area
+1302		Possession of wildlife protected specimen
+1303		Possession of wildife protected specimen
+1304		Possession of wildlife protected specimen
+1305		Possession of wildlife protected specimen
+1306		Illegal entry into a wildlife protected area
+1307		Illegal entry into a wildlife protected area
+1308		Negligently permitting domestic animals into a wildlife protecte
+1309		Illegal entry into a wildlife into a wildlife protected
+1310		Illegal entry into a wildlife protected area
+1311		Negligently permitting domestic animals into a wildlife protecte
+1312		Illegal entry into a wildlife protected area
+1313		Negligently permitting domestic animals into a wildlife protecte
+1314		Negligently permitting domestic animals into a wildlife protecte
+1315		Illegal entry into a wildlife protected area
+1316		Illegal entry into a widlife protected area
+1317		Illegal entry into a wildlife protected area
+1318		Illegal entry into a wildlife protected area
+1319		Illegal entry into a wildlife protected area
+1320		Illegal ntry into a wildlife protectyed area
+1321		Illegal entry into a wildlife protected area
+1322		Illegal entry into a wildlife protected area
+1323		ILLEGAL ENTRY INTO A WILDLIFE PROTECTED AREA
+1324		Illegal entry into Awildlife protected Area
+1325		Illegal entry into a wildlife protected Area
+1326		Illegal entry into a wildlife protected Area
+1327		Possession of specimen
+1328		Possession of wildlife specimen
+1329		Illegal entry into a wildlife protected area
+1330		Illegal entry into a wildlife protected Area
+1331		Illegal entry into A wildlife protected Area
+1332		Illegal entry into a wildlife protected area
+1333		Negligently Permitting Domestic animals into A wildlife Protecte
+1334		Negligently permitting domestic animals into A wildlife protecte
+1335		Negligently permitting domestic animals into A Wildlife Protecte
+1336		Illegal entry into a wildlife protected Area
+1337		Possession of devices capable of killing and disturbing wildslif
+1338		Illegal entry into a wildlife protected area
+1339		Illegal entry into A wildlife protected area
+1340		Illegal entry into Awildlife protected Area
+1341		Illegal entry into Awildlife Protected Arae
+1342		Illegal entry into a wildlife protected Area
+1343		Illegal entry into Awildlife Protected Area
+1344		Illegal entry into aAwildlife Protected Area
+1345		Illegal entry into A wildlife Protected Area
+1346		Illegal entry into A wildlife Protected Area
+1347		Illegal entry into Awildlife Protected Area
+1348		Illegal entry into A wildlife Protected Arae
+1349		Illegal entry into A Wildlife protected Area
+1350		CONSPIRANCY
+1351		Illegal entry into a wildlife protected area
+1352		Illegal entry into a wildlife protected area
+1353		Illegal entry into A WILDLIFE PROTCETED ARAE
+1354		Negligently permitting Domestic animals into A wildlife protecet
+1355		Illegal entry into A wildlife protected area
+1356		Illegal entry into A wildlife protected area
+1357		Illegal entry into A wildlife protected area
+1358		Illegal entry into A wildlife protected area
+1359		Illegal entry into A wildlife protected area
+1360		Illegal entry into A wildlife protected Area
+1361		Illegal entry into Awildlife protected Area
+1362		Illegal entry into A wildife protected Area
+1363		Illegal entry into A wildlife protected Area
+1364		Illegal entry into A wildlife protected Area
+1365		Illegal entry into A wildlife protected Area
+1366		Illegal into A wildlife protected Area
+1367		Illegal entry into A wildlife proteceted Area
+1368		Illega entry into A wildlife protceted Area
+1369		Illegal entry into A wildlife protected Area
+1370		Negligently permitting Domestic animals into A wildlife protecte
+1371		Negligently permitting domestic animals into A wildlife protecte
+1372		Illegal entry into A widlife Protected
+1373		Illegal entry into A wildlife protected area
+1374		Illegal entry into A wildlife protected area
+1375		Illegal entry into A wildlife protected area
+1376		possession of wildlife specimen
+1377		Illegal entry into A wildlife protected area
+1378		Illegal entry into A wildlife protected area
+1379		Illegal entry into A widlief protected area
+1380		Negligently permitting domestic animals into A wildlife protecte
+1381		Illegal entry into A wildlife protected area
+1382		Illegal entry into A WIDLIFE PROTECTED AREA
+1383		POSSESSION OF DEVICES
+1384		Possession of illegal devices
+1385		Illegal entry into A wildlife Protected Area
+1386		Illegal entry into A wildlife protected area
+1387		Illegal entry into A wildlife protected area
+1388		Negligently permitting domestic animals into A wildlife protecte
+1389		Illegal entry into A wildlife protected area
+1390		Negligently permitting domestic animals into A wildlife protecte
+1391		Illegal entry into A wildlife protected area
+1392		Illegal entry into A wildlife protected area
+1393		Illegal entry into A wildlife protected area
+1394		Illegal entry into A wildlife protected area
+1395		Illegal entry ninto A wildlife protected area
+1396		Illegal entry into A wildlife protected area
+1397		Illegal entry into A wildlife protected area
+1398		Illegal entry into A wildlife protceted area
+1399		Illegal entry into A wilfe protected area
+1400		Illegal entry into A wildlife protected area
+1401		Illegal entry into A wildlife proteceted area
+1402		Illegal entry into A wildlife protected area
+1403		Illegal entry into A wildlife protected
+1404		Illegal entry into A wildlife protected area
+1405		Illegal entry into A wildlife protected area
+1406		Illegal entry into Awildlife protected area
+1407		Illegal entry into A wildlife protected area
+1408		Illegal entry into A wildlife protected area
+1409		Illegal entry into A wildlief protected area
+1410		Illegal entry into Wildlife Protected area
+1411		Illegal entry into WILDLIFE PROTECTED AREA
+1412		Illegal entry into wildlife protected area
+1413		Illegal entry into a wildlife protceted area
+1414		Illegal entry int a wildlife protected area
+1415		Illegal entry into a wildlife protected area
+1416		Illegal entry into a wildlife protected area
+1417		Illegal entry into a wildlife protected area
+1418		Illegal entry into a wildlife protected area
+1419		Illegal entry into a wildlife protected area
+1420	KCA-KNP	Illegal harvesting
+1421	KCA-KNP	Illegal possesion
+1422	KCA-KNP	Illegal grazing
+1423	KCA-KNP	Illegal grazing
+1424	KCA	Illegal entry
+1425	KCA	Illegal possesion
+1426	KCA-KNP	Illegal grazing
+1427	KCA-KNP	Illegal entry
+1428	KCA	Illegal grazing
+1429	KCA	Hunting for meat
+1430	KCA	Illegal possesion
+1431	MFCA-MFNP	Illegal entry
+1432	MFCA-MFNP	Illegal fishing
+1433	QECA-QENP	Illegal entry
+1434	QECA-QENP	Hunting for meat
+1435	QECA-QENP	Illegal harvesting
+1436	QECA-QENP	Illegal harvesting
+1437	QECA-QENP	Illegal harvesting
+1438	QECA-QENP	Illegal fishing
+1439	QECA-QENP	Illegal grazing
+1440	QECA-QENP	Illegal grazing
+1441	QECA-QENP	Hunting for meat
+1442	QECA-QENP	Illegal fishing
+1443	QECA-QENP	Illegal fishing
+1444	QECA-QENP	Illegal fishing
+1445	QECA-QENP	Illegal entry
+1446	QECA-QENP	Illegal fishing
+1447	QECA-QENP	Illegal fishing
+1448	QECA-QENP	Illegal fishing
+1449	QECA-QENP	Illegal fishing
+1450	QECA-QENP	Illegal fishing
+1451	QECA-QENP	Illegal fishing
+1452	QECA-QENP	Illegal harvesting
+1453	QECA-QENP	Illegal harvesting
+1454	QECA-QENP	Illegal harvesting
+1455	QECA-QENP	Illegal harvesting
+1456	QECA-QENP	Illegal harvesting
+1457	QECA-QENP	Illegal harvesting
+1458	QECA-QENP	Illegal harvesting
+1459	QECA-QENP	Illegal harvesting
+1460	QECA-QENP	Illegal possesion
+1461	QECA-QENP	Illegal possesion
+1462	QECA-QENP	Illegal possesion
+1463	QECA-QENP	Illegal entry
+1464	QECA-QENP	Hunting for meat
+1465	QECA-QENP	Hunting for meat
+1466	QECA-QENP	Illegal fishing
+1467	QECA-QENP	Illegal fishing
+1468	QECA-QENP	Illegal fishing
+1469	QECA-QENP	Illegal possesion
+1470	QECA-QENP	Illegal possesion
+1471	QECA-QENP	Illegal possesion
+1472	QECA-QENP	Illegal fishing
+1473	QECA-QENP	Hunting for meat
+1474	QECA-QENP	Hunting for meat
+1475	QECA-QENP	Illegal possesion
+1476	QECA-QENP	Illegal possesion
+1477	QECA-QENP	Illegal grazing
+1478	QECA-QENP	Illegal fishing
+1479	QECA-QENP	Illegal fishing
+1480	QECA-QENP	Illegal fishing
+1481	QECA-QENP	Illegal grazing
+1482	QECA-QENP	Hunting for meat
+1483	QECA-QENP	Illegal harvesting
+1484	QECA-QENP	Illegal harvesting
+1485	QECA-QENP	Illegal harvesting
+1486	QECA-QENP	Hunting for meat
+1487	QECA-QENP	Illegal harvesting
+1488	QECA-QENP	Illegal harvesting
+1489	QECA-QENP	Illegal harvesting
+1490	QECA-QENP	Illegal harvesting
+1491	QECA-QENP	Illegal possesion
+1492	QECA-QENP	Hunting for meat
+1493	QECA-QENP	Hunting for meat
+1494	QECA-QENP	Hunting for meat
+1495	QECA-QENP	Hunting for meat
+1496	QECA-QENP	Hunting for meat
+1497	BMCA-BINP	Hunting for meat
+1498	KCA-KNP	Illegal entry
+1499	MFCA-MFNP	Hunting for meat
+1500	MFCA-MFNP	Illegal fishing
+1501	MFCA-MFNP	Illegal grazing
+1502	MFCA-MFNP	Illegal fishing
+1503	MFCA-MFNP	Illegal fishing
+1504	QECA-QENP	Illegal grazing
+1505	QECA-QENP	Illegal possesion

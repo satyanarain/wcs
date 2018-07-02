@@ -1,0 +1,16 @@
+rec,UWA Case ID,COURT case no.,Crime type,Start date,Finalized,UWA prosecutor,State prosecutor,Judicial Officer
+,,,,,,,,,Name,Crime
+,,,,,,,,,,,UWA Case ID,Court Date, Court,Verdict,Specify,qty,Units,Appealed
+
+1,KCA-TSWR-4-2014-05-08-1,,Illegal grazing,16/05-2014,16/05-2014,Peter Ewau,,Mulindwa
+,,,,,,,,,Musole Eria,Illegal grazing
+,,,,,,,,,Kayumba Geofrey,Illegal grazing
+,,,,,,,,,,,KCA-TSWR-4-2014-05-08-1,16/05-2014,,,,0,,
+2,KCA-KNP-10-2014-05-10-1,CRB I29/2014,Hunting for meat,14/05-2014,0,,,
+,,,,,,,,,Kadenge Wilson,
+,,,,,,,,,,,KCA-KNP-10-2014-05-10-1,14/05-2014,Kasese,Pending,denied 2 charges and is remanded awaiting witnes,0,,
+8,MFCA-MFNP-49-2014-05-22-,MSD-352/14,Illegal entry,28/05-2014,0,Ndeke Keffa Chadiha,Ndeke Keffa Chadiha,Kumakech Francis
+,,,,,,,,,Kaga Alfred,Illegal entry
+,,,,,,,,,,,MFCA-MFNP-49-2014-05-22-,28/05-2014,Masindi Court,Pending,,0,,
+,,,,,,,,,Owachgiu Alfred,Illegal entry
+,,,,,,,,,,,MFCA-MFNP-49-2014-05-22-,28/05-2014,Masindi Court,Pending,,0,,

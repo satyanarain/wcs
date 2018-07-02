@@ -1,0 +1,1072 @@
+Table: suspects
+Record ID: 235
+
+Deleted by: 17  On 1/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 30/9-2014 16:20
+<br>[SUSPECT_NAME] Name = Twine Jackson
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = UG
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = Illegal fishing
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 1996
+<br>[GENDER] Gnd = M
+<br>[PARISH] Parish = 5149
+<br>[LC1_NAME] Village (LCI) = Katwe
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = fisherman
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 205
+
+Deleted by: 17  On 1/10-2014
+
+Record content:
+[REGISTERED]  = 1/10-2014 17:3
+<br>[UWA_CASEID] UWA Arrest ID = QECA-QENP-17-2014-10-01-
+<br>[POLICE_CASEID] POLICE Case ID = 
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = 
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = 
+<br>[OUTPOST_NAME] Outpost name = 
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = 
+<br>[DETECTION] Detection = 
+<br>[OFFENCE] Crime type = 
+<br>[OFFENCE_LOCATION] Offence Loc. = 
+<br>[MOTIVATION] Motivation = 
+<br>
+ --------------------------------------------
+
+Table: offenderstable
+Record ID: 155
+
+Deleted by: 17  On 1/10-2014
+
+Record content:
+[UWA_CASEID] UWA Arrest ID = QECA-QENP-17-2014-10-01-
+<br>[OFFENDER] Offender = 0
+<br>[PARISH] Parish = 0
+<br>[HOME_LC1_NAME] Village (LC1) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[ACTION] Action taken = 
+<br>[INFORMANT] Informant = 
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 35
+
+Deleted by: 1  On 2/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 11/6-2014 10:26
+<br>[SUSPECT_NAME] Name = Baluku Sem Kabinga
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = UG
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = M
+<br>[PARISH] Parish = 10
+<br>[LC1_NAME] Village (LCI) = Mbata Village
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 61
+
+Deleted by: 1  On 2/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 27/6-2014 10:14
+<br>[SUSPECT_NAME] Name = Muthanuka Apolo
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 62
+
+Deleted by: 1  On 2/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 27/6-2014 10:22
+<br>[SUSPECT_NAME] Name = Muthanuka Apolo
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 63
+
+Deleted by: 1  On 2/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 27/6-2014 11:51
+<br>[SUSPECT_NAME] Name = Muthanuka Apolo
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 98
+
+Deleted by: 1  On 2/10-2014
+
+Record content:
+[REGISTERED] Record first entered = 21/7-2014 11:26
+<br>[SUSPECT_NAME] Name = Dhogwu Jenesio
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 211
+
+Deleted by: 50  On 10/10-2014
+
+Record content:
+[REGISTERED]  = 2/10-2014 11:50
+<br>[UWA_CASEID] UWA Arrest ID = MFCA-MFNP-50-2014-10-02-
+<br>[POLICE_CASEID] POLICE Case ID = 
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = 
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = 
+<br>[OUTPOST_NAME] Outpost name = 
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = 
+<br>[DETECTION] Detection = 
+<br>[OFFENCE] Crime type = 
+<br>[OFFENCE_LOCATION] Offence Loc. = 
+<br>[MOTIVATION] Motivation = 
+<br>
+ --------------------------------------------
+
+Table: evidencetable
+Record ID: 215
+
+Deleted by: 50  On 10/10-2014
+
+Record content:
+[EVIDENCE] Item / evidence = Machetes
+<br>[SPECIES] Species = 
+<br>[LABEL] Serial / Spec. = 
+<br>[QTY] qty = 0
+<br>[EST_VALUE] Value = 0
+<br>[UNIT] Units = No
+<br>[EVIDENCE_NO] Evidence No. = MFCA-MFNP-50-2014-10-10-
+<br>[STATUS] Status = Impounded
+<br>[LOCATION] Location = 
+<br>
+ --------------------------------------------
+
+Table: verdictstable
+Record ID: 54
+
+Deleted by: 10  On 26/11-2014
+
+Record content:
+[UWA_CASEID] UWA Case ID = KCA-KNP-10-2014-07-09-1
+<br>[COURT_DATE] Court Date = 
+<br>[COURT_NAME]  Court = Fort Portal Court
+<br>[VERDICT] Verdict = Fined
+<br>[SPEC] Specify = 1,000,000
+<br>[QTY] qty = 0
+<br>[UNIT] Units = UGX
+<br>[APPEALED] Appealed = 
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 159
+
+Deleted by: 1  On 3/2-2015
+
+Record content:
+[REGISTERED] Record first entered = 10/9-2014 16:25
+<br>[SUSPECT_NAME] Name = Barugahare Selvest
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 160
+
+Deleted by: 1  On 3/2-2015
+
+Record content:
+[REGISTERED] Record first entered = 10/9-2014 16:26
+<br>[SUSPECT_NAME] Name = Barugahare Selvest
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 161
+
+Deleted by: 1  On 3/2-2015
+
+Record content:
+[REGISTERED] Record first entered = 10/9-2014 16:26
+<br>[SUSPECT_NAME] Name = Barugahare Selvest
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 162
+
+Deleted by: 1  On 3/2-2015
+
+Record content:
+[REGISTERED] Record first entered = 10/9-2014 16:26
+<br>[SUSPECT_NAME] Name = Barugahare Selvest
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 174
+
+Deleted by: 1  On 3/2-2015
+
+Record content:
+[REGISTERED] Record first entered = 12/9-2014 15:0
+<br>[SUSPECT_NAME] Name = Dedie Mali
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: users
+Record ID: 58
+
+Deleted by: 0  On 11/3-2015
+
+Record content:
+[REAL_NAME] Formal name = Testerton
+<br>[USERNAME] Username = test
+<br>[PASSWORD] Password = test
+<br>[ENTITY] Unit = HQ
+<br>[ROLE] Role = HQ REP
+<br>[REGISTERED] Registered = 11/3-2015 8:31
+<br>[LAST_ACTIVITY] Last activity = 0
+<br>[LAST_LOGIN] Last login = 0
+<br>[NUMSEPARATORS] Sep. = -.
+<br>[DATEFORMAT] Date = 
+<br>[TIMEFORMAT] Time = H:i
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 89
+
+Deleted by: 10  On 24/3-2015
+
+Record content:
+[REGISTERED]  = 16/7-2014 12:9
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2014-07-16-2
+<br>[POLICE_CASEID] POLICE Case ID = 
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = 
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = 
+<br>[OUTPOST_NAME] Outpost name = 
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = 
+<br>[DETECTION] Detection = 
+<br>[OFFENCE] Crime type = 
+<br>[OFFENCE_LOCATION] Offence Loc. = 
+<br>[MOTIVATION] Motivation = 
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 90
+
+Deleted by: 10  On 24/3-2015
+
+Record content:
+[REGISTERED]  = 16/7-2014 12:9
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2014-07-16-3
+<br>[POLICE_CASEID] POLICE Case ID = 
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = 
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = 
+<br>[OUTPOST_NAME] Outpost name = 
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = 
+<br>[DETECTION] Detection = 
+<br>[OFFENCE] Crime type = 
+<br>[OFFENCE_LOCATION] Offence Loc. = 
+<br>[MOTIVATION] Motivation = 
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 91
+
+Deleted by: 10  On 24/3-2015
+
+Record content:
+[REGISTERED]  = 16/7-2014 12:24
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2014-07-16-4
+<br>[POLICE_CASEID] POLICE Case ID = 
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = 
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = 
+<br>[OUTPOST_NAME] Outpost name = 
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = 
+<br>[DETECTION] Detection = 
+<br>[OFFENCE] Crime type = 
+<br>[OFFENCE_LOCATION] Offence Loc. = 
+<br>[MOTIVATION] Motivation = 
+<br>
+ --------------------------------------------
+
+Table: defendantstable
+Record ID: 4
+<BR>
+Deleted by: 10  On 27/3-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[DEFENDANT] Name = 4
+<br>[CRIME] Crime = Illegal possesion
+<br>
+ --------------------------------------------
+
+Table: cases
+Record ID: 1113
+<BR>
+Deleted by: 10  On 20/4-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED]  = 20/4-2015 10:9
+<br>[UWA_CASEID] UWA Case ID = KCA-KNP-10-2015-04-20-1
+<br>[POLICE_CASEID] COURT case no. = CO-464/2014
+<br>[CRIME_TYPE] Crime type = Illegal possesion
+<br>[COURTDATE] Start date = 
+<br>[ENDEDDATE] Finalized = 
+<br>[UWA_PROSECUTOR] UWA prosecutor = Ngene Rueben
+<br>[STATE_PROSECUTOR] State prosecutor = 
+<br>[DEFENCE_LAWYER] Defense lawyer = 
+<br>[MAGISTRATE] Judicial Officer = 
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 1572
+<BR>
+Deleted by: 10  On 20/7-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED]  = 20/7-2015 9:15
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-07-20-3
+<br>[POLICE_CASEID] POLICE Case ID = SD REF: 05/12/07/2015
+<br>[PARTICIPANTS] Participants = 
+<br>[OFFICER_NAME] Arresting officer = Noguniwe Francis
+<br>[ARRESTDATE] Date = 
+<br>[ARRESTTIME] Time = 
+<br>[OUTPOST] Station = KCA-KNP
+<br>[OUTPOST_NAME] Outpost name = Sebitoli
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = Sebitoli
+<br>[DETECTION] Detection = Ambush patrol based on intelligence
+<br>[OFFENCE] Crime type = Illegal entry
+<br>[OFFENCE_LOCATION] Offence Loc. = KCA-KNP
+<br>[MOTIVATION] Motivation = Monetary
+<br>
+ --------------------------------------------
+
+Table: offenderstable
+Record ID: 1531
+<BR>
+Deleted by: 10  On 14/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-09-14-9
+<br>[OFFENDER] Offender = 0
+<br>[PARISH] Parish = 0
+<br>[HOME_LC1_NAME] Village (LC1) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[ACTION] Action taken = 
+<br>[INFORMANT] Informant = 
+<br>
+ --------------------------------------------
+
+Table: offenderstable
+Record ID: 1530
+<BR>
+Deleted by: 10  On 14/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-09-14-9
+<br>[OFFENDER] Offender = 0
+<br>[PARISH] Parish = 0
+<br>[HOME_LC1_NAME] Village (LC1) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[ACTION] Action taken = 
+<br>[INFORMANT] Informant = 
+<br>
+ --------------------------------------------
+
+Table: offenderstable
+Record ID: 1534
+<BR>
+Deleted by: 10  On 14/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-09-14-11
+<br>[OFFENDER] Offender = 0
+<br>[PARISH] Parish = 0
+<br>[HOME_LC1_NAME] Village (LC1) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[ACTION] Action taken = 
+<br>[INFORMANT] Informant = 
+<br>
+ --------------------------------------------
+
+Table: evidencetable
+Record ID: 1704
+<BR>
+Deleted by: 10  On 14/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[EVIDENCE] Item / evidence = 
+<br>[SPECIES] Species = 
+<br>[LABEL] Serial / Spec. = 
+<br>[QTY] qty = 0
+<br>[EST_VALUE] Value = 0
+<br>[UNIT] Units = 
+<br>[EVIDENCE_NO] Evidence No. = KCA-KNP-10-2015-09-14-13-3
+<br>[STATUS] Status = 
+<br>[LOCATION] Location = 
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 1641
+<BR>
+Deleted by: 10  On 14/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED]  = 14/9-2015 17:51
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-09-14-13
+<br>[POLICE_CASEID] POLICE Case ID = CRB 333/2015
+<br>[PARTICIPANTS] Participants = Police/UWA
+<br>[OFFICER_NAME] Arresting officer = Africa Moses
+<br>[ARRESTDATE] Date = 27/8-2015 12:0
+<br>[ARRESTTIME] Time = 0710
+<br>[OUTPOST] Station = KCA-KNP
+<br>[OUTPOST_NAME] Outpost name = Isunga
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = Kahungye-bishozi Road
+<br>[DETECTION] Detection = Ambush patrol based on intelligence
+<br>[OFFENCE] Crime type = Illegal possesion
+<br>[OFFENCE_LOCATION] Offence Loc. = KCA-KNP
+<br>[MOTIVATION] Motivation = Monetary
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 1179
+<BR>
+Deleted by: 10  On 15/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 15/9-2015 8:34
+<br>[SUSPECT_NAME] Name = Tinkasiimire Julius
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = UG
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = Hunting for meat
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 1961
+<br>[GENDER] Gnd = M
+<br>[PARISH] Parish = 2212
+<br>[LC1_NAME] Village (LCI) = Kitongole
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = Munyankole
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 1171
+<BR>
+Deleted by: 10  On 21/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 14/9-2015 17:11
+<br>[SUSPECT_NAME] Name = Ntebirwe Paka
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = UG
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = Illegal harvesting
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = M
+<br>[PARISH] Parish = 2022
+<br>[LC1_NAME] Village (LCI) = Busingye
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = Mukiga
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = Peasant
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 103
+<BR>
+Deleted by: 10  On 21/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 29/7-2014 16:21
+<br>[SUSPECT_NAME] Name = Alara Denis
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 104
+<BR>
+Deleted by: 10  On 21/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 29/7-2014 16:21
+<br>[SUSPECT_NAME] Name = Alara Denis
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 107
+<BR>
+Deleted by: 10  On 21/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 30/7-2014 8:46
+<br>[SUSPECT_NAME] Name = Cpl Oyunguru Fred
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: suspects
+Record ID: 112
+<BR>
+Deleted by: 10  On 21/9-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED] Record first entered = 30/7-2014 16:15
+<br>[SUSPECT_NAME] Name = Arua John Kenndy
+<br>[SUSPECT_ID] ID = 
+<br>[SUSPECT_PASSPORT_NO] Passport No. = 
+<br>[SUSPECT_DR_LICENCE] Driving License No. = 
+<br>[SUSPECT_VOTERS_CARD] Voters card No. = 
+<br>[SUSPECT_NATIONALITY] Nationality = 
+<br>[WANTED] Wanted = 
+<br>[WANTED_SINCE] W-date = 0
+<br>[OFFENCE] Offence = 
+<br>[TEL] Tel. = 
+<br>[YOB] YOB = 0
+<br>[GENDER] Gnd = 
+<br>[PARISH] Parish = 0
+<br>[LC1_NAME] Village (LCI) = 
+<br>[HOME_LAT] Home Lat. = 
+<br>[HOME_LON] Home Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[WIVES] Wives = 0
+<br>[CHILDREN] Chld. = 0
+<br>[OTHER_DEPENDANTS] Depnd. = 0
+<br>[ETHNICITY] Ethncity = 
+<br>[EDUCATION] Education = 
+<br>[OCCUPATION] Occupation = 
+<br>[OTHER_MEANS] Other means of income = 
+<br>[MONTHLY_INCOME] Monthly income (UGX) = 0
+<br>
+ --------------------------------------------
+
+Table: verdictstable
+Record ID: 5126
+<BR>
+Deleted by: 10  On 19/10-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[UWA_CASEID] UWA Case ID = KCA-KNP-10-2015-10-19-1
+<br>[COURT_DATE] Court Date = 16/10-2015 12:0
+<br>[COURT_NAME]  Court = Fort Portal Court
+<br>[VERDICT] Verdict = Fined
+<br>[SPEC] Specify = fined 600000 thousand
+<br>[QTY] qty = 1
+<br>[UNIT] Units = UGX
+<br>[APPEALED] Appealed = 
+<br>
+ --------------------------------------------
+
+Table: arrests
+Record ID: 1659
+<BR>
+Deleted by: 10  On 16/11-2015
+<BR>
+From: www.uwawildlifecrime.net
+<BR>
+Record content:
+<BR>
+[REGISTERED]  = 10/11-2015 11:56
+<br>[UWA_CASEID] UWA Arrest ID = KCA-KNP-10-2015-11-10-1
+<br>[POLICE_CASEID] POLICE Case ID = CRB 449/2015
+<br>[PARTICIPANTS] Participants = UWA
+<br>[OFFICER_NAME] Arresting officer = Amanyire Wilson
+<br>[ARRESTDATE] Date = 4/11-2015 12:0
+<br>[ARRESTTIME] Time = 1830
+<br>[OUTPOST] Station = KCA-KNP
+<br>[OUTPOST_NAME] Outpost name = Isunga
+<br>[LOCATION_LAT] Location Lat. = 
+<br>[LOCATION_LON] Location Lon. = 
+<br>[UTM_Z] UTMz = 
+<br>[DATUM] Datum = 
+<br>[LOCATION_NAME] Location name = Kyakatoma
+<br>[DETECTION] Detection = Routine patrol by rangers
+<br>[OFFENCE] Crime type = Illegal entry
+<br>[OFFENCE_LOCATION] Offence Loc. = KCA-KNP
+<br>[MOTIVATION] Motivation = Cultural
+<br>
+ --------------------------------------------
+
