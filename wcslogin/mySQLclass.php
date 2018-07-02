@@ -13,8 +13,8 @@ class mySQLclass {
 
    function __construct() 
    { if (getenv('SERVER_ADDR') != "127.0.0.1")
-        { $this->sql_user = "opianfpe_wcs";
-           $this->sql_password = "wcspass@123";
+        { $this->sql_user = "root";
+           $this->sql_password = "root@1234";
            $this->sql_database = "opianfpe_wcsportal";
         }
       mysql_connect ($this->sql_host, $this->sql_user, $this->sql_password);
